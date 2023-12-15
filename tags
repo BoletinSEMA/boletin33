@@ -1,0 +1,1333 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/rrgalvan/sync/Investigación/Varios/Boletin-SEMA/boletin33/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	//
+#TBL-5-1	boletin33.css	/^#TBL-5-1{border-right:1px solid black;}$/;"	i
+.Canvas	boletin32/boletin32.css	/^.Canvas { position:relative; }$/;"	c
+.Canvas	boletin33.css	/^.Canvas { position:relative; }$/;"	c
+.abstract	boletin32/boletin32.css	/^.abstract{margin:1em;}$/;"	c
+.abstract	boletin33.css	/^.abstract{margin:1em;}$/;"	c
+.abstracttitle	boletin32/boletin32.css	/^.abstracttitle{text-align:center;margin-bottom:1em;}$/;"	c
+.abstracttitle	boletin33.css	/^.abstracttitle{text-align:center;margin-bottom:1em;}$/;"	c
+.appendixToc	boletin32/boletin32.css	/^.chapterToc a, .chapterToc, .likechapterToc a, .likechapterToc, .appendixToc a, .appendixToc {li/;"	c
+.appendixToc	boletin33.css	/^.chapterToc a, .chapterToc, .likechapterToc a, .likechapterToc, .appendixToc a, .appendixToc {li/;"	c
+.appendixToc a	boletin32/boletin32.css	/^.chapterToc a, .chapterToc, .likechapterToc a, .likechapterToc, .appendixToc a, .appendixToc {li/;"	s
+.appendixToc a	boletin33.css	/^.chapterToc a, .chapterToc, .likechapterToc a, .likechapterToc, .appendixToc a, .appendixToc {li/;"	s
+.callig-15x-x-165	boletin32/boletin32.css	/^.callig-15x-x-165{font-size:247%;}$/;"	c
+.callig-15x-x-165	boletin33.css	/^.callig-15x-x-165{font-size:247%;}$/;"	c
+.callig-15x-x-199	boletin32/boletin32.css	/^.callig-15x-x-199{font-size:298%;}$/;"	c
+.callig-15x-x-199	boletin33.css	/^.callig-15x-x-199{font-size:298%;}$/;"	c
+.callig-15x-x-96	boletin32/boletin32.css	/^.callig-15x-x-96{font-size:144%;}$/;"	c
+.caption span.id	boletin32/boletin32.css	/^.caption span.id{font-weight: bold;}$/;"	c
+.caption span.id	boletin33.css	/^.caption span.id{font-weight: bold;}$/;"	c
+.centerline	boletin32/boletin32.css	/^.centerline {text-align:center;}$/;"	c
+.centerline	boletin33.css	/^.centerline {text-align:center;}$/;"	c
+.chapterToc	boletin32/boletin32.css	/^.chapterToc a, .chapterToc, .likechapterToc a, .likechapterToc, .appendixToc a, .appendixToc {li/;"	c
+.chapterToc	boletin33.css	/^.chapterToc a, .chapterToc, .likechapterToc a, .likechapterToc, .appendixToc a, .appendixToc {li/;"	c
+.chapterToc a	boletin32/boletin32.css	/^.chapterToc a, .chapterToc, .likechapterToc a, .likechapterToc, .appendixToc a, .appendixToc {li/;"	s
+.chapterToc a	boletin33.css	/^.chapterToc a, .chapterToc, .likechapterToc a, .likechapterToc, .appendixToc a, .appendixToc {li/;"	s
+.cline hr	boletin32/boletin32.css	/^.hline hr, .cline hr{ height : 0px; margin:0px; }$/;"	s
+.cline hr	boletin32/boletin32.css	/^.hline hr, .cline hr{border:none;border-top:1px solid black;}$/;"	s
+.cline hr	boletin33.css	/^.hline hr, .cline hr{ height : 0px; margin:0px; }$/;"	s
+.cline hr	boletin33.css	/^.hline hr, .cline hr{border:none;border-top:1px solid black;}$/;"	s
+.cline td	boletin32/boletin32.css	/^.hline td, .cline td{ padding: 0; }$/;"	s
+.cline td	boletin33.css	/^.hline td, .cline td{ padding: 0; }$/;"	s
+.cmmi-10	boletin33.css	/^.cmmi-10{font-style: italic;}$/;"	c
+.cmmi-12	boletin33.css	/^.cmmi-12{font-size:120%;font-style: italic;}$/;"	c
+.cmmi-12x-x-120	boletin32/boletin32.css	/^.cmmi-12x-x-120{font-size:144%;font-style: italic;}$/;"	c
+.cmr-12	boletin32/boletin32.css	/^.cmr-12{font-size:120%;}$/;"	c
+.cmr-12x-x-120	boletin32/boletin32.css	/^.cmr-12x-x-120{font-size:144%;}$/;"	c
+.cmr-17	boletin32/boletin32.css	/^.cmr-17{font-size:170%;}$/;"	c
+.cmr-17x-x-120	boletin32/boletin32.css	/^.cmr-17x-x-120{font-size:204%;}$/;"	c
+.cmr-17x-x-143	boletin32/boletin32.css	/^.cmr-17x-x-143{font-size:243%;}$/;"	c
+.cmr-5	boletin32/boletin32.css	/^.cmr-5{font-size:50%;}$/;"	c
+.cmr-6	boletin32/boletin32.css	/^.cmr-6{font-size:60%;}$/;"	c
+.cmr-7	boletin32/boletin32.css	/^.cmr-7{font-size:70%;}$/;"	c
+.cmr-8	boletin32/boletin32.css	/^.cmr-8{font-size:80%;}$/;"	c
+.cmsy-10x-x-120	boletin33.css	/^.cmsy-10x-x-120{font-size:120%;}$/;"	c
+.cmsy-10x-x-207	boletin33.css	/^.cmsy-10x-x-207{font-size:207%;}$/;"	c
+.cmsy-7	boletin33.css	/^.cmsy-7{font-size:70%;}$/;"	c
+.columns-2	boletin32/boletin32.css	/^.columns-2{-moz-column-count:2; -webkit-column-count:2; column-count:2; -moz-column-gap: 10.0pt;/;"	c
+.columns-2	boletin33.css	/^.columns-2{-moz-column-count:2; -webkit-column-count:2; column-count:2; -moz-column-gap: 10.0pt;/;"	c
+.columns-2 p:first-child	boletin32/boletin32.css	/^.columns-2 p:first-child { margin-top: 0em; }$/;"	s
+.columns-2 p:first-child	boletin33.css	/^.columns-2 p:first-child { margin-top: 0em; }$/;"	s
+.columns-3	boletin33.css	/^.columns-3{-moz-column-count:3; -webkit-column-count:3; column-count:3; -moz-column-gap: 10.0pt;/;"	c
+.columns-3 p:first-child	boletin33.css	/^.columns-3 p:first-child { margin-top: 0em; }$/;"	s
+.ecbi-1000	boletin32/boletin32.css	/^.ecbi-1000{ font-weight: bold;   font-style: italic;}$/;"	c
+.ecbi-1000	boletin33.css	/^.ecbi-1000{ font-weight: bold;   font-style: italic;}$/;"	c
+.ecbi-1200	boletin32/boletin32.css	/^.ecbi-1200{ font-weight: bold;   font-style: italic;}$/;"	c
+.ecbi-1200	boletin32/boletin32.css	/^.ecbi-1200{font-size:120%; font-weight: bold;   font-style: italic;}$/;"	c
+.ecbi-1200	boletin33.css	/^.ecbi-1200{ font-weight: bold;   font-style: italic;}$/;"	c
+.ecbi-1200	boletin33.css	/^.ecbi-1200{font-size:120%; font-weight: bold;   font-style: italic;}$/;"	c
+.ecbx-0800	boletin32/boletin32.css	/^.ecbx-0800{ font-weight: bold;}$/;"	c
+.ecbx-0800	boletin32/boletin32.css	/^.ecbx-0800{font-size:80%; font-weight: bold;}$/;"	c
+.ecbx-0800	boletin33.css	/^.ecbx-0800{ font-weight: bold;}$/;"	c
+.ecbx-0800	boletin33.css	/^.ecbx-0800{font-size:80%; font-weight: bold;}$/;"	c
+.ecbx-0900	boletin33.css	/^.ecbx-0900{ font-weight: bold;}$/;"	c
+.ecbx-0900	boletin33.css	/^.ecbx-0900{font-size:90%; font-weight: bold;}$/;"	c
+.ecbx-1000	boletin32/boletin32.css	/^.ecbx-1000{ font-weight: bold;}$/;"	c
+.ecbx-1000	boletin33.css	/^.ecbx-1000{ font-weight: bold;}$/;"	c
+.ecbx-1200	boletin32/boletin32.css	/^.ecbx-1200{ font-weight: bold;}$/;"	c
+.ecbx-1200	boletin32/boletin32.css	/^.ecbx-1200{font-size:120%; font-weight: bold;}$/;"	c
+.ecbx-1200	boletin33.css	/^.ecbx-1200{ font-weight: bold;}$/;"	c
+.ecbx-1200	boletin33.css	/^.ecbx-1200{font-size:120%; font-weight: bold;}$/;"	c
+.ecrm-0800	boletin32/boletin32.css	/^.ecrm-0800{font-size:80%;}$/;"	c
+.ecrm-0800	boletin33.css	/^.ecrm-0800{font-size:80%;}$/;"	c
+.ecrm-0900	boletin33.css	/^.ecrm-0900{font-size:90%;}$/;"	c
+.ecrm-1200	boletin32/boletin32.css	/^.ecrm-1200{font-size:120%;}$/;"	c
+.ecrm-1200	boletin33.css	/^.ecrm-1200{font-size:120%;}$/;"	c
+.ecrm-2074	boletin32/boletin32.css	/^.ecrm-2074{font-size:200%;}$/;"	c
+.ecss-0900	boletin32/boletin32.css	/^.ecss-0900{ font-family: sans-serif;}$/;"	c
+.ecss-0900	boletin32/boletin32.css	/^.ecss-0900{font-size:90%; font-family: sans-serif;}$/;"	c
+.ecss-0900	boletin33.css	/^.ecss-0900{ font-family: sans-serif;}$/;"	c
+.ecss-0900	boletin33.css	/^.ecss-0900{font-size:90%; font-family: sans-serif;}$/;"	c
+.ecss-1000	boletin32/boletin32.css	/^.ecss-1000{ font-family: sans-serif;}$/;"	c
+.ecss-1000	boletin33.css	/^.ecss-1000{ font-family: sans-serif;}$/;"	c
+.ecti-1000	boletin32/boletin32.css	/^.ecti-1000{ font-style: italic;}$/;"	c
+.ecti-1000	boletin33.css	/^.ecti-1000{ font-style: italic;}$/;"	c
+.ecti-1200	boletin32/boletin32.css	/^.ecti-1200{ font-style: italic;}$/;"	c
+.ecti-1200	boletin32/boletin32.css	/^.ecti-1200{font-size:120%; font-style: italic;}$/;"	c
+.ecti-1200	boletin33.css	/^.ecti-1200{ font-style: italic;}$/;"	c
+.ecti-1200	boletin33.css	/^.ecti-1200{font-size:120%; font-style: italic;}$/;"	c
+.ecti-2074	boletin32/boletin32.css	/^.ecti-2074{ font-style: italic;}$/;"	c
+.ecti-2074	boletin32/boletin32.css	/^.ecti-2074{font-size:200%; font-style: italic;}$/;"	c
+.ectt-1000	boletin32/boletin32.css	/^.ectt-1000{ font-family: monospace,monospace;}$/;"	c
+.ectt-1000	boletin33.css	/^.ectt-1000{ font-family: monospace,monospace;}$/;"	c
+.ectt-1200	boletin32/boletin32.css	/^.ectt-1200{ font-family: monospace,monospace;}$/;"	c
+.ectt-1200	boletin32/boletin32.css	/^.ectt-1200{font-size:120%; font-family: monospace,monospace;}$/;"	c
+.ectt-1200	boletin33.css	/^.ectt-1200{ font-family: monospace,monospace;}$/;"	c
+.ectt-1200	boletin33.css	/^.ectt-1200{font-size:120%; font-family: monospace,monospace;}$/;"	c
+.enumerate1	boletin32/boletin32.css	/^.enumerate1 {list-style-type:decimal;}$/;"	c
+.enumerate1	boletin33.css	/^.enumerate1 {list-style-type:decimal;}$/;"	c
+.enumerate2	boletin32/boletin32.css	/^.enumerate2 {list-style-type:lower-alpha;}$/;"	c
+.enumerate2	boletin33.css	/^.enumerate2 {list-style-type:lower-alpha;}$/;"	c
+.enumerate3	boletin32/boletin32.css	/^.enumerate3 {list-style-type:lower-roman;}$/;"	c
+.enumerate3	boletin33.css	/^.enumerate3 {list-style-type:lower-roman;}$/;"	c
+.enumerate4	boletin32/boletin32.css	/^.enumerate4 {list-style-type:upper-alpha;}$/;"	c
+.enumerate4	boletin33.css	/^.enumerate4 {list-style-type:upper-alpha;}$/;"	c
+.equation td	boletin32/boletin32.css	/^.equation td{text-align:center; }$/;"	s
+.equation td	boletin33.css	/^.equation td{text-align:center; }$/;"	s
+.equation-star td	boletin32/boletin32.css	/^.equation-star td{text-align:center; }$/;"	s
+.equation-star td	boletin33.css	/^.equation-star td{text-align:center; }$/;"	s
+.fbox	boletin32/boletin32.css	/^.fbox {padding-left:3.0pt; padding-right:3.0pt; text-indent:0pt; border:solid black 0.4pt; }$/;"	c
+.fbox	boletin33.css	/^.fbox {padding-left:3.0pt; padding-right:3.0pt; text-indent:0pt; border:solid black 0.4pt; }$/;"	c
+.framebox-c	boletin32/boletin32.css	/^.framebox-c {text-align:center;}$/;"	c
+.framebox-c	boletin32/boletin32.css	/^.framebox-c, .framebox-l, .framebox-r { padding-left:3.0pt; padding-right:3.0pt; text-indent:0pt/;"	c
+.framebox-c	boletin33.css	/^.framebox-c {text-align:center;}$/;"	c
+.framebox-c	boletin33.css	/^.framebox-c, .framebox-l, .framebox-r { padding-left:3.0pt; padding-right:3.0pt; text-indent:0pt/;"	c
+.framebox-l	boletin32/boletin32.css	/^.framebox-c, .framebox-l, .framebox-r { padding-left:3.0pt; padding-right:3.0pt; text-indent:0pt/;"	c
+.framebox-l	boletin32/boletin32.css	/^.framebox-l {text-align:left;}$/;"	c
+.framebox-l	boletin33.css	/^.framebox-c, .framebox-l, .framebox-r { padding-left:3.0pt; padding-right:3.0pt; text-indent:0pt/;"	c
+.framebox-l	boletin33.css	/^.framebox-l {text-align:left;}$/;"	c
+.framebox-r	boletin32/boletin32.css	/^.framebox-c, .framebox-l, .framebox-r { padding-left:3.0pt; padding-right:3.0pt; text-indent:0pt/;"	c
+.framebox-r	boletin32/boletin32.css	/^.framebox-r {text-align:right;}$/;"	c
+.framebox-r	boletin33.css	/^.framebox-c, .framebox-l, .framebox-r { padding-left:3.0pt; padding-right:3.0pt; text-indent:0pt/;"	c
+.framebox-r	boletin33.css	/^.framebox-r {text-align:right;}$/;"	c
+.hline	boletin32/boletin32.css	/^.hline {border-top: 1px solid black;}$/;"	c
+.hline	boletin33.css	/^.hline {border-top: 1px solid black;}$/;"	c
+.hline hr	boletin32/boletin32.css	/^.hline hr, .cline hr{ height : 0px; margin:0px; }$/;"	s
+.hline hr	boletin32/boletin32.css	/^.hline hr, .cline hr{border:none;border-top:1px solid black;}$/;"	s
+.hline hr	boletin33.css	/^.hline hr, .cline hr{ height : 0px; margin:0px; }$/;"	s
+.hline hr	boletin33.css	/^.hline hr, .cline hr{border:none;border-top:1px solid black;}$/;"	s
+.hline td	boletin32/boletin32.css	/^.hline td, .cline td{ padding: 0; }$/;"	s
+.hline td	boletin33.css	/^.hline td, .cline td{ padding: 0; }$/;"	s
+.index-item	boletin32/boletin32.css	/^.index-item, .index-subitem, .index-subsubitem {display:block}$/;"	c
+.index-item	boletin33.css	/^.index-item, .index-subitem, .index-subsubitem {display:block}$/;"	c
+.index-subitem	boletin32/boletin32.css	/^.index-item, .index-subitem, .index-subsubitem {display:block}$/;"	c
+.index-subitem	boletin33.css	/^.index-item, .index-subitem, .index-subsubitem {display:block}$/;"	c
+.index-subsubitem	boletin32/boletin32.css	/^.index-item, .index-subitem, .index-subsubitem {display:block}$/;"	c
+.index-subsubitem	boletin33.css	/^.index-item, .index-subitem, .index-subsubitem {display:block}$/;"	c
+.letra-figura	boletin32/boletin32.css	/^.letra-figura{font-size:75%; }$/;"	c
+.likechapterToc	boletin32/boletin32.css	/^.chapterToc a, .chapterToc, .likechapterToc a, .likechapterToc, .appendixToc a, .appendixToc {li/;"	c
+.likechapterToc	boletin33.css	/^.chapterToc a, .chapterToc, .likechapterToc a, .likechapterToc, .appendixToc a, .appendixToc {li/;"	c
+.likechapterToc a	boletin32/boletin32.css	/^.chapterToc a, .chapterToc, .likechapterToc a, .likechapterToc, .appendixToc a, .appendixToc {li/;"	s
+.likechapterToc a	boletin33.css	/^.chapterToc a, .chapterToc, .likechapterToc a, .likechapterToc, .appendixToc a, .appendixToc {li/;"	s
+.likeparagraphHead	boletin32/boletin32.css	/^.paragraphHead, .likeparagraphHead { margin-top:2em; font-weight: bold;}$/;"	c
+.likeparagraphHead	boletin33.css	/^.paragraphHead, .likeparagraphHead { margin-top:2em; font-weight: bold;}$/;"	c
+.likepartToc	boletin32/boletin32.css	/^.partToc a, .partToc, .likepartToc a, .likepartToc {line-height: 200%; font-weight:bold; font-si/;"	c
+.likepartToc	boletin33.css	/^.partToc a, .partToc, .likepartToc a, .likepartToc {line-height: 200%; font-weight:bold; font-si/;"	c
+.likepartToc a	boletin32/boletin32.css	/^.partToc a, .partToc, .likepartToc a, .likepartToc {line-height: 200%; font-weight:bold; font-si/;"	s
+.likepartToc a	boletin33.css	/^.partToc a, .partToc, .likepartToc a, .likepartToc {line-height: 200%; font-weight:bold; font-si/;"	s
+.likesubparagraphHead	boletin32/boletin32.css	/^.subparagraphHead, .likesubparagraphHead { font-weight: bold;}$/;"	c
+.likesubparagraphHead	boletin33.css	/^.subparagraphHead, .likesubparagraphHead { font-weight: bold;}$/;"	c
+.likesubsectionToc	boletin32/boletin32.css	/^.subsectionToc, .likesubsectionToc {margin-left:2em;}$/;"	c
+.likesubsectionToc	boletin33.css	/^.subsectionToc, .likesubsectionToc {margin-left:2em;}$/;"	c
+.likesubsubsectionToc	boletin32/boletin32.css	/^.subsubsectionToc, .likesubsubsectionToc {margin-left:4em;}$/;"	c
+.likesubsubsectionToc	boletin33.css	/^.subsubsectionToc, .likesubsubsectionToc {margin-left:4em;}$/;"	c
+.marginpar	boletin32/boletin32.css	/^.marginpar,.reversemarginpar {width:20%; float:right; text-align:left; margin-left:auto; margin-/;"	c
+.marginpar	boletin33.css	/^.marginpar,.reversemarginpar {width:20%; float:right; text-align:left; margin-left:auto; margin-/;"	c
+.marginpar p	boletin32/boletin32.css	/^.marginpar p,.reversemarginpar p{margin-top:0.4em; margin-bottom:0.4em;}$/;"	s
+.marginpar p	boletin33.css	/^.marginpar p,.reversemarginpar p{margin-top:0.4em; margin-bottom:0.4em;}$/;"	s
+.obeylines-h	boletin32/boletin32.css	/^.obeylines-h,.obeylines-v {white-space: nowrap; }$/;"	c
+.obeylines-h	boletin33.css	/^.obeylines-h,.obeylines-v {white-space: nowrap; }$/;"	c
+.obeylines-v	boletin32/boletin32.css	/^.obeylines-h,.obeylines-v {white-space: nowrap; }$/;"	c
+.obeylines-v	boletin33.css	/^.obeylines-h,.obeylines-v {white-space: nowrap; }$/;"	c
+.overline	boletin32/boletin32.css	/^.overline{ text-decoration:overline; }$/;"	c
+.overline	boletin33.css	/^.overline{ text-decoration:overline; }$/;"	c
+.overline img	boletin32/boletin32.css	/^.overline img{ border-top: 1px solid black; }$/;"	s
+.overline img	boletin33.css	/^.overline img{ border-top: 1px solid black; }$/;"	s
+.paragraphHead	boletin32/boletin32.css	/^.paragraphHead, .likeparagraphHead { margin-top:2em; font-weight: bold;}$/;"	c
+.paragraphHead	boletin33.css	/^.paragraphHead, .likeparagraphHead { margin-top:2em; font-weight: bold;}$/;"	c
+.partToc	boletin32/boletin32.css	/^.partToc a, .partToc, .likepartToc a, .likepartToc {line-height: 200%; font-weight:bold; font-si/;"	c
+.partToc	boletin33.css	/^.partToc a, .partToc, .likepartToc a, .likepartToc {line-height: 200%; font-weight:bold; font-si/;"	c
+.partToc a	boletin32/boletin32.css	/^.partToc a, .partToc, .likepartToc a, .likepartToc {line-height: 200%; font-weight:bold; font-si/;"	s
+.partToc a	boletin33.css	/^.partToc a, .partToc, .likepartToc a, .likepartToc {line-height: 200%; font-weight:bold; font-si/;"	s
+.reversemarginpar	boletin32/boletin32.css	/^.marginpar,.reversemarginpar {width:20%; float:right; text-align:left; margin-left:auto; margin-/;"	c
+.reversemarginpar	boletin32/boletin32.css	/^.reversemarginpar{float:left;}$/;"	c
+.reversemarginpar	boletin33.css	/^.marginpar,.reversemarginpar {width:20%; float:right; text-align:left; margin-left:auto; margin-/;"	c
+.reversemarginpar	boletin33.css	/^.reversemarginpar{float:left;}$/;"	c
+.reversemarginpar p	boletin32/boletin32.css	/^.marginpar p,.reversemarginpar p{margin-top:0.4em; margin-bottom:0.4em;}$/;"	s
+.reversemarginpar p	boletin33.css	/^.marginpar p,.reversemarginpar p{margin-top:0.4em; margin-bottom:0.4em;}$/;"	s
+.rightline	boletin32/boletin32.css	/^.rightline {text-align:right;}$/;"	c
+.rightline	boletin33.css	/^.rightline {text-align:right;}$/;"	c
+.rotatebox	boletin32/boletin32.css	/^.rotatebox{display: inline-block;}$/;"	c
+.rotatebox	boletin33.css	/^.rotatebox{display: inline-block;}$/;"	c
+.subfigcaption	boletin32/boletin32.css	/^.subfigcaption {margin-top:1em; margin-left:1em; text-align:center;}$/;"	c
+.subfigcaption	boletin33.css	/^.subfigcaption {margin-top:1em; margin-left:1em; text-align:center;}$/;"	c
+.subfigure	boletin32/boletin32.css	/^.subfigure{display: inline-block;max-width:30%;}$/;"	c
+.subfigure	boletin33.css	/^.subfigure{display: inline-block;max-width:30%;}$/;"	c
+.subfigure img	boletin32/boletin32.css	/^.subfigure img{display:block; margin-left:auto;margin-right:auto;}$/;"	s
+.subfigure img	boletin33.css	/^.subfigure img{display:block; margin-left:auto;margin-right:auto;}$/;"	s
+.subparagraphHead	boletin32/boletin32.css	/^.subparagraphHead, .likesubparagraphHead { font-weight: bold;}$/;"	c
+.subparagraphHead	boletin33.css	/^.subparagraphHead, .likesubparagraphHead { font-weight: bold;}$/;"	c
+.subsectionToc	boletin32/boletin32.css	/^.subsectionToc, .likesubsectionToc {margin-left:2em;}$/;"	c
+.subsectionToc	boletin33.css	/^.subsectionToc, .likesubsectionToc {margin-left:2em;}$/;"	c
+.subsubsectionToc	boletin32/boletin32.css	/^.subsubsectionToc, .likesubsubsectionToc {margin-left:4em;}$/;"	c
+.subsubsectionToc	boletin33.css	/^.subsubsectionToc, .likesubsubsectionToc {margin-left:4em;}$/;"	c
+.tabbing-right	boletin32/boletin32.css	/^.tabbing-right {text-align:right;}$/;"	c
+.tabbing-right	boletin33.css	/^.tabbing-right {text-align:right;}$/;"	c
+.tcbx-1200	boletin32/boletin32.css	/^.tcbx-1200{font-size:120%;font-weight: bold;}$/;"	c
+.tcbx-1200	boletin33.css	/^.tcbx-1200{font-size:120%;font-weight: bold;}$/;"	c
+.tcrm-0800	boletin32/boletin32.css	/^.tcrm-0800{font-size:80%;}$/;"	c
+.tcrm-1200	boletin33.css	/^.tcrm-1200{font-size:120%;}$/;"	c
+.underline	boletin32/boletin32.css	/^.underline{ text-decoration:underline; }$/;"	c
+.underline	boletin33.css	/^.underline{ text-decoration:underline; }$/;"	c
+.underline img	boletin32/boletin32.css	/^.underline img{ border-bottom: 1px solid black; margin-bottom:1pt; }$/;"	s
+.underline img	boletin33.css	/^.underline img{ border-bottom: 1px solid black; margin-bottom:1pt; }$/;"	s
+.verse	boletin32/boletin32.css	/^.verse{white-space:nowrap; margin-left:2em}$/;"	c
+.verse	boletin33.css	/^.verse{white-space:nowrap; margin-left:2em}$/;"	c
+.wrapfig-il	boletin32/boletin32.css	/^ .wrapfig-l, .wrapfig-li, .wrapfig-il, .wrapfig-lo, .wrapfig-ol {float:left; text-align:left; ma/;"	c
+.wrapfig-il	boletin33.css	/^ .wrapfig-l, .wrapfig-li, .wrapfig-il, .wrapfig-lo, .wrapfig-ol {float:left; text-align:left; ma/;"	c
+.wrapfig-il .caption	boletin32/boletin32.css	/^.wrapfig-r .caption, .wrapfig-ri .caption, .wrapfig-ir .caption, .wrapfig-ro .caption, .wrapfig-/;"	c
+.wrapfig-il .caption	boletin33.css	/^.wrapfig-r .caption, .wrapfig-ri .caption, .wrapfig-ir .caption, .wrapfig-ro .caption, .wrapfig-/;"	c
+.wrapfig-il .caption td.content	boletin32/boletin32.css	/^.wrapfig-r .caption td.content, .wrapfig-ri .caption td.content, .wrapfig-ir .caption td.content/;"	c
+.wrapfig-il .caption td.content	boletin33.css	/^.wrapfig-r .caption td.content, .wrapfig-ri .caption td.content, .wrapfig-ir .caption td.content/;"	c
+.wrapfig-ir	boletin32/boletin32.css	/^ .wrapfig-r, .wrapfig-ri, .wrapfig-ir, .wrapfig-ro, .wrapfig-or {float:right; text-align:left; m/;"	c
+.wrapfig-ir	boletin33.css	/^ .wrapfig-r, .wrapfig-ri, .wrapfig-ir, .wrapfig-ro, .wrapfig-or {float:right; text-align:left; m/;"	c
+.wrapfig-ir .caption	boletin32/boletin32.css	/^.wrapfig-r .caption, .wrapfig-ri .caption, .wrapfig-ir .caption, .wrapfig-ro .caption, .wrapfig-/;"	c
+.wrapfig-ir .caption	boletin33.css	/^.wrapfig-r .caption, .wrapfig-ri .caption, .wrapfig-ir .caption, .wrapfig-ro .caption, .wrapfig-/;"	c
+.wrapfig-ir .caption td.content	boletin32/boletin32.css	/^.wrapfig-r .caption td.content, .wrapfig-ri .caption td.content, .wrapfig-ir .caption td.content/;"	c
+.wrapfig-ir .caption td.content	boletin33.css	/^.wrapfig-r .caption td.content, .wrapfig-ri .caption td.content, .wrapfig-ir .caption td.content/;"	c
+.wrapfig-l	boletin32/boletin32.css	/^ .wrapfig-l, .wrapfig-li, .wrapfig-il, .wrapfig-lo, .wrapfig-ol {float:left; text-align:left; ma/;"	c
+.wrapfig-l	boletin33.css	/^ .wrapfig-l, .wrapfig-li, .wrapfig-il, .wrapfig-lo, .wrapfig-ol {float:left; text-align:left; ma/;"	c
+.wrapfig-l .caption	boletin32/boletin32.css	/^.wrapfig-r .caption, .wrapfig-ri .caption, .wrapfig-ir .caption, .wrapfig-ro .caption, .wrapfig-/;"	c
+.wrapfig-l .caption	boletin33.css	/^.wrapfig-r .caption, .wrapfig-ri .caption, .wrapfig-ir .caption, .wrapfig-ro .caption, .wrapfig-/;"	c
+.wrapfig-l .caption td.content	boletin32/boletin32.css	/^.wrapfig-r .caption td.content, .wrapfig-ri .caption td.content, .wrapfig-ir .caption td.content/;"	c
+.wrapfig-l .caption td.content	boletin33.css	/^.wrapfig-r .caption td.content, .wrapfig-ri .caption td.content, .wrapfig-ir .caption td.content/;"	c
+.wrapfig-li	boletin32/boletin32.css	/^ .wrapfig-l, .wrapfig-li, .wrapfig-il, .wrapfig-lo, .wrapfig-ol {float:left; text-align:left; ma/;"	c
+.wrapfig-li	boletin33.css	/^ .wrapfig-l, .wrapfig-li, .wrapfig-il, .wrapfig-lo, .wrapfig-ol {float:left; text-align:left; ma/;"	c
+.wrapfig-li .caption	boletin32/boletin32.css	/^.wrapfig-r .caption, .wrapfig-ri .caption, .wrapfig-ir .caption, .wrapfig-ro .caption, .wrapfig-/;"	c
+.wrapfig-li .caption	boletin33.css	/^.wrapfig-r .caption, .wrapfig-ri .caption, .wrapfig-ir .caption, .wrapfig-ro .caption, .wrapfig-/;"	c
+.wrapfig-li .caption td.content	boletin32/boletin32.css	/^.wrapfig-r .caption td.content, .wrapfig-ri .caption td.content, .wrapfig-ir .caption td.content/;"	c
+.wrapfig-li .caption td.content	boletin33.css	/^.wrapfig-r .caption td.content, .wrapfig-ri .caption td.content, .wrapfig-ir .caption td.content/;"	c
+.wrapfig-lo	boletin32/boletin32.css	/^ .wrapfig-l, .wrapfig-li, .wrapfig-il, .wrapfig-lo, .wrapfig-ol {float:left; text-align:left; ma/;"	c
+.wrapfig-lo	boletin33.css	/^ .wrapfig-l, .wrapfig-li, .wrapfig-il, .wrapfig-lo, .wrapfig-ol {float:left; text-align:left; ma/;"	c
+.wrapfig-lo .caption	boletin32/boletin32.css	/^.wrapfig-r .caption, .wrapfig-ri .caption, .wrapfig-ir .caption, .wrapfig-ro .caption, .wrapfig-/;"	c
+.wrapfig-lo .caption	boletin33.css	/^.wrapfig-r .caption, .wrapfig-ri .caption, .wrapfig-ir .caption, .wrapfig-ro .caption, .wrapfig-/;"	c
+.wrapfig-lo .caption td.content	boletin32/boletin32.css	/^.wrapfig-r .caption td.content, .wrapfig-ri .caption td.content, .wrapfig-ir .caption td.content/;"	c
+.wrapfig-lo .caption td.content	boletin33.css	/^.wrapfig-r .caption td.content, .wrapfig-ri .caption td.content, .wrapfig-ir .caption td.content/;"	c
+.wrapfig-ol	boletin32/boletin32.css	/^ .wrapfig-l, .wrapfig-li, .wrapfig-il, .wrapfig-lo, .wrapfig-ol {float:left; text-align:left; ma/;"	c
+.wrapfig-ol	boletin33.css	/^ .wrapfig-l, .wrapfig-li, .wrapfig-il, .wrapfig-lo, .wrapfig-ol {float:left; text-align:left; ma/;"	c
+.wrapfig-ol .caption	boletin32/boletin32.css	/^.wrapfig-r .caption, .wrapfig-ri .caption, .wrapfig-ir .caption, .wrapfig-ro .caption, .wrapfig-/;"	c
+.wrapfig-ol .caption	boletin33.css	/^.wrapfig-r .caption, .wrapfig-ri .caption, .wrapfig-ir .caption, .wrapfig-ro .caption, .wrapfig-/;"	c
+.wrapfig-ol .caption td.content	boletin32/boletin32.css	/^.wrapfig-r .caption td.content, .wrapfig-ri .caption td.content, .wrapfig-ir .caption td.content/;"	c
+.wrapfig-ol .caption td.content	boletin33.css	/^.wrapfig-r .caption td.content, .wrapfig-ri .caption td.content, .wrapfig-ir .caption td.content/;"	c
+.wrapfig-or	boletin32/boletin32.css	/^ .wrapfig-r, .wrapfig-ri, .wrapfig-ir, .wrapfig-ro, .wrapfig-or {float:right; text-align:left; m/;"	c
+.wrapfig-or	boletin33.css	/^ .wrapfig-r, .wrapfig-ri, .wrapfig-ir, .wrapfig-ro, .wrapfig-or {float:right; text-align:left; m/;"	c
+.wrapfig-or .caption	boletin32/boletin32.css	/^.wrapfig-r .caption, .wrapfig-ri .caption, .wrapfig-ir .caption, .wrapfig-ro .caption, .wrapfig-/;"	c
+.wrapfig-or .caption	boletin33.css	/^.wrapfig-r .caption, .wrapfig-ri .caption, .wrapfig-ir .caption, .wrapfig-ro .caption, .wrapfig-/;"	c
+.wrapfig-or .caption td.content	boletin32/boletin32.css	/^.wrapfig-r .caption td.content, .wrapfig-ri .caption td.content, .wrapfig-ir .caption td.content/;"	c
+.wrapfig-or .caption td.content	boletin33.css	/^.wrapfig-r .caption td.content, .wrapfig-ri .caption td.content, .wrapfig-ir .caption td.content/;"	c
+.wrapfig-r	boletin32/boletin32.css	/^ .wrapfig-r, .wrapfig-ri, .wrapfig-ir, .wrapfig-ro, .wrapfig-or {float:right; text-align:left; m/;"	c
+.wrapfig-r	boletin33.css	/^ .wrapfig-r, .wrapfig-ri, .wrapfig-ir, .wrapfig-ro, .wrapfig-or {float:right; text-align:left; m/;"	c
+.wrapfig-r .caption	boletin32/boletin32.css	/^.wrapfig-r .caption, .wrapfig-ri .caption, .wrapfig-ir .caption, .wrapfig-ro .caption, .wrapfig-/;"	c
+.wrapfig-r .caption	boletin33.css	/^.wrapfig-r .caption, .wrapfig-ri .caption, .wrapfig-ir .caption, .wrapfig-ro .caption, .wrapfig-/;"	c
+.wrapfig-r .caption td.content	boletin32/boletin32.css	/^.wrapfig-r .caption td.content, .wrapfig-ri .caption td.content, .wrapfig-ir .caption td.content/;"	c
+.wrapfig-r .caption td.content	boletin33.css	/^.wrapfig-r .caption td.content, .wrapfig-ri .caption td.content, .wrapfig-ir .caption td.content/;"	c
+.wrapfig-ri	boletin32/boletin32.css	/^ .wrapfig-r, .wrapfig-ri, .wrapfig-ir, .wrapfig-ro, .wrapfig-or {float:right; text-align:left; m/;"	c
+.wrapfig-ri	boletin33.css	/^ .wrapfig-r, .wrapfig-ri, .wrapfig-ir, .wrapfig-ro, .wrapfig-or {float:right; text-align:left; m/;"	c
+.wrapfig-ri .caption	boletin32/boletin32.css	/^.wrapfig-r .caption, .wrapfig-ri .caption, .wrapfig-ir .caption, .wrapfig-ro .caption, .wrapfig-/;"	c
+.wrapfig-ri .caption	boletin33.css	/^.wrapfig-r .caption, .wrapfig-ri .caption, .wrapfig-ir .caption, .wrapfig-ro .caption, .wrapfig-/;"	c
+.wrapfig-ri .caption td.content	boletin32/boletin32.css	/^.wrapfig-r .caption td.content, .wrapfig-ri .caption td.content, .wrapfig-ir .caption td.content/;"	c
+.wrapfig-ri .caption td.content	boletin33.css	/^.wrapfig-r .caption td.content, .wrapfig-ri .caption td.content, .wrapfig-ir .caption td.content/;"	c
+.wrapfig-ro	boletin32/boletin32.css	/^ .wrapfig-r, .wrapfig-ri, .wrapfig-ir, .wrapfig-ro, .wrapfig-or {float:right; text-align:left; m/;"	c
+.wrapfig-ro	boletin33.css	/^ .wrapfig-r, .wrapfig-ri, .wrapfig-ir, .wrapfig-ro, .wrapfig-or {float:right; text-align:left; m/;"	c
+.wrapfig-ro .caption	boletin32/boletin32.css	/^.wrapfig-r .caption, .wrapfig-ri .caption, .wrapfig-ir .caption, .wrapfig-ro .caption, .wrapfig-/;"	c
+.wrapfig-ro .caption	boletin33.css	/^.wrapfig-r .caption, .wrapfig-ri .caption, .wrapfig-ir .caption, .wrapfig-ro .caption, .wrapfig-/;"	c
+.wrapfig-ro .caption td.content	boletin32/boletin32.css	/^.wrapfig-r .caption td.content, .wrapfig-ri .caption td.content, .wrapfig-ir .caption td.content/;"	c
+.wrapfig-ro .caption td.content	boletin33.css	/^.wrapfig-r .caption td.content, .wrapfig-ri .caption td.content, .wrapfig-ir .caption td.content/;"	c
+1 Noticias	boletin32/boletin32.html	/^ id="x1-30001"><\/a>Noticias<\/h3>$/;"	j
+1 Noticias	boletin32/noticias-N32.html	/^ id="x1-30001"><\/a>Noticias<\/h3>$/;"	j
+1 Noticias	boletin33.html	/^ id="x1-30001"><\/a>Noticias<\/h3>$/;"	j
+2 Anuncios	boletin32/anuncios-N32.html	/^ id="x1-200002"><\/a>Anuncios<\/h3>$/;"	j
+2 Anuncios	boletin32/boletin32.html	/^ id="x1-200002"><\/a>Anuncios<\/h3>$/;"	j
+2 Anuncios	boletin33.html	/^ id="x1-310002"><\/a>Anuncios<\/h3>$/;"	j
+3 SEMA Journal	boletin32/boletin32.html	/^class="ecti-1200">Journal<\/span><\/h3>$/;"	j
+3 SEMA Journal	boletin32/sema-journal-N32.html	/^class="ecti-1000">Journal<\/span><\/h3>$/;"	j
+3 SEMA Journal	boletin33.html	/^class="ecti-1000">Journal<\/span><\/h3>$/;"	j
+4 Socios institucionales	boletin32/boletin32.html	/^class="ecrm-1200">Socios institucionales<\/span><\/h3>$/;"	j
+4 Socios institucionales	boletin32/institucionales-N32.html	/^ id="x11-430008"><\/a>Socios institucionales<\/h3>$/;"	j
+4 Socios institucionales	boletin33.html	/^ id="x1-670004"><\/a>Socios institucionales<\/h3>$/;"	j
+Actas del congreso	ehf2023.tex	/^\\subsubsection*{Actas del congreso}$/;"	b	subsection:Anuncios""XX Escuela Jacques-Louis Lions Hispano Francesa sobre Simulación Numérica en Física e Ingeniería, Barcelona
+Actas del congreso	plantilla-Boletin-SEMA.tex	/^\\subsubsection{Actas del congreso}$/;"	b	section:XXVI CEDYA/XVI CMA, Gij�n
+Actas del congreso	resena_boletin_diciembre/plantilla-Boletin-SEMA.tex	/^\\subsubsection*{Actas del congreso}$/;"	b	subsection:Anuncios""XX Escuela Jacques-Louis Lions Hispano-Francesa sobre Simulación Numérica en Física e Ingeniería, Barcelona
+Actividades del Instituto de Matemáticas de la Universidad de Sevilla, IMUS	imus33.tex	/^\\subsection{Actividades del Instituto de Matemáticas de la Universidad de Sevilla, IMUS}\\labe/;"	u	section:Anuncios
+Acto de apertura y entrega de premios	resena_boletin_diciembre/plantilla-Boletin-SEMA.tex	/^\\subsubsection*{Acto de apertura y entrega de premios}$/;"	b	subsection:Anuncios""XX Escuela Jacques-Louis Lions Hispano-Francesa sobre Simulación Numérica en Física e Ingeniería, Barcelona
+Anuncios	boletin33.tex	/^\\section{Anuncios} $/;"	s
+Anuncios	premio_eccomas.tex	/^\\section{Anuncios}$/;"	s
+Aula de las matemáticas y la ciencia de Bueño	noticias33.tex	/^\\subsection{Aula de las matemáticas y la ciencia de Bueño}$/;"	u	section:Noticias
+Bases Generales	anuncios33.tex	/^ \\subsubsection*{Bases Generales}$/;"	b	subsection:Anuncios""Convocatoria del XXVII Premio SEMA <<Antonio Valle>> al Joven Investigador (2024)
+Bases Generales	premio_eccomas.tex	/^ \\subsubsection{Bases Generales}$/;"	b	subsection:Anuncios""Convocatoria del XXVII Premio SEMA <<Antonio Valle>> al Joven Investigador (2024)
+Bases particulares de la convocatoria 2024	anuncios33.tex	/^\\subsubsection*{Bases particulares de la convocatoria 2024}$/;"	b	subsection:Anuncios""Convocatoria del XXVII Premio SEMA <<Antonio Valle>> al Joven Investigador (2024)
+Bases particulares de la convocatoria 2024	premio_eccomas.tex	/^\\subsubsection{Bases particulares de la convocatoria 2024}$/;"	b	subsection:Anuncios""Convocatoria del XXVII Premio SEMA <<Antonio Valle>> al Joven Investigador (2024)
+Basque Center for Applied Mathematics	bcam33.tex	/^\\subsection{Basque Center for Applied Mathematics}$/;"	u	section:Palabras del presidente
+Boundary and Interior Layers (BAIL) Conference	anuncios33.tex	/^\\subsection{Boundary and Interior Layers (BAIL) Conference}$/;"	u	section:Anuncios
+Ceremonia de entrega de premios del VI Concurso de Modelización Matemática 2023 del IMI	noticias33.tex	/^\\subsection{Ceremonia de entrega de premios del VI Concurso de Modelización Matemática 2023 d/;"	u	section:Noticias
+Comité científico	resena_boletin_diciembre/plantilla-Boletin-SEMA.tex	/^\\subsubsection*{Comité científico}$/;"	b	subsection:Anuncios""XX Escuela Jacques-Louis Lions Hispano-Francesa sobre Simulación Numérica en Física e Ingeniería, Barcelona
+Comité organizador	contribuciones_valladolid/JMSS70-SEMA.tex	/^\\subsubsection*{Comité organizador}$/;"	b	subsection:Anuncios""Workshop on Numerical Analysis celebrating J.M. Sanz-Serna 70th birthday, Valladolid
+Comité organizador	contribuciones_valladolid/mpf-SEMA.tex	/^\\subsubsection*{Comité organizador}$/;"	b	subsection:Anuncios""Modelling the Propagation of Fluids: Mathematical Analysis and Numerical Approximation, Valladolid
+Comité organizador	pares60/pares60.tex	/^\\subsubsection*{Comité organizador}$/;"	b	subsection:Anuncios""Workshop on numerical approximation of hyperbolic PDEs in honor of Prof. Carlos Parés' 60th birthday, Málaga
+Comité organizador	resena_boletin_diciembre/plantilla-Boletin-SEMA.tex	/^\\subsubsection*{Comité organizador}$/;"	b	subsection:Anuncios""XX Escuela Jacques-Louis Lions Hispano-Francesa sobre Simulación Numérica en Física e Ingeniería, Barcelona
+Conference details	anuncios33.tex	/^\\subsubsection*{Conference details}$/;"	b	subsection:Anuncios""Geometric And Variational Analysis In memory of Jan Mal\\'y
+Conferenciantes invitados	boletin32/CRF23ADK/CRF23_SEVILLA.tex	/^\\subsubsection*{Conferenciantes invitados}$/;"	b	subsection:Anuncios""Control and Related Fields
+Conferenciantes invitados	contribuciones_valladolid/JMSS70-SEMA.tex	/^\\subsubsection*{Conferenciantes invitados}$/;"	b	subsection:Anuncios""Workshop on Numerical Analysis celebrating J.M. Sanz-Serna 70th birthday, Valladolid
+Conferenciantes invitados	contribuciones_valladolid/mpf-SEMA.tex	/^\\subsubsection*{Conferenciantes invitados}$/;"	b	subsection:Anuncios""Modelling the Propagation of Fluids: Mathematical Analysis and Numerical Approximation, Valladolid
+Conferenciantes invitados	pares60/pares60.tex	/^\\subsubsection*{Conferenciantes invitados}$/;"	b	subsection:Anuncios""Workshop on numerical approximation of hyperbolic PDEs in honor of Prof. Carlos Parés' 60th birthday, Málaga
+Conferenciantes plenarios.	anuncios33.tex	/^\\paragraph*{Conferenciantes plenarios.}$/;"	P	subsection:Anuncios""Congreso hispano-franco-alem\\'{a}n de optimizaci\\'{o}n
+Conferencias	noticias33.tex	/^\\subsubsection*{Conferencias}$/;"	b	subsection:Noticias""Exposición \\textit{Matemáticas a pie de calle} en Pamplona
+Conferencias Plenarias	plantilla-Boletin-SEMA.tex	/^\\subsubsection{Conferencias Plenarias}$/;"	b	section:XXVI CEDYA/XVI CMA, Gij�n
+Conferencias invitadas	ehf2023.tex	/^\\subsubsection*{Conferencias invitadas}$/;"	b	subsection:Anuncios""XX Escuela Jacques-Louis Lions Hispano Francesa sobre Simulación Numérica en Física e Ingeniería, Barcelona
+Congreso Internacional de Matemática Aplicada: ETAMM en Coruña	anuncios33.tex	/^\\subsection{Congreso Internacional de Matemática Aplicada: ETAMM en Coruña}$/;"	u	section:Anuncios
+Congreso hispano-franco-alem\\'{a}n de optimizaci\\'{o}n	anuncios33.tex	/^\\subsection{Congreso hispano-franco-alem\\'{a}n de optimizaci\\'{o}n}$/;"	u	section:Anuncios
+Control and Related Fields	boletin32/CRF23ADK/CRF23_SEVILLA.tex	/^\\subsection{Control and Related Fields}$/;"	u	section:Anuncios
+Convocatoria del XXVII Premio SEMA <<Antonio Valle>> al Joven Investigador (2024)	anuncios33.tex	/^\\subsection{Convocatoria del XXVII Premio SEMA <<Antonio Valle>>  al Joven Investigador (2024)}$/;"	u	section:Anuncios
+Convocatoria del XXVII Premio SEMA <<Antonio Valle>> al Joven Investigador (2024)	premio_eccomas.tex	/^\\subsection{Convocatoria del XXVII Premio SEMA <<Antonio Valle>>  al Joven Investigador (2024)}$/;"	u	section:Anuncios
+Cursos	ehf2023.tex	/^\\subsubsection*{Cursos}$/;"	b	subsection:Anuncios""XX Escuela Jacques-Louis Lions Hispano Francesa sobre Simulación Numérica en Física e Ingeniería, Barcelona
+Cursos, conferencias y sesión de pósteres	resena_boletin_diciembre/plantilla-Boletin-SEMA.tex	/^\\subsubsection*{Cursos, conferencias y sesión de pósteres}$/;"	b	subsection:Anuncios""XX Escuela Jacques-Louis Lions Hispano-Francesa sobre Simulación Numérica en Física e Ingeniería, Barcelona
+Del prefacio	eugenia_libro_SP_12_11.tex	/^\\subsubsection*{Del prefacio}$/;"	b	subsection:Anuncios""Évariste Sanchez-Palencia y Jean-Pierre Françoise publican el libro: Dialectique dans les sciences et systèmes dynamiques. Le Temps des Cerises, 2023, 240~p.
+Diego Córdoba Gazolaz y Xavier Ros Otón galardonados con los Premios Nacionales de Investigación	noticias33.tex	/^\\subsection{Diego Córdoba Gazolaz y Xavier Ros Otón galardonados con los Premios Nacionales d/;"	u	section:Noticias
+Discrete Mathematics Days 2024, Alcalá de Henares	anuncios33.tex	/^\\subsection{Discrete Mathematics Days 2024, Alcalá de Henares}$/;"	u	section:Anuncios
+Editorial	boletin32/boletin32.html	/^ id="x1-1000"><\/a>Editorial<\/h3>$/;"	j
+Editorial	boletin32/editorial-N32.html	/^ id="x2-1000"><\/a>Editorial<\/h3>$/;"	j
+Editorial	boletin33.html	/^ id="x1-1000"><\/a>Editorial<\/h3>$/;"	j
+Editorial	editorial+presidente33.tex	/^\\section*{Editorial}$/;"	s
+Entradas en el blog	imus33.tex	/^\\subsubsection*{Entradas en el blog}$/;"	b	subsection:Anuncios""Actividades del Instituto de Matemáticas de la Universidad de Sevilla, IMUS
+Exposición	noticias33.tex	/^\\subsubsection*{Exposición}$/;"	b	subsection:Noticias""Exposición \\textit{Matemáticas a pie de calle} en Pamplona
+Exposición \\textit{Matemáticas a pie de calle} en Pamplona	noticias33.tex	/^\\subsection{Exposición \\textit{Matemáticas a pie de calle} en Pamplona}$/;"	u	section:Noticias
+F1	ReseniaActividadSEMAOlimpiadaESOAsturias2023.tex	/^  \\caption{Isabel ense\\~{n}ando el interfer\\'{o}metro a varios participantes.}\\label{F1}$/;"	l
+F2	ReseniaActividadSEMAOlimpiadaESOAsturias2023.tex	/^  \\caption{Algunos de los organizadores de la olimpiada junto a nuestra compa\\~{n}era Isabel.}/;"	l
+Fechas importantes.	anuncios33.tex	/^\\paragraph*{Fechas importantes.}$/;"	P	subsection:Anuncios""Congreso hispano-franco-alem\\'{a}n de optimizaci\\'{o}n
+Geometric And Variational Analysis In memory of Jan Mal\\'y	anuncios33.tex	/^\\subsection{Geometric And Variational Analysis In memory of Jan Mal\\'y}$/;"	u	section:Anuncios
+Hacerse socio de la SEMA es muy sencillo, y barato	boletin32/hacerse_socio_body.html	/^  <h3 align="center" class="sectionHead">Hacerse socio de la SEMA es muy sencillo, y barato<\/h3/;"	j
+Hacerse socio de la SEMA es muy sencillo, y barato	hacerse-socio.tex	/^\\section*{Hacerse socio de la SEMA es muy sencillo, y barato}$/;"	s
+Haïm Brezis, premio Steel 2024 de la AMS	noticias33.tex	/^\\subsection{Haïm Brezis, premio Steel 2024 de la AMS} $/;"	u	section:Noticias
+Inscripción, viaje y alojamiento	ehf2023.tex	/^\\subsubsection*{Inscripción, viaje y alojamiento}$/;"	b	subsection:Anuncios""XX Escuela Jacques-Louis Lions Hispano Francesa sobre Simulación Numérica en Física e Ingeniería, Barcelona
+Inscripci�n, viaje y alojamiento	plantilla-Boletin-SEMA.tex	/^\\subsubsection{Inscripci�n, viaje y alojamiento}$/;"	b	section:XXVI CEDYA/XVI CMA, Gij�n
+Invited speakers	anuncios33.tex	/^\\subsubsection*{Invited speakers} $/;"	b	subsection:Anuncios""Geometric And Variational Analysis In memory of Jan Mal\\'y
+Invited speakers	anuncios33.tex	/^\\subsubsection*{Invited speakers}$/;"	b	subsection:Anuncios""Santander Workshop on Geometric and Algebraic Combinatorics
+Jornada de Sociedades COSCE 2023	noticias33.tex	/^\\subsection{Jornada de Sociedades COSCE 2023} $/;"	u	section:Noticias
+Libros de los autores en el tema:	eugenia_libro_SP_12_11.tex	/^\\subsubsection*{Libros de los autores en el tema:}$/;"	b	subsection:Anuncios""Évariste Sanchez-Palencia y Jean-Pierre Françoise publican el libro: Dialectique dans les sciences et systèmes dynamiques. Le Temps des Cerises, 2023, 240~p.
+Minicourses (3 hours each)	anuncios33.tex	/^\\subsubsection*{Minicourses (3 hours each)} $/;"	b	subsection:Anuncios""Santander Workshop on Geometric and Algebraic Combinatorics
+Minisimposios	plantilla-Boletin-SEMA.tex	/^\\subsubsection{Minisimposios}$/;"	b	section:XXVI CEDYA/XVI CMA, Gij�n
+Modelling the Propagation of Fluids: Mathematical Analysis and Numerical Approximation, Valladolid	contribuciones_valladolid/mpf-SEMA.tex	/^\\subsection{Modelling the Propagation of Fluids: Mathematical Analysis and Numerical Approximat/;"	u	section:Anuncios
+NUMERO_BOLETIN	Makefile	/^NUMERO_BOLETIN=33$/;"	m
+NUMERO_BOLETIN	boletin32/Makefile	/^NUMERO_BOLETIN=32$/;"	m
+NUMERO_BOLETIN	boletin32/latex2html/Makefile	/^NUMERO_BOLETIN=32$/;"	m
+NUMERO_BOLETIN	latex2html/Makefile	/^NUMERO_BOLETIN=32$/;"	m
+Noticias	noticias33.tex	/^\\section{Noticias}$/;"	s
+Nuevos miembros en el consejo ejecutivo de la SEMA	noticias33.tex	/^\\subsection{Nuevos miembros en el consejo ejecutivo de la SEMA} $/;"	u	section:Noticias
+Número 32, mayo 2023	boletin32/header.html	/^    <h2>Número 32, mayo 2023<\/h2>$/;"	i
+Número 33, diciembre 2023	header.html	/^    <h2>Número 33, diciembre 2023<\/h2>$/;"	i
+Open positions	bcam33.tex	/^\\subsection*{Open positions}$/;"	u	section:Palabras del presidente
+Organizing committee	anuncios33.tex	/^\\subsubsection*{Organizing committee}$/;"	b	subsection:Anuncios""Discrete Mathematics Days 2024, Alcalá de Henares
+Organizing committee	anuncios33.tex	/^\\subsubsection*{Organizing committee}$/;"	b	subsection:Anuncios""Geometric And Variational Analysis In memory of Jan Mal\\'y
+Organizing committee	anuncios33.tex	/^\\subsubsection*{Organizing committee}$/;"	b	subsection:Anuncios""Santander Workshop on Geometric and Algebraic Combinatorics
+Palabras del presidente	boletin32/boletin32.html	/^ id="x1-2000"><\/a>Palabras del presidente<\/h3>$/;"	j
+Palabras del presidente	boletin32/palabras_presidente-N32.html	/^ id="x1-2000"><\/a>Palabras del presidente<\/h3>$/;"	j
+Palabras del presidente	boletin33.html	/^ id="x1-2000"><\/a>Palabras del presidente<\/h3>$/;"	j
+Palabras del presidente	editorial+presidente33.tex	/^\\section*{Palabras del presidente}$/;"	s
+Participaci\\'{o}n.	anuncios33.tex	/^\\paragraph*{Participaci\\'{o}n.}$/;"	P	subsection:Anuncios""Congreso hispano-franco-alem\\'{a}n de optimizaci\\'{o}n
+Participation opportunities	anuncios33.tex	/^\\subsubsection*{Participation opportunities}$/;"	b	subsection:Anuncios""Geometric And Variational Analysis In memory of Jan Mal\\'y
+Preámbulo	anuncios33.tex	/^ \\subsubsection*{Preámbulo}$/;"	b	subsection:Anuncios""Convocatoria del XXVII Premio SEMA <<Antonio Valle>> al Joven Investigador (2024)
+Preámbulo	premio_eccomas.tex	/^ \\subsubsection{Preámbulo}$/;"	b	subsection:Anuncios""Convocatoria del XXVII Premio SEMA <<Antonio Valle>> al Joven Investigador (2024)
+Q1-1-2	boletin32/boletin32.html	/^ id="Q1-1-2"><\/a>$/;"	I
+Q1-1-2	boletin33.html	/^ id="Q1-1-2"><\/a>$/;"	I
+Q1-1-4	boletin32/boletin32.html	/^ id="Q1-1-4"><\/a>$/;"	I
+Q1-1-4	boletin32/palabras_presidente-N32.html	/^ id="Q1-1-4"><\/a>$/;"	I
+Q1-1-4	boletin33.html	/^ id="Q1-1-4"><\/a>$/;"	I
+Q1-2-2	boletin32/editorial-N32.html	/^ id="Q1-2-2"><\/a>$/;"	I
+QQ2-1-1	boletin32/boletin32.html	/^href="#x1-1000" id="QQ2-1-1">Editorial<\/a><\/span>$/;"	I
+QQ2-1-1	boletin33.html	/^href="#x1-1000" id="QQ2-1-1">Editorial<\/a><\/span>$/;"	I
+QQ2-1-3	boletin32/boletin32.html	/^href="#x1-2000" id="QQ2-1-3">Palabras del presidente<\/a><\/span>$/;"	I
+QQ2-1-3	boletin33.html	/^href="#x1-2000" id="QQ2-1-3">Palabras del presidente<\/a><\/span>$/;"	I
+Registration and fees	anuncios33.tex	/^\\subsubsection*{Registration and fees} $/;"	b	subsection:Anuncios""Geometric And Variational Analysis In memory of Jan Mal\\'y
+Renovación parcial del panel de Matemáticas de la Agencia Estatal de Investigación	noticias33.tex	/^\\subsection{Renovación parcial del panel de Matemáticas de la Agencia Estatal de Investigació/;"	u	section:Noticias
+Resumen de tesis	andrevf_tesis-defendida.tex	/^\\subsection{Resumen de tesis}$/;"	u	section:Anuncios
+SEMA \\textit{Journal}\\label{sec:sema-journal}	sema-journal80-1.tex	/^\\section{SEMA \\textit{Journal}\\label{sec:sema-journal}}$/;"	s
+Santander Workshop on Geometric and Algebraic Combinatorics	anuncios33.tex	/^\\subsection{Santander Workshop on Geometric and Algebraic Combinatorics}$/;"	u	section:Anuncios
+Sobre los autores:	eugenia_libro_SP_12_11.tex	/^\\subsubsection*{Sobre los autores:}$/;"	b	subsection:Anuncios""Évariste Sanchez-Palencia y Jean-Pierre Françoise publican el libro: Dialectique dans les sciences et systèmes dynamiques. Le Temps des Cerises, 2023, 240~p.
+Socios institucionales	socios-institucionales.tex	/^\\section{Socios institucionales}$/;"	s
+Solemne acto de entrega de la Medalla Echegaray 2022	noticias33.tex	/^\\subsection{Solemne acto de entrega de la Medalla Echegaray 2022}$/;"	u	section:Noticias
+Solemne acto de entrega de la Medalla Echegaray 2022, Madrid	echegaray_carrillo/echegaray_carillo.tex	/^\\section{Solemne acto de entrega de la Medalla Echegaray 2022, Madrid}$/;"	s
+Sponsors	anuncios33.tex	/^\\subsubsection*{Sponsors}$/;"	b	subsection:Anuncios""Boundary and Interior Layers (BAIL) Conference
+TBL-1	boletin32/boletin32.html	/^   <div class="tabular"> <table id="TBL-1" class="tabular" $/;"	I
+TBL-1	boletin33.html	/^   <div class="tabular"> <table id="TBL-1" class="tabular" $/;"	I
+TBL-1-1	boletin32/boletin32.html	/^id="TBL-1-1" \/><col $/;"	I
+TBL-1-1	boletin33.html	/^id="TBL-1-1" \/><col $/;"	I
+TBL-1-1-	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-1-1-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-1-1-	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-1-1-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-1-1-1	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-1-1-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-1-1-1	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-1-1-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-1-1-2	boletin32/boletin32.html	/^class="td10">   <\/td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-1-2"  $/;"	I
+TBL-1-1-2	boletin33.html	/^class="td10">   <\/td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-1-2"  $/;"	I
+TBL-1-1g	boletin32/boletin32.html	/^><colgroup id="TBL-1-1g"><col $/;"	I
+TBL-1-1g	boletin33.html	/^><colgroup id="TBL-1-1g"><col $/;"	I
+TBL-1-2	boletin32/boletin32.html	/^id="TBL-1-2" \/><\/colgroup><tr  $/;"	I
+TBL-1-2	boletin33.html	/^id="TBL-1-2" \/><\/colgroup><tr  $/;"	I
+TBL-1-2-	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-1-2-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-1-2-	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-1-2-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-1-2-1	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-1-2-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-1-2-1	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-1-2-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-1-2-2	boletin32/boletin32.html	/^class="td10">    <\/td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-2-2"  $/;"	I
+TBL-1-2-2	boletin33.html	/^class="td10">    <\/td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-2-2"  $/;"	I
+TBL-1-3-	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-1-3-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-1-3-	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-1-3-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-1-3-1	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-1-3-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-1-3-1	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-1-3-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-1-3-2	boletin32/boletin32.html	/^class="tcrm-1000">© <\/span><\/td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-3/;"	I
+TBL-1-3-2	boletin33.html	/^class="tcrm-1000">© <\/span><\/td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-3/;"	I
+TBL-1-4-	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-1-4-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-1-4-	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-1-4-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-1-4-1	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-1-4-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-1-4-1	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-1-4-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-1-4-2	boletin32/boletin32.html	/^class="tcrm-1000">© <\/span><\/td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-4/;"	I
+TBL-1-4-2	boletin33.html	/^class="tcrm-1000">© <\/span><\/td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-4/;"	I
+TBL-1-5-	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-1-5-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-1-5-	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-1-5-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-1-5-1	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-1-5-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-1-5-1	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-1-5-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-1-5-2	boletin32/boletin32.html	/^class="td10">    <\/td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-5-2"  $/;"	I
+TBL-1-5-2	boletin33.html	/^class="td10">    <\/td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-5-2"  $/;"	I
+TBL-1-6-	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-1-6-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-1-6-	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-1-6-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-1-6-1	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-1-6-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-1-6-1	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-1-6-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-1-6-2	boletin32/boletin32.html	/^class="td10">    <\/td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-6-2"  $/;"	I
+TBL-1-6-2	boletin33.html	/^class="td10">    <\/td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-6-2"  $/;"	I
+TBL-2	boletin32/boletin32.html	/^<\/p><!--l. 105--><p class="indent" >   <!--tex4ht:inline--><\/p><div class="tabular"> <table id/;"	I
+TBL-2	boletin32/editorial-N32.html	/^    <div class="tabular"> <table id="TBL-2" class="tabular" $/;"	I
+TBL-2	boletin32/palabras_presidente-N32.html	/^<\/p><!--l. 105--><p class="indent" >   <!--tex4ht:inline--><\/p><div class="tabular"> <table id/;"	I
+TBL-2	boletin33.html	/^<\/p><!--l. 98--><p class="indent" >   <!--tex4ht:inline--><\/p><div class="tabular"> <table id=/;"	I
+TBL-2-1	boletin32/boletin32.html	/^id="TBL-2-1" \/><\/colgroup><tr  $/;"	I
+TBL-2-1	boletin32/editorial-N32.html	/^        id="TBL-2-1" \/><\/colgroup><tr  $/;"	I
+TBL-2-1	boletin32/palabras_presidente-N32.html	/^id="TBL-2-1" \/><\/colgroup><tr  $/;"	I
+TBL-2-1	boletin33.html	/^id="TBL-2-1" \/><\/colgroup><tr  $/;"	I
+TBL-2-1-	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-2-1-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-2-1-	boletin32/editorial-N32.html	/^          style="vertical-align:baseline;" id="TBL-2-1-"><td  style="white-space:nowrap; text-al/;"	I
+TBL-2-1-	boletin32/editorial-N32.html	/^        style="vertical-align:baseline;" id="TBL-2-1-"><td  style="white-space:nowrap; text-alig/;"	I
+TBL-2-1-	boletin32/palabras_presidente-N32.html	/^ style="vertical-align:baseline;" id="TBL-2-1-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-2-1-	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-2-1-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-2-1-1	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-2-1-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-2-1-1	boletin32/editorial-N32.html	/^          style="vertical-align:baseline;" id="TBL-2-1-"><td  style="white-space:nowrap; text-al/;"	I
+TBL-2-1-1	boletin32/editorial-N32.html	/^        style="vertical-align:baseline;" id="TBL-2-1-"><td  style="white-space:nowrap; text-alig/;"	I
+TBL-2-1-1	boletin32/palabras_presidente-N32.html	/^ style="vertical-align:baseline;" id="TBL-2-1-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-2-1-1	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-2-1-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-2-1g	boletin32/boletin32.html	/^><colgroup id="TBL-2-1g"><col $/;"	I
+TBL-2-1g	boletin32/editorial-N32.html	/^      align="right" ><colgroup id="TBL-2-1g"><col $/;"	I
+TBL-2-1g	boletin32/palabras_presidente-N32.html	/^><colgroup id="TBL-2-1g"><col $/;"	I
+TBL-2-1g	boletin33.html	/^><colgroup id="TBL-2-1g"><col $/;"	I
+TBL-2-2-	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-2-2-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-2-2-	boletin32/editorial-N32.html	/^        style="vertical-align:baseline;" id="TBL-2-2-"><td  style="white-space:nowrap; text-alig/;"	I
+TBL-2-2-	boletin32/palabras_presidente-N32.html	/^ style="vertical-align:baseline;" id="TBL-2-2-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-2-2-	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-2-2-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-2-2-1	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-2-2-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-2-2-1	boletin32/editorial-N32.html	/^        style="vertical-align:baseline;" id="TBL-2-2-"><td  style="white-space:nowrap; text-alig/;"	I
+TBL-2-2-1	boletin32/palabras_presidente-N32.html	/^ style="vertical-align:baseline;" id="TBL-2-2-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-2-2-1	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-2-2-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-2-3-	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-2-3-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-2-3-	boletin32/palabras_presidente-N32.html	/^ style="vertical-align:baseline;" id="TBL-2-3-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-2-3-	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-2-3-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-2-3-1	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-2-3-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-2-3-1	boletin32/palabras_presidente-N32.html	/^ style="vertical-align:baseline;" id="TBL-2-3-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-2-3-1	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-2-3-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-3	boletin32/anuncios-N32.html	/^<div class="tabular"> <table id="TBL-3" class="tabular" $/;"	I
+TBL-3	boletin32/boletin32.html	/^<div class="tabular"> <table id="TBL-3" class="tabular" $/;"	I
+TBL-3	boletin33.html	/^<\/p><!--l. 55--><p class="indent" >   <!--tex4ht:inline--><\/p><div class="tabular"> <table id=/;"	I
+TBL-3-1	boletin32/anuncios-N32.html	/^id="TBL-3-1" \/><col $/;"	I
+TBL-3-1	boletin32/boletin32.html	/^id="TBL-3-1" \/><col $/;"	I
+TBL-3-1	boletin33.html	/^id="TBL-3-1" \/><\/colgroup><tr  $/;"	I
+TBL-3-1-	boletin32/anuncios-N32.html	/^ style="vertical-align:baseline;" id="TBL-3-1-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-3-1-	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-3-1-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-3-1-	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-3-1-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-3-1-1	boletin32/anuncios-N32.html	/^ style="vertical-align:baseline;" id="TBL-3-1-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-3-1-1	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-3-1-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-3-1-1	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-3-1-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-3-1-2	boletin32/anuncios-N32.html	/^class="td10"> Early application closing date    <\/td><td  style="white-space:nowrap; text-align/;"	I
+TBL-3-1-2	boletin32/boletin32.html	/^class="td10"> Early application closing date    <\/td><td  style="white-space:nowrap; text-align/;"	I
+TBL-3-1g	boletin32/anuncios-N32.html	/^><colgroup id="TBL-3-1g"><col $/;"	I
+TBL-3-1g	boletin32/boletin32.html	/^><colgroup id="TBL-3-1g"><col $/;"	I
+TBL-3-1g	boletin33.html	/^><colgroup id="TBL-3-1g"><col $/;"	I
+TBL-3-2	boletin32/anuncios-N32.html	/^id="TBL-3-2" \/><\/colgroup><tr  $/;"	I
+TBL-3-2	boletin32/boletin32.html	/^id="TBL-3-2" \/><\/colgroup><tr  $/;"	I
+TBL-3-2-	boletin32/anuncios-N32.html	/^ style="vertical-align:baseline;" id="TBL-3-2-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-3-2-	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-3-2-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-3-2-	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-3-2-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-3-2-1	boletin32/anuncios-N32.html	/^ style="vertical-align:baseline;" id="TBL-3-2-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-3-2-1	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-3-2-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-3-2-1	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-3-2-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-3-2-2	boletin32/anuncios-N32.html	/^class="td10"> Notiﬁcation of acceptance          <\/td><td  style="white-space:nowrap; text-al/;"	I
+TBL-3-2-2	boletin32/boletin32.html	/^class="td10"> Notiﬁcation of acceptance          <\/td><td  style="white-space:nowrap; text-al/;"	I
+TBL-3-3-	boletin32/anuncios-N32.html	/^ style="vertical-align:baseline;" id="TBL-3-3-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-3-3-	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-3-3-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-3-3-	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-3-3-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-3-3-1	boletin32/anuncios-N32.html	/^ style="vertical-align:baseline;" id="TBL-3-3-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-3-3-1	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-3-3-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-3-3-1	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-3-3-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-3-3-2	boletin32/anuncios-N32.html	/^class="td10"> Early registration opening date   <\/td><td  style="white-space:nowrap; text-align/;"	I
+TBL-3-3-2	boletin32/boletin32.html	/^class="td10"> Early registration opening date   <\/td><td  style="white-space:nowrap; text-align/;"	I
+TBL-3-4-	boletin32/anuncios-N32.html	/^ style="vertical-align:baseline;" id="TBL-3-4-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-3-4-	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-3-4-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-3-4-1	boletin32/anuncios-N32.html	/^ style="vertical-align:baseline;" id="TBL-3-4-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-3-4-1	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-3-4-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-3-4-2	boletin32/anuncios-N32.html	/^class="td10"> Early registration closing date    <\/td><td  style="white-space:nowrap; text-alig/;"	I
+TBL-3-4-2	boletin32/boletin32.html	/^class="td10"> Early registration closing date    <\/td><td  style="white-space:nowrap; text-alig/;"	I
+TBL-4	boletin32/anuncios-N32.html	/^<\/p><!--l. 580--><p class="indent" >   <!--tex4ht:inline--><\/p><div class="tabular"> <table id/;"	I
+TBL-4	boletin32/boletin32.html	/^<\/p><!--l. 580--><p class="indent" >   <!--tex4ht:inline--><\/p><div class="tabular"> <table id/;"	I
+TBL-4	boletin33.html	/^<div class="tabular"> <table id="TBL-4" class="tabular" $/;"	I
+TBL-4-1	boletin32/anuncios-N32.html	/^id="TBL-4-1" \/><\/colgroup><tr  $/;"	I
+TBL-4-1	boletin32/boletin32.html	/^id="TBL-4-1" \/><\/colgroup><tr  $/;"	I
+TBL-4-1	boletin33.html	/^id="TBL-4-1" \/><\/colgroup><tr  $/;"	I
+TBL-4-1-	boletin32/anuncios-N32.html	/^ style="vertical-align:baseline;" id="TBL-4-1-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-4-1-	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-4-1-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-4-1-	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-4-1-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-4-1-1	boletin32/anuncios-N32.html	/^ style="vertical-align:baseline;" id="TBL-4-1-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-4-1-1	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-4-1-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-4-1-1	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-4-1-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-4-1g	boletin32/anuncios-N32.html	/^><colgroup id="TBL-4-1g"><col $/;"	I
+TBL-4-1g	boletin32/boletin32.html	/^><colgroup id="TBL-4-1g"><col $/;"	I
+TBL-4-1g	boletin33.html	/^><colgroup id="TBL-4-1g"><col $/;"	I
+TBL-4-2-	boletin32/anuncios-N32.html	/^ style="vertical-align:baseline;" id="TBL-4-2-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-4-2-	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-4-2-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-4-2-	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-4-2-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-4-2-1	boletin32/anuncios-N32.html	/^ style="vertical-align:baseline;" id="TBL-4-2-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-4-2-1	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-4-2-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-4-2-1	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-4-2-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-5	boletin32/anuncios-N32.html	/^<!--l. 611--><p class="indent" >   <!--tex4ht:inline--><\/p><div class="tabular"> <table id="TBL/;"	I
+TBL-5	boletin32/boletin32.html	/^<!--l. 611--><p class="indent" >   <!--tex4ht:inline--><\/p><div class="tabular"> <table id="TBL/;"	I
+TBL-5	boletin33.html	/^<!--l. 342--><p class="noindent" ><!--tex4ht:inline--><\/p><div class="tabular"> <table id="TBL-/;"	I
+TBL-5-1	boletin32/anuncios-N32.html	/^id="TBL-5-1" \/><\/colgroup><tr  $/;"	I
+TBL-5-1	boletin32/boletin32.html	/^id="TBL-5-1" \/><\/colgroup><tr  $/;"	I
+TBL-5-1	boletin33.html	/^id="TBL-5-1" \/><\/colgroup><colgroup id="TBL-5-2g"><col $/;"	I
+TBL-5-1-	boletin32/anuncios-N32.html	/^ style="vertical-align:baseline;" id="TBL-5-1-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-5-1-	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-5-1-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-5-1-	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-5-1-"><td  style="white-space:normal; text-align:left;/;"	I
+TBL-5-1-1	boletin32/anuncios-N32.html	/^ style="vertical-align:baseline;" id="TBL-5-1-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-5-1-1	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-5-1-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-5-1-1	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-5-1-"><td  style="white-space:normal; text-align:left;/;"	I
+TBL-5-1-2	boletin33.html	/^class="ecbx-1000">Scientiﬁc Committee<\/span>                       <\/p><\/td><td  style="whi/;"	I
+TBL-5-1g	boletin32/anuncios-N32.html	/^><colgroup id="TBL-5-1g"><col $/;"	I
+TBL-5-1g	boletin32/boletin32.html	/^><colgroup id="TBL-5-1g"><col $/;"	I
+TBL-5-1g	boletin33.html	/^><colgroup id="TBL-5-1g"><col $/;"	I
+TBL-5-2	boletin33.html	/^id="TBL-5-2" \/><\/colgroup><tr  $/;"	I
+TBL-5-2-	boletin32/anuncios-N32.html	/^ style="vertical-align:baseline;" id="TBL-5-2-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-5-2-	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-5-2-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-5-2-	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-5-2-"><td  style="white-space:normal; text-align:left;/;"	I
+TBL-5-2-1	boletin32/anuncios-N32.html	/^ style="vertical-align:baseline;" id="TBL-5-2-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-5-2-1	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-5-2-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-5-2-1	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-5-2-"><td  style="white-space:normal; text-align:left;/;"	I
+TBL-5-2-2	boletin33.html	/^  de Buenos Aires)                                    <\/p><\/td><td  style="white-space:normal;/;"	I
+TBL-5-2g	boletin33.html	/^id="TBL-5-1" \/><\/colgroup><colgroup id="TBL-5-2g"><col $/;"	I
+TBL-5-3-	boletin32/anuncios-N32.html	/^ style="vertical-align:baseline;" id="TBL-5-3-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-5-3-	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-5-3-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-5-3-	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-5-3-"><td  style="white-space:normal; text-align:left;/;"	I
+TBL-5-3-1	boletin32/anuncios-N32.html	/^ style="vertical-align:baseline;" id="TBL-5-3-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-5-3-1	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-5-3-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-5-3-1	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-5-3-"><td  style="white-space:normal; text-align:left;/;"	I
+TBL-5-3-2	boletin33.html	/^  Strathclyde)                                          <\/p><\/td><td  style="white-space:norma/;"	I
+TBL-5-4-	boletin32/anuncios-N32.html	/^ style="vertical-align:baseline;" id="TBL-5-4-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-5-4-	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-5-4-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-5-4-	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-5-4-"><td  style="white-space:normal; text-align:left;/;"	I
+TBL-5-4-1	boletin32/anuncios-N32.html	/^ style="vertical-align:baseline;" id="TBL-5-4-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-5-4-1	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-5-4-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-5-4-1	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-5-4-"><td  style="white-space:normal; text-align:left;/;"	I
+TBL-5-4-2	boletin33.html	/^class="td11"> <!--l. 346--><p class="noindent" >Petr Knobloch (Charles University)            <\//;"	I
+TBL-5-5-	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-5-5-"><td  style="white-space:normal; text-align:left;/;"	I
+TBL-5-5-1	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-5-5-"><td  style="white-space:normal; text-align:left;/;"	I
+TBL-5-5-2	boletin33.html	/^class="td11"> <!--l. 347--><p class="noindent" >Natalia Kopteva (University of Limerick)     <\//;"	I
+TBL-5-6-	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-5-6-"><td  style="white-space:normal; text-align:left;/;"	I
+TBL-5-6-1	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-5-6-"><td  style="white-space:normal; text-align:left;/;"	I
+TBL-5-6-2	boletin33.html	/^  Madrid)                                                <\/p><\/td><td  style="white-space:norm/;"	I
+TBL-5-7-	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-5-7-"><td  style="white-space:normal; text-align:left;/;"	I
+TBL-5-7-1	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-5-7-"><td  style="white-space:normal; text-align:left;/;"	I
+TBL-5-7-2	boletin33.html	/^class="td11"> <!--l. 349--><p class="noindent" >                                     <\/p><\/td>/;"	I
+TBL-6	boletin32/boletin32.html	/^<\/p><!--l. 25--><p class="noindent" ><!--tex4ht:inline--><\/p><div class="tabular"><table id="T/;"	I
+TBL-6	boletin33.html	/^<\/p><!--l. 27--><p class="noindent" ><!--tex4ht:inline--><\/p><div class="tabular"><table id="T/;"	I
+TBL-6-1	boletin32/boletin32.html	/^id="TBL-6-1" \/><col $/;"	I
+TBL-6-1	boletin33.html	/^id="TBL-6-1" \/><col $/;"	I
+TBL-6-1-	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-6-1-"><td colspan="2" style="white-space:nowrap; text-/;"	I
+TBL-6-1-	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-6-1-"><td colspan="2" style="white-space:nowrap; text-/;"	I
+TBL-6-1-1	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-6-1-"><td colspan="2" style="white-space:nowrap; text-/;"	I
+TBL-6-1-1	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-6-1-"><td colspan="2" style="white-space:nowrap; text-/;"	I
+TBL-6-10-	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-6-10-"><td  style="white-space:nowrap; text-align:righ/;"	I
+TBL-6-10-	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-6-10-"><td  style="white-space:nowrap; text-align:righ/;"	I
+TBL-6-10-1	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-6-10-"><td  style="white-space:nowrap; text-align:righ/;"	I
+TBL-6-10-1	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-6-10-"><td  style="white-space:nowrap; text-align:righ/;"	I
+TBL-6-10-2	boletin32/boletin32.html	/^class="td11">                                     <\/td><td  style="white-space:nowrap; text-ali/;"	I
+TBL-6-10-2	boletin33.html	/^class="td11">                                            <\/td><td  style="white-space:nowrap; t/;"	I
+TBL-6-11-	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-6-11-"><td  style="white-space:nowrap; text-align:righ/;"	I
+TBL-6-11-	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-6-11-"><td  style="white-space:nowrap; text-align:righ/;"	I
+TBL-6-11-1	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-6-11-"><td  style="white-space:nowrap; text-align:righ/;"	I
+TBL-6-11-1	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-6-11-"><td  style="white-space:nowrap; text-align:righ/;"	I
+TBL-6-11-2	boletin32/boletin32.html	/^class="td11">                                     <\/td><td  style="white-space:nowrap; text-ali/;"	I
+TBL-6-11-2	boletin33.html	/^class="td11">                                            <\/td><td  style="white-space:nowrap; t/;"	I
+TBL-6-12-	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-6-12-"><td  style="white-space:nowrap; text-align:righ/;"	I
+TBL-6-12-	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-6-12-"><td  style="white-space:nowrap; text-align:righ/;"	I
+TBL-6-12-1	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-6-12-"><td  style="white-space:nowrap; text-align:righ/;"	I
+TBL-6-12-1	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-6-12-"><td  style="white-space:nowrap; text-align:righ/;"	I
+TBL-6-12-2	boletin32/boletin32.html	/^class="td11">                                     <\/td><td  style="white-space:nowrap; text-ali/;"	I
+TBL-6-12-2	boletin33.html	/^class="td11">                                            <\/td><td  style="white-space:nowrap; t/;"	I
+TBL-6-13-	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-6-13-"><td  style="white-space:nowrap; text-align:righ/;"	I
+TBL-6-13-	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-6-13-"><td  style="white-space:nowrap; text-align:righ/;"	I
+TBL-6-13-1	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-6-13-"><td  style="white-space:nowrap; text-align:righ/;"	I
+TBL-6-13-1	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-6-13-"><td  style="white-space:nowrap; text-align:righ/;"	I
+TBL-6-13-2	boletin32/boletin32.html	/^class="td11">                                     <\/td><td  style="white-space:nowrap; text-ali/;"	I
+TBL-6-13-2	boletin33.html	/^class="callig-15x-x-165">n web <\/span><\/td><td  style="white-space:nowrap; text-align:left;" i/;"	I
+TBL-6-14-	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-6-14-"><td  style="white-space:nowrap; text-align:righ/;"	I
+TBL-6-14-	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-6-14-"><td  style="white-space:nowrap; text-align:righ/;"	I
+TBL-6-14-1	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-6-14-"><td  style="white-space:nowrap; text-align:righ/;"	I
+TBL-6-14-1	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-6-14-"><td  style="white-space:nowrap; text-align:righ/;"	I
+TBL-6-14-2	boletin32/boletin32.html	/^class="callig-15x-x-165">n web <\/span><\/td><td  style="white-space:nowrap; text-align:left;" i/;"	I
+TBL-6-14-2	boletin33.html	/^class="td11">                                            <\/td><td  style="white-space:nowrap; t/;"	I
+TBL-6-15-	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-6-15-"><td  style="white-space:nowrap; text-align:righ/;"	I
+TBL-6-15-	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-6-15-"><td  style="white-space:nowrap; text-align:righ/;"	I
+TBL-6-15-1	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-6-15-"><td  style="white-space:nowrap; text-align:righ/;"	I
+TBL-6-15-1	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-6-15-"><td  style="white-space:nowrap; text-align:righ/;"	I
+TBL-6-15-2	boletin32/boletin32.html	/^class="td11">                                     <\/td><td  style="white-space:nowrap; text-ali/;"	I
+TBL-6-15-2	boletin33.html	/^class="td11">                                            <\/td><td  style="white-space:nowrap; t/;"	I
+TBL-6-16-	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-6-16-"><td  style="white-space:nowrap; text-align:righ/;"	I
+TBL-6-16-	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-6-16-"><td  style="white-space:nowrap; text-align:righ/;"	I
+TBL-6-16-1	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-6-16-"><td  style="white-space:nowrap; text-align:righ/;"	I
+TBL-6-16-1	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-6-16-"><td  style="white-space:nowrap; text-align:righ/;"	I
+TBL-6-16-2	boletin32/boletin32.html	/^class="td11">                                     <\/td><td  style="white-space:nowrap; text-ali/;"	I
+TBL-6-16-2	boletin33.html	/^class="td11">                                            <\/td><td  style="white-space:nowrap; t/;"	I
+TBL-6-17-	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-6-17-"><td  style="white-space:nowrap; text-align:righ/;"	I
+TBL-6-17-	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-6-17-"><td  style="white-space:nowrap; text-align:righ/;"	I
+TBL-6-17-1	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-6-17-"><td  style="white-space:nowrap; text-align:righ/;"	I
+TBL-6-17-1	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-6-17-"><td  style="white-space:nowrap; text-align:righ/;"	I
+TBL-6-17-2	boletin32/boletin32.html	/^class="td11">                                     <\/td><td  style="white-space:nowrap; text-ali/;"	I
+TBL-6-17-2	boletin33.html	/^class="td11">                                            <\/td><td  style="white-space:nowrap; t/;"	I
+TBL-6-18-	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-6-18-"><td  style="white-space:nowrap; text-align:righ/;"	I
+TBL-6-18-	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-6-18-"><td  style="white-space:nowrap; text-align:righ/;"	I
+TBL-6-18-1	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-6-18-"><td  style="white-space:nowrap; text-align:righ/;"	I
+TBL-6-18-1	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-6-18-"><td  style="white-space:nowrap; text-align:righ/;"	I
+TBL-6-18-2	boletin32/boletin32.html	/^class="td11">                                     <\/td><td  style="white-space:nowrap; text-ali/;"	I
+TBL-6-18-2	boletin33.html	/^class="callig-15x-x-199">gina web <\/span><\/td><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-6-19-	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-6-19-"><td  style="white-space:nowrap; text-align:righ/;"	I
+TBL-6-19-	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-6-19-"><td  style="white-space:nowrap; text-align:righ/;"	I
+TBL-6-19-1	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-6-19-"><td  style="white-space:nowrap; text-align:righ/;"	I
+TBL-6-19-1	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-6-19-"><td  style="white-space:nowrap; text-align:righ/;"	I
+TBL-6-19-2	boletin32/boletin32.html	/^class="callig-15x-x-199">gina web <\/span><\/td><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-6-19-2	boletin33.html	/^class="callig-15x-x-199">Contacto <\/span><\/td><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-6-1g	boletin32/boletin32.html	/^><colgroup id="TBL-6-1g"><col $/;"	I
+TBL-6-1g	boletin33.html	/^><colgroup id="TBL-6-1g"><col $/;"	I
+TBL-6-2	boletin32/boletin32.html	/^id="TBL-6-2" \/><\/colgroup><tr  $/;"	I
+TBL-6-2	boletin33.html	/^id="TBL-6-2" \/><\/colgroup><tr  $/;"	I
+TBL-6-2-	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-6-2-"><td  style="white-space:nowrap; text-align:right/;"	I
+TBL-6-2-	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-6-2-"><td  style="white-space:nowrap; text-align:right/;"	I
+TBL-6-2-1	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-6-2-"><td  style="white-space:nowrap; text-align:right/;"	I
+TBL-6-2-1	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-6-2-"><td  style="white-space:nowrap; text-align:right/;"	I
+TBL-6-2-2	boletin32/boletin32.html	/^class="callig-15x-x-199">Editores <\/span><\/td><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-6-2-2	boletin33.html	/^class="callig-15x-x-199">Editores <\/span><\/td><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-6-20-	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-6-20-"><td  style="white-space:nowrap; text-align:righ/;"	I
+TBL-6-20-	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-6-20-"><td  style="white-space:nowrap; text-align:righ/;"	I
+TBL-6-20-1	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-6-20-"><td  style="white-space:nowrap; text-align:righ/;"	I
+TBL-6-20-1	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-6-20-"><td  style="white-space:nowrap; text-align:righ/;"	I
+TBL-6-20-2	boletin32/boletin32.html	/^class="callig-15x-x-199">Contacto <\/span><\/td><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-6-20-2	boletin33.html	/^width="212" height="212"  \/>  <\/td><td  style="white-space:nowrap; text-align:right;" id="TBL-/;"	I
+TBL-6-21-	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-6-21-"><td  style="white-space:nowrap; text-align:righ/;"	I
+TBL-6-21-1	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-6-21-"><td  style="white-space:nowrap; text-align:righ/;"	I
+TBL-6-21-2	boletin32/boletin32.html	/^width="174" height="246"  \/>  <\/td><td  style="white-space:nowrap; text-align:right;" id="TBL-/;"	I
+TBL-6-3-	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-6-3-"><td  style="white-space:nowrap; text-align:right/;"	I
+TBL-6-3-	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-6-3-"><td  style="white-space:nowrap; text-align:right/;"	I
+TBL-6-3-1	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-6-3-"><td  style="white-space:nowrap; text-align:right/;"	I
+TBL-6-3-1	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-6-3-"><td  style="white-space:nowrap; text-align:right/;"	I
+TBL-6-3-2	boletin32/boletin32.html	/^class="td11">                                     <\/td><td  style="white-space:nowrap; text-ali/;"	I
+TBL-6-3-2	boletin33.html	/^class="td11">                                            <\/td><td  style="white-space:nowrap; t/;"	I
+TBL-6-4-	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-6-4-"><td  style="white-space:nowrap; text-align:right/;"	I
+TBL-6-4-	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-6-4-"><td  style="white-space:nowrap; text-align:right/;"	I
+TBL-6-4-1	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-6-4-"><td  style="white-space:nowrap; text-align:right/;"	I
+TBL-6-4-1	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-6-4-"><td  style="white-space:nowrap; text-align:right/;"	I
+TBL-6-4-2	boletin32/boletin32.html	/^class="callig-15x-x-199">editorial <\/span><\/td><td  style="white-space:nowrap; text-align:left/;"	I
+TBL-6-4-2	boletin33.html	/^class="callig-15x-x-199">editorial <\/span><\/td><td  style="white-space:nowrap; text-align:left/;"	I
+TBL-6-5-	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-6-5-"><td  style="white-space:nowrap; text-align:right/;"	I
+TBL-6-5-	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-6-5-"><td  style="white-space:nowrap; text-align:right/;"	I
+TBL-6-5-1	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-6-5-"><td  style="white-space:nowrap; text-align:right/;"	I
+TBL-6-5-1	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-6-5-"><td  style="white-space:nowrap; text-align:right/;"	I
+TBL-6-5-2	boletin32/boletin32.html	/^class="td11">                                     <\/td><td  style="white-space:nowrap; text-ali/;"	I
+TBL-6-5-2	boletin33.html	/^class="td11">                                            <\/td><td  style="white-space:nowrap; t/;"	I
+TBL-6-6-	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-6-6-"><td  style="white-space:nowrap; text-align:right/;"	I
+TBL-6-6-	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-6-6-"><td  style="white-space:nowrap; text-align:right/;"	I
+TBL-6-6-1	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-6-6-"><td  style="white-space:nowrap; text-align:right/;"	I
+TBL-6-6-1	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-6-6-"><td  style="white-space:nowrap; text-align:right/;"	I
+TBL-6-6-2	boletin32/boletin32.html	/^class="td11">                                     <\/td><td  style="white-space:nowrap; text-ali/;"	I
+TBL-6-6-2	boletin33.html	/^class="td11">                                            <\/td><td  style="white-space:nowrap; t/;"	I
+TBL-6-7-	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-6-7-"><td  style="white-space:nowrap; text-align:right/;"	I
+TBL-6-7-	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-6-7-"><td  style="white-space:nowrap; text-align:right/;"	I
+TBL-6-7-1	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-6-7-"><td  style="white-space:nowrap; text-align:right/;"	I
+TBL-6-7-1	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-6-7-"><td  style="white-space:nowrap; text-align:right/;"	I
+TBL-6-7-2	boletin32/boletin32.html	/^class="td11">                                     <\/td><td  style="white-space:nowrap; text-ali/;"	I
+TBL-6-7-2	boletin33.html	/^class="td11">                                            <\/td><td  style="white-space:nowrap; t/;"	I
+TBL-6-8-	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-6-8-"><td  style="white-space:nowrap; text-align:right/;"	I
+TBL-6-8-	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-6-8-"><td  style="white-space:nowrap; text-align:right/;"	I
+TBL-6-8-1	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-6-8-"><td  style="white-space:nowrap; text-align:right/;"	I
+TBL-6-8-1	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-6-8-"><td  style="white-space:nowrap; text-align:right/;"	I
+TBL-6-8-2	boletin32/boletin32.html	/^class="td11">                                     <\/td><td  style="white-space:nowrap; text-ali/;"	I
+TBL-6-8-2	boletin33.html	/^class="td11">                                            <\/td><td  style="white-space:nowrap; t/;"	I
+TBL-6-9-	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-6-9-"><td  style="white-space:nowrap; text-align:right/;"	I
+TBL-6-9-	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-6-9-"><td  style="white-space:nowrap; text-align:right/;"	I
+TBL-6-9-1	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-6-9-"><td  style="white-space:nowrap; text-align:right/;"	I
+TBL-6-9-1	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-6-9-"><td  style="white-space:nowrap; text-align:right/;"	I
+TBL-6-9-2	boletin32/boletin32.html	/^class="td11">                                     <\/td><td  style="white-space:nowrap; text-ali/;"	I
+TBL-6-9-2	boletin33.html	/^class="td11">                                            <\/td><td  style="white-space:nowrap; t/;"	I
+Ulysseus Spring School in PDEs (USSPDE)	Ulysseus2023SeMA/workshopUSSPDE2023.tex	/^\\subsection{Ulysseus Spring School in PDEs (USSPDE)}$/;"	u	section:SEMA \\textit{Journal}\\label{sec:sema-journal}
+VIII Encuentro ALAMA: Álgebra Lineal, Análisis Matricial y Aplicaciones	anuncios33.tex	/^\\subsection{VIII Encuentro ALAMA: Álgebra Lineal, Análisis Matricial y Aplicaciones}$/;"	u	section:Anuncios
+Workshop on Numerical Analysis celebrating J.M. Sanz-Serna 70th birthday, Valladolid	contribuciones_valladolid/JMSS70-SEMA.tex	/^\\subsection{Workshop on Numerical Analysis celebrating J.M. Sanz-Serna 70th birthday, Valladoli/;"	u	section:Anuncios
+Workshop on numerical approximation of hyperbolic PDEs in honor of Prof. Carlos Parés' 60th birthday, Málaga	pares60/pares60.tex	/^\\subsection{Workshop on numerical approximation of hyperbolic PDEs in honor of Prof. Carlos Par/;"	u	section:Anuncios
+XX Escuela Jacques-Louis Lions Hispano Francesa sobre Simulación Numérica en Física e Ingeniería, Barcelona	ehf2023.tex	/^\\subsection{XX Escuela Jacques-Louis Lions Hispano Francesa sobre Simulación Numérica en Fís/;"	u	section:Anuncios
+XX Escuela Jacques-Louis Lions Hispano-Francesa sobre Simulación Numérica en Física e Ingeniería, Barcelona	resena_boletin_diciembre/plantilla-Boletin-SEMA.tex	/^\\subsection{XX Escuela Jacques-Louis Lions Hispano-Francesa sobre Simulación Numérica en Fís/;"	u	section:Anuncios
+XXVI CEDYA/XVI CMA, Gij�n	plantilla-Boletin-SEMA.tex	/^\\section{XXVI CEDYA\/XVI CMA, Gij�n}$/;"	s
+XXVIII CEDYA/XVIII CMA, Bilbao	anuncio_CEDYA_CMA2024Bilbao_boletinSEMA/CEDYA2024.tex	/^\\subsection{XXVIII CEDYA\/XVIII CMA, Bilbao}$/;"	u	section:Anuncios
+\\CC	boletin33.tex	/^\\newcommand{\\CC}{\\mathbb{C}}$/;"	C
+\\NN	boletin33.tex	/^\\newcommand{\\NN}{\\mathbb{N}}$/;"	C
+\\RR	boletin33.tex	/^\\newcommand{\\RR}{\\mathbb{R}}$/;"	C
+\\gills	boletin33.tex	/^\\newcommand{\\gills}[1]{«#1»} % {«»}$/;"	C
+\\href{https://joboffers.bcamath.org/apply/ic2023-10-postdoctoral-fellow-on-pdes-and-mathematical-analysis-for-fluid-mechanics-two-positions?utm_source=BCAM+Newsletter&utm_campaign=56349f95d4-EMAIL_CAMPAIGN_2018_10_31_10_33_COPY_01&utm_medium=email&utm_term=0_f44359d1b6-56349f95d4-62270881}{Postdoctoral Fellow on PDEs and Mathematical Analysis for Fluid Mechanics-two positions}	bcam33.tex	/^\\subsubsection*{\\href{https:\/\/joboffers.bcamath.org\/apply\/ic2023-10-postdoctoral-fellow-on/;"	b	subsection:Palabras del presidente""Open positions
+\\newpage\\seccionauxiliar	boletin33.tex	/^    \\def\\section{\\newpage\\seccionauxiliar}}$/;"	s
+\\sema	ReseniaActividadSEMAOlimpiadaESOAsturias2023.tex	/^\\newcommand{\\sema}{\\rm S\\hbox{\\kern-2pt$\\vec{\\hbox{\\kern+2.5pt e}}$}MA\\nolinebreak }$/;"	C
+\\sema	ehf2023.tex	/^\\newcommand{\\sema}{\\rm SEMA\\nolinebreak }$/;"	C
+\\sema	plantilla-Boletin-SEMA.tex	/^\\newcommand{\\sema}{\\rm SEMA\\nolinebreak }$/;"	C
+\\sema	resena_boletin_diciembre/plantilla-Boletin-SEMA.tex	/^\\newcommand{\\sema}{\\rm SEMA\\nolinebreak }$/;"	C
+a	boletin32/boletin32.css	/^a { overflow-wrap: break-word; word-wrap: break-word; word-break: break-word; hyphens: auto; }$/;"	s
+a	boletin32/boletin32.css	/^a {$/;"	s
+a	boletin33.css	/^a { overflow-wrap: break-word; word-wrap: break-word; word-break: break-word; hyphens: auto; }$/;"	s
+a img	boletin32/boletin32.css	/^a img { border-top: 0; border-left: 0; border-right: 0; }$/;"	s
+a img	boletin33.css	/^a img { border-top: 0; border-left: 0; border-right: 0; }$/;"	s
+all	Makefile	/^all:$/;"	t
+all	boletin32/Makefile	/^all:$/;"	t
+all	boletin32/latex2html/Makefile	/^all:$/;"	t
+all	latex2html/Makefile	/^all:$/;"	t
+boletin32	boletin32/README.md	/^# boletin32/;"	c
+boletin33	README.md	/^# boletin33/;"	c
+center	boletin32/boletin32.css	/^center { margin-top:1em; margin-bottom:1em; }$/;"	s
+center	boletin33.css	/^center { margin-top:1em; margin-bottom:1em; }$/;"	s
+clean	Makefile	/^clean:$/;"	t
+clean	boletin32/Makefile	/^clean:$/;"	t
+clean	boletin32/latex2html/Makefile	/^clean:$/;"	t
+clean	latex2html/Makefile	/^clean:$/;"	t
+contacto	boletin32/index.html	/^        <a name="contacto"><\/a>$/;"	a
+contacto	index.html	/^        <a name="contacto"><\/a>$/;"	a
+dd.enumerate	boletin32/boletin32.css	/^dd.enumerate {margin-left: 2em;}$/;"	c
+dd.enumerate	boletin33.css	/^dd.enumerate {margin-left: 2em;}$/;"	c
+div + p	boletin32/boletin32.css	/^div + p, pre + p {margin-top:1em;}$/;"	s
+div + p	boletin33.css	/^div + p, pre + p {margin-top:1em;}$/;"	s
+div.abstract	boletin32/boletin32.css	/^div.abstract {width:100%;}$/;"	c
+div.abstract	boletin33.css	/^div.abstract {width:100%;}$/;"	c
+div.abstract p	boletin32/boletin32.css	/^div.abstract p {margin-left:5%; margin-right:5%;}$/;"	s
+div.abstract p	boletin33.css	/^div.abstract p {margin-left:5%; margin-right:5%;}$/;"	s
+div.array	boletin32/boletin32.css	/^div.array {text-align:center;}$/;"	c
+div.array	boletin33.css	/^div.array {text-align:center;}$/;"	c
+div.author	boletin32/boletin32.css	/^div.author, div.date {text-align:center;}$/;"	c
+div.author	boletin33.css	/^div.author, div.date {text-align:center;}$/;"	c
+div.caption	boletin32/boletin32.css	/^div.caption {text-indent:-2em; margin-left:3em; margin-right:1em; text-align:left;}$/;"	c
+div.caption	boletin33.css	/^div.caption {text-indent:-2em; margin-left:3em; margin-right:1em; text-align:left;}$/;"	c
+div.caption span.id	boletin32/boletin32.css	/^div.caption span.id{font-weight: bold; white-space: nowrap; }$/;"	c
+div.caption span.id	boletin33.css	/^div.caption span.id{font-weight: bold; white-space: nowrap; }$/;"	c
+div.center	boletin32/boletin32.css	/^div.center, div.center div.center {text-align: center; margin-left:1em; margin-right:1em;}$/;"	c
+div.center	boletin33.css	/^div.center, div.center div.center {text-align: center; margin-left:1em; margin-right:1em;}$/;"	c
+div.center div	boletin32/boletin32.css	/^div.center div {text-align: left;}$/;"	s
+div.center div	boletin33.css	/^div.center div {text-align: left;}$/;"	s
+div.center div.center	boletin32/boletin32.css	/^div.center, div.center div.center {text-align: center; margin-left:1em; margin-right:1em;}$/;"	c
+div.center div.center	boletin33.css	/^div.center, div.center div.center {text-align: center; margin-left:1em; margin-right:1em;}$/;"	c
+div.center div.fbox	boletin32/boletin32.css	/^div.center div.fbox {text-align:center; clear:both; padding-left:3.0pt; padding-right:3.0pt; tex/;"	c
+div.center div.fbox	boletin33.css	/^div.center div.fbox {text-align:center; clear:both; padding-left:3.0pt; padding-right:3.0pt; tex/;"	c
+div.center div.tabular	boletin32/boletin32.css	/^div.tabular, div.center div.tabular {text-align: center; margin-top:0.5em; margin-bottom:0.5em; /;"	c
+div.center div.tabular	boletin33.css	/^div.tabular, div.center div.tabular {text-align: center; margin-top:0.5em; margin-bottom:0.5em; /;"	c
+div.crosslinks	boletin32/boletin32.css	/^@media print {div.crosslinks {visibility:hidden;}}$/;"	c
+div.crosslinks	boletin33.css	/^@media print {div.crosslinks {visibility:hidden;}}$/;"	c
+div.date	boletin32/boletin32.css	/^div.author, div.date {text-align:center;}$/;"	c
+div.date	boletin33.css	/^div.author, div.date {text-align:center;}$/;"	c
+div.eqnarray	boletin32/boletin32.css	/^div.eqnarray{text-align:center;}$/;"	c
+div.eqnarray	boletin33.css	/^div.eqnarray{text-align:center;}$/;"	c
+div.fbox	boletin32/boletin32.css	/^div.fbox {display:table}$/;"	c
+div.fbox	boletin33.css	/^div.fbox {display:table}$/;"	c
+div.figure	boletin32/boletin32.css	/^div.float, div.figure {margin-left: auto; margin-right: auto;}$/;"	c
+div.figure	boletin32/boletin32.css	/^figure.float, div.figure {margin-left: auto; margin-right: auto;}$/;"	c
+div.figure	boletin33.css	/^div.float, div.figure {margin-left: auto; margin-right: auto;}$/;"	c
+div.figure	boletin33.css	/^figure.float, div.figure {margin-left: auto; margin-right: auto;}$/;"	c
+div.figure img	boletin32/boletin32.css	/^div.figure img {text-align:center;}$/;"	s
+div.figure img	boletin33.css	/^div.figure img {text-align:center;}$/;"	s
+div.float	boletin32/boletin32.css	/^div.float, div.figure {margin-left: auto; margin-right: auto;}$/;"	c
+div.float	boletin33.css	/^div.float, div.figure {margin-left: auto; margin-right: auto;}$/;"	c
+div.float img	boletin32/boletin32.css	/^div.float img {text-align:center;}$/;"	s
+div.float img	boletin33.css	/^div.float img {text-align:center;}$/;"	s
+div.flushleft	boletin32/boletin32.css	/^div.flushleft {text-align: left;}$/;"	c
+div.flushleft	boletin33.css	/^div.flushleft {text-align: left;}$/;"	c
+div.flushright	boletin32/boletin32.css	/^div.flushright, div.flushright div.flushright {text-align: right;}$/;"	c
+div.flushright	boletin33.css	/^div.flushright, div.flushright div.flushright {text-align: right;}$/;"	c
+div.flushright div	boletin32/boletin32.css	/^div.flushright div {text-align: left;}$/;"	s
+div.flushright div	boletin33.css	/^div.flushright div {text-align: left;}$/;"	s
+div.flushright div.flushright	boletin32/boletin32.css	/^div.flushright, div.flushright div.flushright {text-align: right;}$/;"	c
+div.flushright div.flushright	boletin33.css	/^div.flushright, div.flushright div.flushright {text-align: right;}$/;"	c
+div.footnotes	boletin32/boletin32.css	/^div.footnotes{border-top:solid 1px black; border-bottom:solid 1px black; padding-bottom:1ex; pad/;"	c
+div.footnotes	boletin33.css	/^div.footnotes{border-top:solid 1px black; border-bottom:solid 1px black; padding-bottom:1ex; pad/;"	c
+div.footnotes p	boletin32/boletin32.css	/^div.footnotes p{margin-top:0; margin-bottom:0; text-indent:0;}$/;"	s
+div.footnotes p	boletin33.css	/^div.footnotes p{margin-top:0; margin-bottom:0; text-indent:0;}$/;"	s
+div.gather-star	boletin32/boletin32.css	/^div.gather-star {text-align:center;}$/;"	c
+div.gather-star	boletin33.css	/^div.gather-star {text-align:center;}$/;"	c
+div.maketitle	boletin32/boletin32.css	/^div.maketitle {text-align:center;}$/;"	c
+div.maketitle	boletin32/boletin32.css	/^div.maketitle{ margin-bottom: 2em; }$/;"	c
+div.maketitle	boletin33.css	/^div.maketitle {text-align:center;}$/;"	c
+div.maketitle	boletin33.css	/^div.maketitle{ margin-bottom: 2em; }$/;"	c
+div.math-display	boletin32/boletin32.css	/^div.par-math-display, div.math-display{text-align:center;}$/;"	c
+div.math-display	boletin33.css	/^div.par-math-display, div.math-display{text-align:center;}$/;"	c
+div.minipage	boletin32/boletin32.css	/^div.minipage{width:100%;}$/;"	c
+div.minipage	boletin33.css	/^div.minipage{width:100%;}$/;"	c
+div.newtheorem	boletin32/boletin32.css	/^div.newtheorem { margin-bottom: 2em; margin-top: 2em;}$/;"	c
+div.newtheorem	boletin33.css	/^div.newtheorem { margin-bottom: 2em; margin-top: 2em;}$/;"	c
+div.newtheorem .head	boletin32/boletin32.css	/^div.newtheorem .head{font-weight: bold;}$/;"	c
+div.newtheorem .head	boletin33.css	/^div.newtheorem .head{font-weight: bold;}$/;"	c
+div.obeylines-v p	boletin32/boletin32.css	/^div.obeylines-v p { margin-top:0; margin-bottom:0; }$/;"	s
+div.obeylines-v p	boletin33.css	/^div.obeylines-v p { margin-top:0; margin-bottom:0; }$/;"	s
+div.par-math-display	boletin32/boletin32.css	/^div.par-math-display, div.math-display{text-align:center;}$/;"	c
+div.par-math-display	boletin33.css	/^div.par-math-display, div.math-display{text-align:center;}$/;"	c
+div.pmatrix	boletin32/boletin32.css	/^div.pmatrix {text-align:center;}$/;"	c
+div.pmatrix	boletin33.css	/^div.pmatrix {text-align:center;}$/;"	c
+div.subfigure	boletin32/boletin32.css	/^div.subfigure {text-align:center;display:inline-block;}$/;"	c
+div.subfigure	boletin33.css	/^div.subfigure {text-align:center;display:inline-block;}$/;"	c
+div.tabular	boletin32/boletin32.css	/^div.tabular, div.center div.tabular {text-align: center; margin-top:0.5em; margin-bottom:0.5em; /;"	c
+div.tabular	boletin33.css	/^div.tabular, div.center div.tabular {text-align: center; margin-top:0.5em; margin-bottom:0.5em; /;"	c
+div.td00	boletin32/boletin32.css	/^div.td00{ margin-left:0pt; margin-right:0pt; }$/;"	c
+div.td00	boletin33.css	/^div.td00{ margin-left:0pt; margin-right:0pt; }$/;"	c
+div.td01	boletin32/boletin32.css	/^div.td01{ margin-left:0pt; margin-right:5pt; }$/;"	c
+div.td01	boletin33.css	/^div.td01{ margin-left:0pt; margin-right:5pt; }$/;"	c
+div.td10	boletin32/boletin32.css	/^div.td10{ margin-left:5pt; margin-right:0pt; }$/;"	c
+div.td10	boletin33.css	/^div.td10{ margin-left:5pt; margin-right:0pt; }$/;"	c
+div.td11	boletin32/boletin32.css	/^div.td11{ margin-left:5pt; margin-right:5pt; }$/;"	c
+div.td11	boletin33.css	/^div.td11{ margin-left:5pt; margin-right:5pt; }$/;"	c
+div.thanks	boletin32/boletin32.css	/^div.thanks{text-align:left; margin-left:10%; font-size:85%; font-style:italic; }$/;"	c
+div.thanks	boletin33.css	/^div.thanks{text-align:left; margin-left:10%; font-size:85%; font-style:italic; }$/;"	c
+dt.enumerate	boletin32/boletin32.css	/^dt.enumerate {float:left; clear:left; margin-right:0.5em; margin-left:0.5em; text-align:right; }$/;"	c
+dt.enumerate	boletin33.css	/^dt.enumerate {float:left; clear:left; margin-right:0.5em; margin-left:0.5em; text-align:right; }$/;"	c
+figcaption.caption	boletin32/boletin32.css	/^figcaption.caption {text-indent:-2em; margin-left:3em; margin-right:1em; text-align:center;}$/;"	c
+figcaption.caption	boletin33.css	/^figcaption.caption {text-indent:-2em; margin-left:3em; margin-right:1em; text-align:center;}$/;"	c
+figcaption.caption span.id	boletin32/boletin32.css	/^figcaption.caption span.id{font-weight: bold; white-space: nowrap; }$/;"	c
+figcaption.caption span.id	boletin33.css	/^figcaption.caption span.id{font-weight: bold; white-space: nowrap; }$/;"	c
+figure.figure	boletin32/boletin32.css	/^figure.figure {text-align:center;}$/;"	c
+figure.figure	boletin33.css	/^figure.figure {text-align:center;}$/;"	c
+figure.float	boletin32/boletin32.css	/^figure.float, div.figure {margin-left: auto; margin-right: auto;}$/;"	c
+figure.float	boletin33.css	/^figure.float, div.figure {margin-left: auto; margin-right: auto;}$/;"	c
+fotoGrupo	Ulysseus2023SeMA/workshopUSSPDE2023.tex	/^  \\label{fotoGrupo}$/;"	l
+fotoOpening	Ulysseus2023SeMA/workshopUSSPDE2023.tex	/^  \\label{fotoOpening}$/;"	l
+fotosMinicourses	Ulysseus2023SeMA/workshopUSSPDE2023.tex	/^  \\label{fotosMinicourses}$/;"	l
+fotosPoster	Ulysseus2023SeMA/workshopUSSPDE2023.tex	/^  \\label{fotosPoster}$/;"	l
+fotosSpeakers	Ulysseus2023SeMA/workshopUSSPDE2023.tex	/^  \\label{fotosSpeakers}$/;"	l
+h1.partHead	boletin32/boletin32.css	/^h1.partHead{text-align: center}$/;"	c
+h1.partHead	boletin33.css	/^h1.partHead{text-align: center}$/;"	c
+h2.titleHead	boletin32/boletin32.css	/^h2.titleHead{text-align:center;}$/;"	c
+h2.titleHead	boletin33.css	/^h2.titleHead{text-align:center;}$/;"	c
+img	boletin32/boletin32.css	/^img {$/;"	s
+img + figcaption	boletin32/boletin32.css	/^p + figcaption, img + figcaption{margin-top: 1em;}$/;"	s
+img + figcaption	boletin33.css	/^p + figcaption, img + figcaption{margin-top: 1em;}$/;"	s
+img.cdots	boletin32/boletin32.css	/^img.cdots{vertical-align:middle;}$/;"	c
+img.cdots	boletin33.css	/^img.cdots{vertical-align:middle;}$/;"	c
+img.math	boletin32/boletin32.css	/^img.math{vertical-align:middle;}$/;"	c
+img.math	boletin33.css	/^img.math{vertical-align:middle;}$/;"	c
+li div:last-child	boletin32/boletin32.css	/^li p:last-child, li div:last-child { margin-bottom:0.5em; }$/;"	s
+li div:last-child	boletin33.css	/^li p:last-child, li div:last-child { margin-bottom:0.5em; }$/;"	s
+li p.indent	boletin32/boletin32.css	/^li p.indent { text-indent: 0em }$/;"	c
+li p.indent	boletin33.css	/^li p.indent { text-indent: 0em }$/;"	c
+li p:first-child	boletin32/boletin32.css	/^li p:first-child{ margin-bottom:0; }$/;"	s
+li p:first-child	boletin32/boletin32.css	/^li p:first-child{ margin-top:0em; }$/;"	s
+li p:first-child	boletin33.css	/^li p:first-child{ margin-bottom:0; }$/;"	s
+li p:first-child	boletin33.css	/^li p:first-child{ margin-top:0em; }$/;"	s
+li p:last-child	boletin32/boletin32.css	/^li p:last-child, li div:last-child { margin-bottom:0.5em; }$/;"	s
+li p:last-child	boletin33.css	/^li p:last-child, li div:last-child { margin-bottom:0.5em; }$/;"	s
+li p~ol:last-child	boletin32/boletin32.css	/^li p~ul:last-child, li p~ol:last-child{ margin-bottom:0.5em; }$/;"	s
+li p~ol:last-child	boletin33.css	/^li p~ul:last-child, li p~ol:last-child{ margin-bottom:0.5em; }$/;"	s
+li p~ul:last-child	boletin32/boletin32.css	/^li p~ul:last-child, li p~ol:last-child{ margin-bottom:0.5em; }$/;"	s
+li p~ul:last-child	boletin33.css	/^li p~ul:last-child, li p~ol:last-child{ margin-bottom:0.5em; }$/;"	s
+logoFGS2024	anuncios33.tex	/^  \\caption{Logo del \\href{https:\/\/www.unioviedo.es\/fgs2024\/}{FGS2024}}\\label{logoFGS2024}$/;"	l
+myOverlay	boletin32/sidebar.html	/^<div class="w3-overlay w3-hide-large w3-animate-opacity" onclick="w3_close()" style="cursor:poin/;"	I
+myOverlay	sidebar.html	/^<div class="w3-overlay w3-hide-large w3-animate-opacity" onclick="w3_close()" style="cursor:poin/;"	I
+mySidebar	boletin32/sidebar.html	/^<nav class="w3-sidebar w3-collapse w3-white w3-animate-left" style="z-index:3;width:300px;paddin/;"	I
+mySidebar	sidebar.html	/^<nav class="w3-sidebar w3-collapse w3-white w3-animate-left" style="z-index:3;width:300px;paddin/;"	I
+ns9ac8135e0101	boletin330x.svg	/^<svg version='1.1' xmlns='http:\/\/www.w3.org\/2000\/svg' xmlns:xlink='http:\/\/www.w3.org\/1999/;"	n	uri:http://www.w3.org/2000/svg
+p	boletin32/boletin32.css	/^p{margin-top:0;margin-bottom:0}$/;"	s
+p	boletin33.css	/^p{margin-top:0;margin-bottom:0}$/;"	s
+p + div	boletin32/boletin32.css	/^p + div, p + pre {margin-top:1em;}$/;"	s
+p + div	boletin33.css	/^p + div, p + pre {margin-top:1em;}$/;"	s
+p + figcaption	boletin32/boletin32.css	/^p + figcaption, img + figcaption{margin-top: 1em;}$/;"	s
+p + figcaption	boletin33.css	/^p + figcaption, img + figcaption{margin-top: 1em;}$/;"	s
+p + p	boletin32/boletin32.css	/^p + p{margin-top:1em;}$/;"	s
+p + p	boletin33.css	/^p + p{margin-top:1em;}$/;"	s
+p + pre	boletin32/boletin32.css	/^p + div, p + pre {margin-top:1em;}$/;"	s
+p + pre	boletin33.css	/^p + div, p + pre {margin-top:1em;}$/;"	s
+p.bibitem	boletin32/boletin32.css	/^p.bibitem { text-indent: -2em; margin-left: 2em; margin-top:0.6em; margin-bottom:0.6em; }$/;"	c
+p.bibitem	boletin33.css	/^p.bibitem { text-indent: -2em; margin-left: 2em; margin-top:0.6em; margin-bottom:0.6em; }$/;"	c
+p.bibitem-p	boletin32/boletin32.css	/^p.bibitem-p { text-indent: 0em; margin-left: 2em; margin-top:0.6em; margin-bottom:0.6em; }$/;"	c
+p.bibitem-p	boletin33.css	/^p.bibitem-p { text-indent: 0em; margin-left: 2em; margin-top:0.6em; margin-bottom:0.6em; }$/;"	c
+p.indent	boletin32/boletin32.css	/^p.indent{ text-indent: 1.5em; text-align:justify;}$/;"	c
+p.indent	boletin32/boletin32.css	/^p.indent{text-indent:0;}$/;"	c
+p.indent	boletin33.css	/^p.indent{text-indent:0;}$/;"	c
+p.noindent	boletin32/boletin32.css	/^p.noindent { text-indent: 0em; text-align:justify;}$/;"	c
+page1	boletin330x.svg	/^<g id='page1' transform='matrix(1.4 0 0 1.4 0 0)'>$/;"	i
+portfolio	boletin32/header.html	/^<header id="portfolio">$/;"	I
+portfolio	header.html	/^<header id="portfolio">$/;"	I
+pre + p	boletin32/boletin32.css	/^div + p, pre + p {margin-top:1em;}$/;"	s
+pre + p	boletin33.css	/^div + p, pre + p {margin-top:1em;}$/;"	s
+pre.verbatim	boletin32/boletin32.css	/^pre.verbatim {font-family: monospace,monospace; text-align:left; clear:both; }$/;"	c
+pre.verbatim	boletin33.css	/^pre.verbatim {font-family: monospace,monospace; text-align:left; clear:both; }$/;"	c
+sec:IMUS	imus33.tex	/^\\subsection{Actividades del Instituto de Matemáticas de la Universidad de Sevilla, IMUS}\\labe/;"	l
+span#textcolor1	boletin32/boletin32.css	/^span#textcolor1{color:#0000FF}$/;"	i
+span#textcolor1	boletin33.css	/^span#textcolor1{color:#0000FF}$/;"	i
+span#textcolor2	boletin32/boletin32.css	/^span#textcolor2{color:#0000FF}$/;"	i
+span.bar-css	boletin32/boletin32.css	/^span.bar-css {text-decoration:overline;}$/;"	c
+span.bar-css	boletin33.css	/^span.bar-css {text-decoration:overline;}$/;"	c
+span.footnote-mark a sup.textsuperscript	boletin32/boletin32.css	/^span.footnote-mark sup.textsuperscript, span.footnote-mark a sup.textsuperscript{ font-size:80%;/;"	c
+span.footnote-mark a sup.textsuperscript	boletin33.css	/^span.footnote-mark sup.textsuperscript, span.footnote-mark a sup.textsuperscript{ font-size:80%;/;"	c
+span.footnote-mark sup.textsuperscript	boletin32/boletin32.css	/^span.footnote-mark sup.textsuperscript, span.footnote-mark a sup.textsuperscript{ font-size:80%;/;"	c
+span.footnote-mark sup.textsuperscript	boletin33.css	/^span.footnote-mark sup.textsuperscript, span.footnote-mark a sup.textsuperscript{ font-size:80%;/;"	c
+span.pmatrix img	boletin32/boletin32.css	/^span.pmatrix img{vertical-align:middle;}$/;"	s
+span.pmatrix img	boletin33.css	/^span.pmatrix img{vertical-align:middle;}$/;"	s
+span.thank-mark	boletin32/boletin32.css	/^span.thank-mark{ vertical-align: super }$/;"	c
+span.thank-mark	boletin33.css	/^span.thank-mark{ vertical-align: super }$/;"	c
+table.align	boletin32/boletin32.css	/^table.align, table.alignat, table.xalignat, table.xxalignat, table.flalign {width:95%; margin-le/;"	c
+table.align	boletin33.css	/^table.align, table.alignat, table.xalignat, table.xxalignat, table.flalign {width:95%; margin-le/;"	c
+table.align-star	boletin32/boletin32.css	/^table.align-star, table.alignat-star, table.xalignat-star, table.flalign-star {margin-left:auto;/;"	c
+table.align-star	boletin33.css	/^table.align-star, table.alignat-star, table.xalignat-star, table.flalign-star {margin-left:auto;/;"	c
+table.alignat	boletin32/boletin32.css	/^table.align, table.alignat, table.xalignat, table.xxalignat, table.flalign {width:95%; margin-le/;"	c
+table.alignat	boletin33.css	/^table.align, table.alignat, table.xalignat, table.xxalignat, table.flalign {width:95%; margin-le/;"	c
+table.alignat-star	boletin32/boletin32.css	/^table.align-star, table.alignat-star, table.xalignat-star, table.flalign-star {margin-left:auto;/;"	c
+table.alignat-star	boletin33.css	/^table.align-star, table.alignat-star, table.xalignat-star, table.flalign-star {margin-left:auto;/;"	c
+table.eqnarray	boletin32/boletin32.css	/^table.eqnarray-star, table.eqnarray {width:100%;}$/;"	c
+table.eqnarray	boletin33.css	/^table.eqnarray-star, table.eqnarray {width:100%;}$/;"	c
+table.eqnarray-star	boletin32/boletin32.css	/^table.eqnarray-star, table.eqnarray {width:100%;}$/;"	c
+table.eqnarray-star	boletin33.css	/^table.eqnarray-star, table.eqnarray {width:100%;}$/;"	c
+table.equation	boletin32/boletin32.css	/^table.equation { width:100%; }$/;"	c
+table.equation	boletin32/boletin32.css	/^table.equation {width:100%;}$/;"	c
+table.equation	boletin33.css	/^table.equation { width:100%; }$/;"	c
+table.equation	boletin33.css	/^table.equation {width:100%;}$/;"	c
+table.equation-star	boletin32/boletin32.css	/^table.equation-star { width:100%; }$/;"	c
+table.equation-star	boletin33.css	/^table.equation-star { width:100%; }$/;"	c
+table.flalign	boletin32/boletin32.css	/^table.align, table.alignat, table.xalignat, table.xxalignat, table.flalign {width:95%; margin-le/;"	c
+table.flalign	boletin33.css	/^table.align, table.alignat, table.xalignat, table.xxalignat, table.flalign {width:95%; margin-le/;"	c
+table.flalign-star	boletin32/boletin32.css	/^table.align-star, table.alignat-star, table.xalignat-star, table.flalign-star {margin-left:auto;/;"	c
+table.flalign-star	boletin33.css	/^table.align-star, table.alignat-star, table.xalignat-star, table.flalign-star {margin-left:auto;/;"	c
+table.gather	boletin32/boletin32.css	/^table.gather {width:100%;}$/;"	c
+table.gather	boletin33.css	/^table.gather {width:100%;}$/;"	c
+table.multline	boletin32/boletin32.css	/^table.multline, table.multline-star {width:100%;}$/;"	c
+table.multline	boletin33.css	/^table.multline, table.multline-star {width:100%;}$/;"	c
+table.multline-star	boletin32/boletin32.css	/^table.multline, table.multline-star {width:100%;}$/;"	c
+table.multline-star	boletin33.css	/^table.multline, table.multline-star {width:100%;}$/;"	c
+table.pmatrix	boletin32/boletin32.css	/^table.pmatrix {width:100%;}$/;"	c
+table.pmatrix	boletin33.css	/^table.pmatrix {width:100%;}$/;"	c
+table.tabular	boletin32/boletin32.css	/^table.tabular {margin-left: auto; margin-right: auto;}$/;"	c
+table.tabular	boletin32/boletin32.css	/^table.tabular{border-collapse: collapse; border-spacing: 0;}$/;"	c
+table.tabular	boletin33.css	/^table.tabular {margin-left: auto; margin-right: auto;}$/;"	c
+table.tabular	boletin33.css	/^table.tabular{border-collapse: collapse; border-spacing: 0;}$/;"	c
+table.tabular td p	boletin32/boletin32.css	/^table.tabular td p{margin-top:0em;}$/;"	s
+table.tabular td p	boletin33.css	/^table.tabular td p{margin-top:0em;}$/;"	s
+table.xalignat	boletin32/boletin32.css	/^table.align, table.alignat, table.xalignat, table.xxalignat, table.flalign {width:95%; margin-le/;"	c
+table.xalignat	boletin33.css	/^table.align, table.alignat, table.xalignat, table.xxalignat, table.flalign {width:95%; margin-le/;"	c
+table.xalignat-star	boletin32/boletin32.css	/^table.align-star, table.alignat-star, table.xalignat-star, table.flalign-star {margin-left:auto;/;"	c
+table.xalignat-star	boletin33.css	/^table.align-star, table.alignat-star, table.xalignat-star, table.flalign-star {margin-left:auto;/;"	c
+table.xxalignat	boletin32/boletin32.css	/^table.align, table.alignat, table.xalignat, table.xxalignat, table.flalign {width:95%; margin-le/;"	c
+table.xxalignat	boletin33.css	/^table.align, table.alignat, table.xalignat, table.xxalignat, table.flalign {width:95%; margin-le/;"	c
+table[rules]	boletin32/boletin32.css	/^table[rules] {border-left:solid black 0.4pt; border-right:solid black 0.4pt; }$/;"	s
+table[rules]	boletin33.css	/^table[rules] {border-left:solid black 0.4pt; border-right:solid black 0.4pt; }$/;"	s
+tailboletin22se8.html	boletin32/hacerse_socio_body.html	/^ id="tailboletin22se8.html"><\/a> <\/p>$/;"	I
+td center	boletin32/boletin32.css	/^td center { margin-top:0em; margin-bottom:0em; }$/;"	s
+td center	boletin33.css	/^td center { margin-top:0em; margin-bottom:0em; }$/;"	s
+td p:first-child	boletin32/boletin32.css	/^td p:first-child{ margin-top:0em; }$/;"	s
+td p:first-child	boletin33.css	/^td p:first-child{ margin-top:0em; }$/;"	s
+td p:last-child	boletin32/boletin32.css	/^td p:last-child{ margin-bottom:0em; }$/;"	s
+td p:last-child	boletin33.css	/^td p:last-child{ margin-bottom:0em; }$/;"	s
+td.align-even	boletin32/boletin32.css	/^td.align-even { text-align:left; padding-right:0.6em;}$/;"	c
+td.align-even	boletin33.css	/^td.align-even { text-align:left; padding-right:0.6em;}$/;"	c
+td.align-label	boletin32/boletin32.css	/^td.align-label { width:5%; text-align:center; }$/;"	c
+td.align-label	boletin33.css	/^td.align-label { width:5%; text-align:center; }$/;"	c
+td.align-odd	boletin32/boletin32.css	/^td.align-odd { text-align:right; padding-right:0.3em;}$/;"	c
+td.align-odd	boletin33.css	/^td.align-odd { text-align:right; padding-right:0.3em;}$/;"	c
+td.displaylines	boletin32/boletin32.css	/^td.displaylines {text-align:center; white-space:nowrap;}$/;"	c
+td.displaylines	boletin33.css	/^td.displaylines {text-align:center; white-space:nowrap;}$/;"	c
+td.eqnarray2	boletin32/boletin32.css	/^td.eqnarray2 { width:5%; }$/;"	c
+td.eqnarray2	boletin33.css	/^td.eqnarray2 { width:5%; }$/;"	c
+td.eqnarray4	boletin32/boletin32.css	/^td.eqnarray4 { width:5%; white-space: normal; }$/;"	c
+td.eqnarray4	boletin33.css	/^td.eqnarray4 { width:5%; white-space: normal; }$/;"	c
+td.equation	boletin32/boletin32.css	/^td.equation { margin-top:1em; margin-bottom:1em; } $/;"	c
+td.equation	boletin33.css	/^td.equation { margin-top:1em; margin-bottom:1em; } $/;"	c
+td.equation-label	boletin32/boletin32.css	/^td.equation-label { width:5%; text-align:center; }$/;"	c
+td.equation-label	boletin33.css	/^td.equation-label { width:5%; text-align:center; }$/;"	c
+td.gather	boletin32/boletin32.css	/^td.gather {text-align:center; }$/;"	c
+td.gather	boletin33.css	/^td.gather {text-align:center; }$/;"	c
+td.td00	boletin32/boletin32.css	/^td.td00{ padding-left:0pt; padding-right:0pt; }$/;"	c
+td.td00	boletin33.css	/^td.td00{ padding-left:0pt; padding-right:0pt; }$/;"	c
+td.td01	boletin32/boletin32.css	/^td.td01{ padding-left:0pt; padding-right:5pt; }$/;"	c
+td.td01	boletin33.css	/^td.td01{ padding-left:0pt; padding-right:5pt; }$/;"	c
+td.td10	boletin32/boletin32.css	/^td.td10{ padding-left:5pt; padding-right:0pt; }$/;"	c
+td.td10	boletin33.css	/^td.td10{ padding-left:5pt; padding-right:0pt; }$/;"	c
+td.td11	boletin32/boletin32.css	/^td.td11{ padding-left:5pt; padding-right:5pt; }$/;"	c
+td.td11	boletin33.css	/^td.td11{ padding-left:5pt; padding-right:5pt; }$/;"	c
+textcolor1	boletin33.html	/^class="td11"> <span id="textcolor1"><span $/;"	I
+tr.hline td hr	boletin32/boletin32.css	/^tr.hline td hr{display:none}$/;"	s
+tr.hline td hr	boletin33.css	/^tr.hline td hr{display:none}$/;"	s
+x1-1000	boletin32/boletin32.html	/^ id="x1-1000"><\/a>Editorial<\/h3>$/;"	I
+x1-1000	boletin33.html	/^ id="x1-1000"><\/a>Editorial<\/h3>$/;"	I
+x1-100001.7	boletin32/boletin32.html	/^ id="x1-100001.7"><\/a>Luis Caﬀarelli, primer matemático hispanoamericano que gana el premio$/;"	I
+x1-100001.7	boletin32/noticias-N32.html	/^ id="x1-100001.7"><\/a>Luis Caﬀarelli, primer matemático hispanoamericano que gana el premio$/;"	I
+x1-100001.7	boletin33.html	/^ id="x1-100001.7"><\/a>Renovación parcial del panel de Matemáticas de la Agencia Estatal de$/;"	I
+x1-10001r6	boletin32/boletin32.html	/^ id="x1-10001r6"><\/a>$/;"	I
+x1-10001r6	boletin32/noticias-N32.html	/^ id="x1-10001r6"><\/a>$/;"	I
+x1-10002	boletin32/boletin32.html	/^ id="x1-10002"><\/a>$/;"	I
+x1-10002	boletin32/noticias-N32.html	/^ id="x1-10002"><\/a>$/;"	I
+x1-110001.7	boletin32/boletin32.html	/^ id="x1-110001.7"><\/a>Resultados técnicamente virtuosos<\/h5>$/;"	I
+x1-110001.7	boletin32/noticias-N32.html	/^ id="x1-110001.7"><\/a>Resultados técnicamente virtuosos<\/h5>$/;"	I
+x1-110001.8	boletin33.html	/^ id="x1-110001.8"><\/a>Aula de las matemáticas y la ciencia de Bueño<\/h4>$/;"	I
+x1-120001.7	boletin32/boletin32.html	/^ id="x1-120001.7"><\/a>Enorme impacto<\/h5>$/;"	I
+x1-120001.7	boletin32/noticias-N32.html	/^ id="x1-120001.7"><\/a>Enorme impacto<\/h5>$/;"	I
+x1-120001.9	boletin33.html	/^ id="x1-120001.9"><\/a>Ceremonia de entrega de premios del VI Concurso de Modelización Matemát/;"	I
+x1-12001r11	boletin33.html	/^ id="x1-12001r11"><\/a>$/;"	I
+x1-12002	boletin33.html	/^ id="x1-12002"><\/a>$/;"	I
+x1-130001.10	boletin33.html	/^ id="x1-130001.10"><\/a>XX Escuela Jacques-Louis Lions Hispano-Francesa sobre Simulación Numér/;"	I
+x1-130001.8	boletin32/boletin32.html	/^ id="x1-130001.8"><\/a>El máster en Matemática Industrial es reconocido por la Xunta de Galici/;"	I
+x1-130001.8	boletin32/noticias-N32.html	/^ id="x1-130001.8"><\/a>El máster en Matemática Industrial es reconocido por la Xunta de Galici/;"	I
+x1-140001.10	boletin33.html	/^ id="x1-140001.10"><\/a>Comité organizador<\/h5>$/;"	I
+x1-140001.9	boletin32/boletin32.html	/^ id="x1-140001.9"><\/a>Fallado el premio SEMA «Antonio Valle» al Joven Investigador 2023<\/h4>$/;"	I
+x1-140001.9	boletin32/noticias-N32.html	/^ id="x1-140001.9"><\/a>Fallado el premio SEMA «Antonio Valle» al Joven Investigador 2023<\/h4>$/;"	I
+x1-150001.10	boletin33.html	/^ id="x1-150001.10"><\/a>Comité cientíﬁco<\/h5>$/;"	I
+x1-150001.9	boletin32/boletin32.html	/^ id="x1-150001.9"><\/a>Perﬁl investigador de Xavier Fernández-Real Girona<\/h5>$/;"	I
+x1-150001.9	boletin32/noticias-N32.html	/^ id="x1-150001.9"><\/a>Perﬁl investigador de Xavier Fernández-Real Girona<\/h5>$/;"	I
+x1-15001r12	boletin33.html	/^ id="x1-15001r12"><\/a>$/;"	I
+x1-15001r7	boletin32/boletin32.html	/^ id="x1-15001r7"><\/a>$/;"	I
+x1-15001r7	boletin32/noticias-N32.html	/^ id="x1-15001r7"><\/a>$/;"	I
+x1-15002	boletin32/boletin32.html	/^ id="x1-15002"><\/a>$/;"	I
+x1-15002	boletin32/noticias-N32.html	/^ id="x1-15002"><\/a>$/;"	I
+x1-15002	boletin33.html	/^ id="x1-15002"><\/a>$/;"	I
+x1-160001.10	boletin32/boletin32.html	/^ id="x1-160001.10"><\/a>Control and Related Fields<\/h4>$/;"	I
+x1-160001.10	boletin32/noticias-N32.html	/^ id="x1-160001.10"><\/a>Control and Related Fields<\/h4>$/;"	I
+x1-160001.10	boletin33.html	/^ id="x1-160001.10"><\/a>Cursos, conferencias y sesión de pósteres<\/h5>$/;"	I
+x1-16001r13	boletin33.html	/^ id="x1-16001r13"><\/a>$/;"	I
+x1-16002	boletin33.html	/^ id="x1-16002"><\/a>$/;"	I
+x1-170001.10	boletin32/boletin32.html	/^ id="x1-170001.10"><\/a>Conferenciantes invitados<\/h5>$/;"	I
+x1-170001.10	boletin32/noticias-N32.html	/^ id="x1-170001.10"><\/a>Conferenciantes invitados<\/h5>$/;"	I
+x1-170001.10	boletin33.html	/^ id="x1-170001.10"><\/a>Acto de apertura y entrega de premios<\/h5>$/;"	I
+x1-17001r14	boletin33.html	/^ id="x1-17001r14"><\/a>$/;"	I
+x1-17001r8	boletin32/boletin32.html	/^ id="x1-17001r8"><\/a>$/;"	I
+x1-17001r8	boletin32/noticias-N32.html	/^ id="x1-17001r8"><\/a>$/;"	I
+x1-17002	boletin32/boletin32.html	/^ id="x1-17002"><\/a>$/;"	I
+x1-17002	boletin32/noticias-N32.html	/^ id="x1-17002"><\/a>$/;"	I
+x1-17002	boletin33.html	/^ id="x1-17002"><\/a>$/;"	I
+x1-17003r15	boletin33.html	/^ id="x1-17003r15"><\/a>$/;"	I
+x1-17003r9	boletin32/boletin32.html	/^ id="x1-17003r9"><\/a>$/;"	I
+x1-17003r9	boletin32/noticias-N32.html	/^ id="x1-17003r9"><\/a>$/;"	I
+x1-17004	boletin32/boletin32.html	/^ id="x1-17004"><\/a>$/;"	I
+x1-17004	boletin32/noticias-N32.html	/^ id="x1-17004"><\/a>$/;"	I
+x1-17004	boletin33.html	/^ id="x1-17004"><\/a>$/;"	I
+x1-17005r10	boletin32/boletin32.html	/^ id="x1-17005r10"><\/a>$/;"	I
+x1-17005r10	boletin32/noticias-N32.html	/^ id="x1-17005r10"><\/a>$/;"	I
+x1-17006	boletin32/boletin32.html	/^ id="x1-17006"><\/a>$/;"	I
+x1-17006	boletin32/noticias-N32.html	/^ id="x1-17006"><\/a>$/;"	I
+x1-17007r11	boletin32/boletin32.html	/^ id="x1-17007r11"><\/a>$/;"	I
+x1-17007r11	boletin32/noticias-N32.html	/^ id="x1-17007r11"><\/a>$/;"	I
+x1-17008	boletin32/boletin32.html	/^ id="x1-17008"><\/a>$/;"	I
+x1-17008	boletin32/noticias-N32.html	/^ id="x1-17008"><\/a>$/;"	I
+x1-17009r12	boletin32/boletin32.html	/^ id="x1-17009r12"><\/a>$/;"	I
+x1-17009r12	boletin32/noticias-N32.html	/^ id="x1-17009r12"><\/a>$/;"	I
+x1-17010	boletin32/boletin32.html	/^ id="x1-17010"><\/a>$/;"	I
+x1-17010	boletin32/noticias-N32.html	/^ id="x1-17010"><\/a>$/;"	I
+x1-17011r13	boletin32/boletin32.html	/^ id="x1-17011r13"><\/a>$/;"	I
+x1-17011r13	boletin32/noticias-N32.html	/^ id="x1-17011r13"><\/a>$/;"	I
+x1-17012	boletin32/boletin32.html	/^ id="x1-17012"><\/a>$/;"	I
+x1-17012	boletin32/noticias-N32.html	/^ id="x1-17012"><\/a>$/;"	I
+x1-180001.10	boletin33.html	/^ id="x1-180001.10"><\/a>Actas del congreso<\/h5>$/;"	I
+x1-180001.11	boletin32/boletin32.html	/^ id="x1-180001.11"><\/a>Actividad de divulgación en la Olimpiada de la ESO<\/h4>$/;"	I
+x1-180001.11	boletin32/noticias-N32.html	/^ id="x1-180001.11"><\/a>Actividad de divulgación en la Olimpiada de la ESO<\/h4>$/;"	I
+x1-18001r14	boletin32/boletin32.html	/^ id="x1-18001r14"><\/a>$/;"	I
+x1-18001r14	boletin32/noticias-N32.html	/^ id="x1-18001r14"><\/a>$/;"	I
+x1-18001r16	boletin33.html	/^ id="x1-18001r16"><\/a>$/;"	I
+x1-18002	boletin32/boletin32.html	/^ id="x1-18002"><\/a>$/;"	I
+x1-18002	boletin32/noticias-N32.html	/^ id="x1-18002"><\/a>$/;"	I
+x1-18002	boletin33.html	/^ id="x1-18002"><\/a>$/;"	I
+x1-18003r15	boletin32/boletin32.html	/^ id="x1-18003r15"><\/a>$/;"	I
+x1-18003r15	boletin32/noticias-N32.html	/^ id="x1-18003r15"><\/a>$/;"	I
+x1-18004	boletin32/boletin32.html	/^ id="x1-18004"><\/a>$/;"	I
+x1-18004	boletin32/noticias-N32.html	/^ id="x1-18004"><\/a>$/;"	I
+x1-190001.11	boletin33.html	/^ id="x1-190001.11"><\/a>Workshop on Numerical Analysis celebrating J.M. Sanz-Serna 70th birthday/;"	I
+x1-190001.12	boletin32/boletin32.html	/^ id="x1-190001.12"><\/a>Resumen de tesis<\/h4>$/;"	I
+x1-190001.12	boletin32/noticias-N32.html	/^ id="x1-190001.12"><\/a>Resumen de tesis<\/h4>$/;"	I
+x1-2000	boletin32/boletin32.html	/^ id="x1-2000"><\/a>Palabras del presidente<\/h3>$/;"	I
+x1-2000	boletin32/palabras_presidente-N32.html	/^ id="x1-2000"><\/a>Palabras del presidente<\/h3>$/;"	I
+x1-2000	boletin33.html	/^ id="x1-2000"><\/a>Palabras del presidente<\/h3>$/;"	I
+x1-200001.11	boletin33.html	/^ id="x1-200001.11"><\/a>Comité organizador<\/h5>$/;"	I
+x1-200002	boletin32/anuncios-N32.html	/^ id="x1-200002"><\/a>Anuncios<\/h3>$/;"	I
+x1-200002	boletin32/boletin32.html	/^ id="x1-200002"><\/a>Anuncios<\/h3>$/;"	I
+x1-210001.11	boletin33.html	/^ id="x1-210001.11"><\/a>Conferenciantes invitados<\/h5>$/;"	I
+x1-210002.1	boletin32/anuncios-N32.html	/^ id="x1-210002.1"><\/a>XX Escuela Jacques-Louis Lions Hispano Francesa sobre Simulación Numéri/;"	I
+x1-210002.1	boletin32/boletin32.html	/^ id="x1-210002.1"><\/a>XX Escuela Jacques-Louis Lions Hispano Francesa sobre Simulación Numéri/;"	I
+x1-21001r17	boletin33.html	/^ id="x1-21001r17"><\/a>$/;"	I
+x1-21002	boletin33.html	/^ id="x1-21002"><\/a>$/;"	I
+x1-220001.12	boletin33.html	/^ id="x1-220001.12"><\/a>Modelling the Propagation of Fluids: Mathematical Analysis and Numerical$/;"	I
+x1-220002.1	boletin32/anuncios-N32.html	/^ id="x1-220002.1"><\/a><span $/;"	I
+x1-220002.1	boletin32/boletin32.html	/^ id="x1-220002.1"><\/a><span $/;"	I
+x1-230001.12	boletin33.html	/^ id="x1-230001.12"><\/a><span $/;"	I
+x1-230002.1	boletin32/anuncios-N32.html	/^ id="x1-230002.1"><\/a><span $/;"	I
+x1-230002.1	boletin32/boletin32.html	/^ id="x1-230002.1"><\/a><span $/;"	I
+x1-240001.12	boletin33.html	/^ id="x1-240001.12"><\/a><span $/;"	I
+x1-240002.1	boletin32/anuncios-N32.html	/^ id="x1-240002.1"><\/a><span $/;"	I
+x1-240002.1	boletin32/boletin32.html	/^ id="x1-240002.1"><\/a><span $/;"	I
+x1-250001.13	boletin33.html	/^ id="x1-250001.13"><\/a>Exposición <span $/;"	I
+x1-250002.1	boletin32/anuncios-N32.html	/^ id="x1-250002.1"><\/a><span $/;"	I
+x1-250002.1	boletin32/boletin32.html	/^ id="x1-250002.1"><\/a><span $/;"	I
+x1-260001.13	boletin33.html	/^ id="x1-260001.13"><\/a><span $/;"	I
+x1-260002.2	boletin32/anuncios-N32.html	/^ id="x1-260002.2"><\/a>ILAS2023: 25th Conference of the International Linear Algebra Society<\/h/;"	I
+x1-260002.2	boletin32/boletin32.html	/^ id="x1-260002.2"><\/a>ILAS2023: 25th Conference of the International Linear Algebra Society<\/h/;"	I
+x1-26001r18	boletin33.html	/^ id="x1-26001r18"><\/a>$/;"	I
+x1-26002	boletin33.html	/^ id="x1-26002"><\/a>$/;"	I
+x1-270001.13	boletin33.html	/^ id="x1-270001.13"><\/a><span $/;"	I
+x1-270002.3	boletin32/anuncios-N32.html	/^ id="x1-270002.3"><\/a>Ulysseus Spring School in PDEs<\/h4>$/;"	I
+x1-270002.3	boletin32/boletin32.html	/^ id="x1-270002.3"><\/a>Ulysseus Spring School in PDEs<\/h4>$/;"	I
+x1-27001r1	boletin33.html	/^ id="x1-27001r1"><\/a>$/;"	I
+x1-27002r2	boletin33.html	/^ id="x1-27002r2"><\/a><div class="subfigure"><table><tr><td style="text-align:left"><img $/;"	I
+x1-27003r3	boletin33.html	/^ id="x1-27003r3"><\/a>$/;"	I
+x1-27004r4	boletin33.html	/^ id="x1-27004r4"><\/a><div class="subfigure"><table><tr><td style="text-align:left"><img $/;"	I
+x1-27005r5	boletin33.html	/^ id="x1-27005r5"><\/a>$/;"	I
+x1-27006r6	boletin33.html	/^ id="x1-27006r6"><\/a><div class="subfigure"><table><tr><td style="text-align:left"><img $/;"	I
+x1-27007r7	boletin33.html	/^ id="x1-27007r7"><\/a>$/;"	I
+x1-27008r8	boletin33.html	/^ id="x1-27008r8"><\/a><div class="subfigure"><table><tr><td style="text-align:left"><img $/;"	I
+x1-27009r19	boletin33.html	/^ id="x1-27009r19"><\/a>$/;"	I
+x1-27010	boletin33.html	/^ id="x1-27010"><\/a>$/;"	I
+x1-280001.14	boletin33.html	/^ id="x1-280001.14"><\/a>Workshop on numerical approximation of hyperbolic PDEs in honor of Prof./;"	I
+x1-280002.3	boletin32/anuncios-N32.html	/^ id="x1-280002.3"><\/a>Mini-courses<\/h5>$/;"	I
+x1-280002.3	boletin32/boletin32.html	/^ id="x1-280002.3"><\/a>Mini-courses<\/h5>$/;"	I
+x1-28001r20	boletin33.html	/^ id="x1-28001r20"><\/a>$/;"	I
+x1-28002	boletin33.html	/^ id="x1-28002"><\/a>$/;"	I
+x1-28003r21	boletin33.html	/^ id="x1-28003r21"><\/a>$/;"	I
+x1-28004	boletin33.html	/^ id="x1-28004"><\/a>$/;"	I
+x1-28005r22	boletin33.html	/^ id="x1-28005r22"><\/a>$/;"	I
+x1-28006	boletin33.html	/^ id="x1-28006"><\/a>$/;"	I
+x1-28007r23	boletin33.html	/^ id="x1-28007r23"><\/a>$/;"	I
+x1-28008	boletin33.html	/^ id="x1-28008"><\/a>$/;"	I
+x1-290001.14	boletin33.html	/^ id="x1-290001.14"><\/a>Comité organizador<\/h5>$/;"	I
+x1-290002.3	boletin32/anuncios-N32.html	/^ id="x1-290002.3"><\/a>Invited talks<\/h5>$/;"	I
+x1-290002.3	boletin32/boletin32.html	/^ id="x1-290002.3"><\/a>Invited talks<\/h5>$/;"	I
+x1-300001.14	boletin33.html	/^ id="x1-300001.14"><\/a>Conferenciantes invitados<\/h5>$/;"	I
+x1-300002.3	boletin32/anuncios-N32.html	/^ id="x1-300002.3"><\/a>Poster session<\/h5>$/;"	I
+x1-300002.3	boletin32/boletin32.html	/^ id="x1-300002.3"><\/a>Poster session<\/h5>$/;"	I
+x1-30001	boletin32/boletin32.html	/^ id="x1-30001"><\/a>Noticias<\/h3>$/;"	I
+x1-30001	boletin32/noticias-N32.html	/^ id="x1-30001"><\/a>Noticias<\/h3>$/;"	I
+x1-30001	boletin33.html	/^ id="x1-30001"><\/a>Noticias<\/h3>$/;"	I
+x1-30001r24	boletin33.html	/^ id="x1-30001r24"><\/a>$/;"	I
+x1-30002	boletin33.html	/^ id="x1-30002"><\/a>$/;"	I
+x1-30003r25	boletin33.html	/^ id="x1-30003r25"><\/a>$/;"	I
+x1-30004	boletin33.html	/^ id="x1-30004"><\/a>$/;"	I
+x1-30005r26	boletin33.html	/^ id="x1-30005r26"><\/a>$/;"	I
+x1-30006	boletin33.html	/^ id="x1-30006"><\/a>$/;"	I
+x1-30007r27	boletin33.html	/^ id="x1-30007r27"><\/a>$/;"	I
+x1-30008	boletin33.html	/^ id="x1-30008"><\/a>$/;"	I
+x1-30009r28	boletin33.html	/^ id="x1-30009r28"><\/a>$/;"	I
+x1-30010	boletin33.html	/^ id="x1-30010"><\/a>$/;"	I
+x1-310002	boletin33.html	/^ id="x1-310002"><\/a>Anuncios<\/h3>$/;"	I
+x1-310002.3	boletin32/anuncios-N32.html	/^ id="x1-310002.3"><\/a>Roundtable<\/h5>$/;"	I
+x1-310002.3	boletin32/boletin32.html	/^ id="x1-310002.3"><\/a>Roundtable<\/h5>$/;"	I
+x1-320002.1	boletin33.html	/^ id="x1-320002.1"><\/a>Convocatoria del XXVII Premio SEMA «Antonio Valle» al Joven Investigado/;"	I
+x1-320002.3	boletin32/anuncios-N32.html	/^ id="x1-320002.3"><\/a>Further information<\/h5>$/;"	I
+x1-320002.3	boletin32/boletin32.html	/^ id="x1-320002.3"><\/a>Further information<\/h5>$/;"	I
+x1-330002.1	boletin33.html	/^ id="x1-330002.1"><\/a>Preámbulo<\/h5>$/;"	I
+x1-330002.4	boletin32/anuncios-N32.html	/^ id="x1-330002.4"><\/a>Multiscale Methods at the Frontier Between Data and Mathematical Models<\//;"	I
+x1-330002.4	boletin32/boletin32.html	/^ id="x1-330002.4"><\/a>Multiscale Methods at the Frontier Between Data and Mathematical Models<\//;"	I
+x1-340002.1	boletin33.html	/^ id="x1-340002.1"><\/a>Bases Generales<\/h5>$/;"	I
+x1-340002.4	boletin32/anuncios-N32.html	/^ id="x1-340002.4"><\/a>Minicourses<\/h5>$/;"	I
+x1-340002.4	boletin32/boletin32.html	/^ id="x1-340002.4"><\/a>Minicourses<\/h5>$/;"	I
+x1-350002.1	boletin33.html	/^ id="x1-350002.1"><\/a>Bases particulares de la convocatoria 2024<\/h5>$/;"	I
+x1-350002.4	boletin32/anuncios-N32.html	/^ id="x1-350002.4"><\/a>Keynote speakers<\/h5>$/;"	I
+x1-350002.4	boletin32/boletin32.html	/^ id="x1-350002.4"><\/a>Keynote speakers<\/h5>$/;"	I
+x1-360002.2	boletin33.html	/^ id="x1-360002.2"><\/a>Évariste Sanchez-Palencia y Jean-Pierre Françoise publican el libro: Di/;"	I
+x1-360002.5	boletin32/anuncios-N32.html	/^ id="x1-360002.5"><\/a>Programa de Investigación Fundamentos Fundación BBVA: Abierta convocato/;"	I
+x1-360002.5	boletin32/boletin32.html	/^ id="x1-360002.5"><\/a>Programa de Investigación Fundamentos Fundación BBVA: Abierta convocato/;"	I
+x1-36001r29	boletin33.html	/^ id="x1-36001r29"><\/a>$/;"	I
+x1-36002	boletin33.html	/^ id="x1-36002"><\/a>$/;"	I
+x1-36006r30	boletin33.html	/^ id="x1-36006r30"><\/a>$/;"	I
+x1-36007	boletin33.html	/^ id="x1-36007"><\/a>$/;"	I
+x1-370002.2	boletin33.html	/^ id="x1-370002.2"><\/a>Del prefacio<\/h5>$/;"	I
+x1-370002.6	boletin32/anuncios-N32.html	/^ id="x1-370002.6"><\/a>Abierta la XVI Convocatoria de los Premios Fundación BBVA Fronteras del$/;"	I
+x1-370002.6	boletin32/boletin32.html	/^ id="x1-370002.6"><\/a>Abierta la XVI Convocatoria de los Premios Fundación BBVA Fronteras del$/;"	I
+x1-380002.2	boletin33.html	/^ id="x1-380002.2"><\/a>Sobre los autores:<\/h5>$/;"	I
+x1-380002.7	boletin32/anuncios-N32.html	/^ id="x1-380002.7"><\/a>XIII Encuentro Andaluz de Matemática Discreta<\/h4>$/;"	I
+x1-380002.7	boletin32/boletin32.html	/^ id="x1-380002.7"><\/a>XIII Encuentro Andaluz de Matemática Discreta<\/h4>$/;"	I
+x1-390002.2	boletin33.html	/^ id="x1-390002.2"><\/a>Libros de los autores en el tema:<\/h5>$/;"	I
+x1-390002.7	boletin32/anuncios-N32.html	/^ id="x1-390002.7"><\/a>Comité organizador<\/h5>$/;"	I
+x1-390002.7	boletin32/boletin32.html	/^ id="x1-390002.7"><\/a>Comité organizador<\/h5>$/;"	I
+x1-400002.2	boletin33.html	/^ id="x1-400002.2"><\/a>Índice general<\/h5>$/;"	I
+x1-400002.8	boletin32/anuncios-N32.html	/^ id="x1-400002.8"><\/a>Sixth workshop on thin structures<\/h4>$/;"	I
+x1-400002.8	boletin32/boletin32.html	/^ id="x1-400002.8"><\/a>Sixth workshop on thin structures<\/h4>$/;"	I
+x1-40001.1	boletin32/boletin32.html	/^ id="x1-40001.1"><\/a>José Antonio Carrillo de la Plata recibe la Medalla Echegaray 2022<\/h4>$/;"	I
+x1-40001.1	boletin32/noticias-N32.html	/^ id="x1-40001.1"><\/a>José Antonio Carrillo de la Plata recibe la Medalla Echegaray 2022<\/h4>$/;"	I
+x1-40001.1	boletin33.html	/^ id="x1-40001.1"><\/a>Solemne acto de entrega de la Medalla Echegaray 2022<\/h4>$/;"	I
+x1-4001r1	boletin32/boletin32.html	/^ id="x1-4001r1"><\/a>$/;"	I
+x1-4001r1	boletin32/noticias-N32.html	/^ id="x1-4001r1"><\/a>$/;"	I
+x1-4001r1	boletin33.html	/^ id="x1-4001r1"><\/a>$/;"	I
+x1-4002	boletin32/boletin32.html	/^ id="x1-4002"><\/a>$/;"	I
+x1-4002	boletin32/noticias-N32.html	/^ id="x1-4002"><\/a>$/;"	I
+x1-4002	boletin33.html	/^ id="x1-4002"><\/a>$/;"	I
+x1-410002.3	boletin33.html	/^ id="x1-410002.3"><\/a>Santander Workshop on Geometric and Algebraic Combinatorics<\/h4>$/;"	I
+x1-410002.8	boletin32/anuncios-N32.html	/^ id="x1-410002.8"><\/a>Invited speakers<\/h5>$/;"	I
+x1-410002.8	boletin32/boletin32.html	/^ id="x1-410002.8"><\/a>Invited speakers<\/h5>$/;"	I
+x1-420002.3	boletin33.html	/^ id="x1-420002.3"><\/a><span $/;"	I
+x1-420002.9	boletin32/anuncios-N32.html	/^ id="x1-420002.9"><\/a>Conference of Young Applied Mathematicians<\/h4>$/;"	I
+x1-420002.9	boletin32/boletin32.html	/^ id="x1-420002.9"><\/a>Conference of Young Applied Mathematicians<\/h4>$/;"	I
+x1-430002.3	boletin33.html	/^ id="x1-430002.3"><\/a><span $/;"	I
+x1-430002.9	boletin32/anuncios-N32.html	/^ id="x1-430002.9"><\/a>Important dates<\/h5>$/;"	I
+x1-430002.9	boletin32/boletin32.html	/^ id="x1-430002.9"><\/a>Important dates<\/h5>$/;"	I
+x1-440002.10	boletin32/anuncios-N32.html	/^ id="x1-440002.10"><\/a>XX Spanish Meeting on Computational Geometry<\/h4>$/;"	I
+x1-440002.10	boletin32/boletin32.html	/^ id="x1-440002.10"><\/a>XX Spanish Meeting on Computational Geometry<\/h4>$/;"	I
+x1-440002.3	boletin33.html	/^ id="x1-440002.3"><\/a><span $/;"	I
+x1-450002.10	boletin32/anuncios-N32.html	/^ id="x1-450002.10"><\/a>Invited speakers<\/h5>$/;"	I
+x1-450002.10	boletin32/boletin32.html	/^ id="x1-450002.10"><\/a>Invited speakers<\/h5>$/;"	I
+x1-450002.4	boletin33.html	/^ id="x1-450002.4"><\/a>Congreso Internacional de Matemática Aplicada: ETAMM en Coruña<\/h4>$/;"	I
+x1-460002.10	boletin32/anuncios-N32.html	/^ id="x1-460002.10"><\/a>Submissions<\/h5>$/;"	I
+x1-460002.10	boletin32/boletin32.html	/^ id="x1-460002.10"><\/a>Submissions<\/h5>$/;"	I
+x1-460002.5	boletin33.html	/^ id="x1-460002.5"><\/a>XXVIII CEDYA\/XVIII CMA, Bilbao<\/h4>$/;"	I
+x1-470002.10	boletin32/anuncios-N32.html	/^ id="x1-470002.10"><\/a><span $/;"	I
+x1-470002.10	boletin32/boletin32.html	/^ id="x1-470002.10"><\/a><span $/;"	I
+x1-470002.6	boletin33.html	/^ id="x1-470002.6"><\/a>Congreso hispano-franco-alemán de optimización<\/h4>$/;"	I
+x1-47001r31	boletin33.html	/^ id="x1-47001r31"><\/a>$/;"	I
+x1-47002	boletin33.html	/^ id="x1-47002"><\/a>$/;"	I
+x1-480002.10	boletin32/anuncios-N32.html	/^ id="x1-480002.10"><\/a><span $/;"	I
+x1-480002.10	boletin32/boletin32.html	/^ id="x1-480002.10"><\/a><span $/;"	I
+x1-480002.6	boletin33.html	/^ id="x1-480002.6"><\/a>Participación.<\/span>$/;"	I
+x1-490002.10	boletin32/anuncios-N32.html	/^ id="x1-490002.10"><\/a>Program committee<\/h5>$/;"	I
+x1-490002.10	boletin32/boletin32.html	/^ id="x1-490002.10"><\/a>Program committee<\/h5>$/;"	I
+x1-490002.6	boletin33.html	/^ id="x1-490002.6"><\/a>Conferenciantes plenarios.<\/span>$/;"	I
+x1-500002.10	boletin32/anuncios-N32.html	/^ id="x1-500002.10"><\/a>Organizing committee<\/h5>$/;"	I
+x1-500002.10	boletin32/boletin32.html	/^ id="x1-500002.10"><\/a>Organizing committee<\/h5>$/;"	I
+x1-500002.6	boletin33.html	/^ id="x1-500002.6"><\/a>Fechas importantes.<\/span>$/;"	I
+x1-50001.2	boletin32/boletin32.html	/^ id="x1-50001.2"><\/a>María Elena Vázquez Cendón, premio Josefa Wonenburger 2022<\/h4>$/;"	I
+x1-50001.2	boletin32/noticias-N32.html	/^ id="x1-50001.2"><\/a>María Elena Vázquez Cendón, premio Josefa Wonenburger 2022<\/h4>$/;"	I
+x1-50001.2	boletin33.html	/^ id="x1-50001.2"><\/a>Diego Córdoba Gazolaz y Xavier Ros Otón galardonados con los Premios$/;"	I
+x1-5001r2	boletin32/boletin32.html	/^ id="x1-5001r2"><\/a>$/;"	I
+x1-5001r2	boletin32/noticias-N32.html	/^ id="x1-5001r2"><\/a>$/;"	I
+x1-5001r2	boletin33.html	/^ id="x1-5001r2"><\/a>$/;"	I
+x1-5002	boletin32/boletin32.html	/^ id="x1-5002"><\/a>$/;"	I
+x1-5002	boletin32/noticias-N32.html	/^ id="x1-5002"><\/a>$/;"	I
+x1-5002	boletin33.html	/^ id="x1-5002"><\/a>$/;"	I
+x1-510002.11	boletin32/anuncios-N32.html	/^ id="x1-510002.11"><\/a>Congreso Europeo de Matemáticas<\/h4>$/;"	I
+x1-510002.11	boletin32/boletin32.html	/^ id="x1-510002.11"><\/a>Congreso Europeo de Matemáticas<\/h4>$/;"	I
+x1-510002.7	boletin33.html	/^ id="x1-510002.7"><\/a>Boundary and Interior Layers (BAIL) Conference<\/h4>$/;"	I
+x1-520002.12	boletin32/anuncios-N32.html	/^ id="x1-520002.12"><\/a>Becas Máster Matemáticas y Aplicaciones UAM<\/h4>$/;"	I
+x1-520002.12	boletin32/boletin32.html	/^ id="x1-520002.12"><\/a>Becas Máster Matemáticas y Aplicaciones UAM<\/h4>$/;"	I
+x1-520002.7	boletin33.html	/^ id="x1-520002.7"><\/a>Sponsors<\/h5>$/;"	I
+x1-530002.13	boletin32/anuncios-N32.html	/^ id="x1-530002.13"><\/a><span $/;"	I
+x1-530002.13	boletin32/boletin32.html	/^ id="x1-530002.13"><\/a><span $/;"	I
+x1-530002.8	boletin33.html	/^ id="x1-530002.8"><\/a>VIII Encuentro ALAMA: Álgebra Lineal, Análisis Matricial y Aplicaciones/;"	I
+x1-540002.13	boletin32/anuncios-N32.html	/^ id="x1-540002.13"><\/a><span $/;"	I
+x1-540002.13	boletin32/boletin32.html	/^ id="x1-540002.13"><\/a><span $/;"	I
+x1-540002.9	boletin33.html	/^ id="x1-540002.9"><\/a>Geometric And Variational Analysis In memory of Jan Malý<\/h4>$/;"	I
+x1-550002.9	boletin33.html	/^ id="x1-550002.9"><\/a>Conference details<\/h5>$/;"	I
+x1-550003	boletin32/boletin32.html	/^ id="x1-550003"><\/a><span $/;"	I
+x1-560002.9	boletin33.html	/^ id="x1-560002.9"><\/a>Invited speakers<\/h5>$/;"	I
+x1-560004	boletin32/boletin32.html	/^ id="x1-560004"><\/a><span $/;"	I
+x1-570002.9	boletin33.html	/^ id="x1-570002.9"><\/a>Participation opportunities<\/h5>$/;"	I
+x1-580002.9	boletin33.html	/^ id="x1-580002.9"><\/a>Registration and fees<\/h5>$/;"	I
+x1-590002.9	boletin33.html	/^ id="x1-590002.9"><\/a>Organizing committee<\/h5>$/;"	I
+x1-600002.10	boletin33.html	/^ id="x1-600002.10"><\/a>Discrete Mathematics Days 2024, Alcalá de Henares<\/h4>$/;"	I
+x1-60001.3	boletin32/boletin32.html	/^ id="x1-60001.3"><\/a>Los catedráticos Juan Ignacio Montijano y Luis Rández reciben la distinc/;"	I
+x1-60001.3	boletin32/noticias-N32.html	/^ id="x1-60001.3"><\/a>Los catedráticos Juan Ignacio Montijano y Luis Rández reciben la distinc/;"	I
+x1-60001.3	boletin33.html	/^ id="x1-60001.3"><\/a>Haïm Brezis, premio Steel 2024 de la AMS<\/h4>$/;"	I
+x1-6001r3	boletin32/boletin32.html	/^ id="x1-6001r3"><\/a>$/;"	I
+x1-6001r3	boletin32/noticias-N32.html	/^ id="x1-6001r3"><\/a>$/;"	I
+x1-6002	boletin32/boletin32.html	/^ id="x1-6002"><\/a>$/;"	I
+x1-6002	boletin32/noticias-N32.html	/^ id="x1-6002"><\/a>$/;"	I
+x1-610002.10	boletin33.html	/^ id="x1-610002.10"><\/a>Organizing committee<\/h5>$/;"	I
+x1-620002.11	boletin33.html	/^ id="x1-620002.11"><\/a>Resumen de tesis<\/h4>$/;"	I
+x1-630002.12	boletin33.html	/^ id="x1-630002.12"><\/a><span $/;"	I
+x1-640002.12	boletin33.html	/^ id="x1-640002.12"><\/a><span $/;"	I
+x1-650002.12	boletin33.html	/^ id="x1-650002.12"><\/a><a $/;"	I
+x1-660003	boletin33.html	/^ id="x1-660003"><\/a>SEMA <span $/;"	I
+x1-670004	boletin33.html	/^ id="x1-670004"><\/a>Socios institucionales<\/h3>$/;"	I
+x1-70001.4	boletin32/boletin32.html	/^ id="x1-70001.4"><\/a>Tesis seleccionada por la SEMA para optar a los <span $/;"	I
+x1-70001.4	boletin32/noticias-N32.html	/^ id="x1-70001.4"><\/a>Tesis seleccionada por la SEMA para optar a los <span $/;"	I
+x1-70001.4	boletin33.html	/^ id="x1-70001.4"><\/a>Nuevos miembros en el consejo ejecutivo de la SEMA<\/h4>$/;"	I
+x1-7001r3	boletin33.html	/^ id="x1-7001r3"><\/a>$/;"	I
+x1-7001r4	boletin32/boletin32.html	/^ id="x1-7001r4"><\/a>$/;"	I
+x1-7001r4	boletin32/noticias-N32.html	/^ id="x1-7001r4"><\/a>$/;"	I
+x1-7002	boletin32/boletin32.html	/^ id="x1-7002"><\/a>$/;"	I
+x1-7002	boletin32/noticias-N32.html	/^ id="x1-7002"><\/a>$/;"	I
+x1-7002	boletin33.html	/^ id="x1-7002"><\/a>$/;"	I
+x1-7003r4	boletin33.html	/^ id="x1-7003r4"><\/a>$/;"	I
+x1-7004	boletin33.html	/^ id="x1-7004"><\/a>$/;"	I
+x1-80001.5	boletin32/boletin32.html	/^ id="x1-80001.5"><\/a>Ingreso de Francisco Marcellán en la Real Academia Galega de Ciencias<\/h/;"	I
+x1-80001.5	boletin32/noticias-N32.html	/^ id="x1-80001.5"><\/a>Ingreso de Francisco Marcellán en la Real Academia Galega de Ciencias<\/h/;"	I
+x1-80001.5	boletin33.html	/^ id="x1-80001.5"><\/a>Ulysseus Spring School in PDEs (USSPDE)<\/h4>$/;"	I
+x1-8001r5	boletin32/boletin32.html	/^ id="x1-8001r5"><\/a>$/;"	I
+x1-8001r5	boletin32/noticias-N32.html	/^ id="x1-8001r5"><\/a>$/;"	I
+x1-8001r5	boletin33.html	/^ id="x1-8001r5"><\/a>$/;"	I
+x1-8002	boletin32/boletin32.html	/^ id="x1-8002"><\/a>$/;"	I
+x1-8002	boletin32/noticias-N32.html	/^ id="x1-8002"><\/a>$/;"	I
+x1-8002	boletin33.html	/^ id="x1-8002"><\/a>$/;"	I
+x1-8003r1	boletin33.html	/^ id="x1-8003r1"><\/a>$/;"	I
+x1-8004r2	boletin33.html	/^ id="x1-8004r2"><\/a><div class="subfigure"><table><tr><td style="text-align:left"><img $/;"	I
+x1-8005r3	boletin33.html	/^ id="x1-8005r3"><\/a>$/;"	I
+x1-8006r4	boletin33.html	/^ id="x1-8006r4"><\/a>$/;"	I
+x1-8007r5	boletin33.html	/^ id="x1-8007r5"><\/a><div class="subfigure"><table><tr><td style="text-align:left"><img $/;"	I
+x1-8008r6	boletin33.html	/^ id="x1-8008r6"><\/a>$/;"	I
+x1-8009	boletin33.html	/^ id="x1-8009"><\/a>$/;"	I
+x1-8010r1	boletin33.html	/^ id="x1-8010r1"><\/a>$/;"	I
+x1-8011r2	boletin33.html	/^ id="x1-8011r2"><\/a><div class="subfigure"><table><tr><td style="text-align:left"><img $/;"	I
+x1-8012r3	boletin33.html	/^ id="x1-8012r3"><\/a><div class="subfigure"><table><tr><td style="text-align:left"><img $/;"	I
+x1-8013r4	boletin33.html	/^ id="x1-8013r4"><\/a><div class="subfigure"><table><tr><td style="text-align:left"><img $/;"	I
+x1-8014r5	boletin33.html	/^ id="x1-8014r5"><\/a><div class="subfigure"><table><tr><td style="text-align:left"><img $/;"	I
+x1-8015r6	boletin33.html	/^ id="x1-8015r6"><\/a><div class="subfigure"><table><tr><td style="text-align:left"><img $/;"	I
+x1-8016r7	boletin33.html	/^ id="x1-8016r7"><\/a>$/;"	I
+x1-8017r8	boletin33.html	/^ id="x1-8017r8"><\/a><div class="subfigure"><table><tr><td style="text-align:left"><img $/;"	I
+x1-8018r9	boletin33.html	/^ id="x1-8018r9"><\/a>$/;"	I
+x1-8019r7	boletin33.html	/^ id="x1-8019r7"><\/a>$/;"	I
+x1-8020	boletin33.html	/^ id="x1-8020"><\/a>$/;"	I
+x1-8021r8	boletin33.html	/^ id="x1-8021r8"><\/a>$/;"	I
+x1-8022	boletin33.html	/^ id="x1-8022"><\/a>$/;"	I
+x1-8023r1	boletin33.html	/^ id="x1-8023r1"><\/a>$/;"	I
+x1-8024r2	boletin33.html	/^ id="x1-8024r2"><\/a><div class="subfigure"><table><tr><td style="text-align:left"><img $/;"	I
+x1-8025r3	boletin33.html	/^ id="x1-8025r3"><\/a><div class="subfigure"><table><tr><td style="text-align:left"><img $/;"	I
+x1-8026r4	boletin33.html	/^ id="x1-8026r4"><\/a>$/;"	I
+x1-8027r5	boletin33.html	/^ id="x1-8027r5"><\/a><div class="subfigure"><table><tr><td style="text-align:left"><img $/;"	I
+x1-8028r6	boletin33.html	/^ id="x1-8028r6"><\/a><div class="subfigure"><table><tr><td style="text-align:left"><img $/;"	I
+x1-8029r7	boletin33.html	/^ id="x1-8029r7"><\/a>$/;"	I
+x1-8030r9	boletin33.html	/^ id="x1-8030r9"><\/a>$/;"	I
+x1-8031	boletin33.html	/^ id="x1-8031"><\/a>$/;"	I
+x1-8032r10	boletin33.html	/^ id="x1-8032r10"><\/a>$/;"	I
+x1-8033	boletin33.html	/^ id="x1-8033"><\/a>$/;"	I
+x1-90001.6	boletin32/boletin32.html	/^ id="x1-90001.6"><\/a>Renovación de la junta directiva de la COSCE<\/h4>$/;"	I
+x1-90001.6	boletin32/noticias-N32.html	/^ id="x1-90001.6"><\/a>Renovación de la junta directiva de la COSCE<\/h4>$/;"	I
+x1-90001.6	boletin33.html	/^ id="x1-90001.6"><\/a>Jornada de Sociedades COSCE 2023<\/h4>$/;"	I
+x11-430008	boletin32/institucionales-N32.html	/^ id="x11-430008"><\/a>Socios institucionales<\/h3>$/;"	I
+x2-1000	boletin32/editorial-N32.html	/^ id="x2-1000"><\/a>Editorial<\/h3>$/;"	I
+x8-450005	boletin32/sema-journal-N32.html	/^ id="x8-450005"><\/a>SEMA <span $/;"	I
+xlink	boletin330x.svg	/^<svg version='1.1' xmlns='http:\/\/www.w3.org\/2000\/svg' xmlns:xlink='http:\/\/www.w3.org\/1999/;"	n	uri:http://www.w3.org/1999/xlink
+Évariste Sanchez-Palencia y Jean-Pierre Françoise publican el libro: Dialectique dans les sciences et systèmes dynamiques. Le Temps des Cerises, 2023, 240~p.	eugenia_libro_SP_12_11.tex	/^\\subsection{Évariste Sanchez-Palencia y  Jean-Pierre Françoise publican el libro: Dialectique/;"	u	section:Anuncios
+Índice general	eugenia_libro_SP_12_11.tex	/^\\subsubsection*{Índice general}$/;"	b	subsection:Anuncios""Évariste Sanchez-Palencia y Jean-Pierre Françoise publican el libro: Dialectique dans les sciences et systèmes dynamiques. Le Temps des Cerises, 2023, 240~p.

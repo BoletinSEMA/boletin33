@@ -1,0 +1,101 @@
+\expandafter\ifx\csname doTocEntry\endcsname\relax \expandafter\endinput\fi
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{1}{x1-1000}{QQ2-1-1}{Editorial}}{2}\relax 
+\doTocEntry\tocsection{}{\csname a:TocLink\endcsname{1}{Q1-1-2}{}{Editorial}}{2}\relax 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{1}{x1-2000}{QQ2-1-3}{Palabras del presidente}}{4}\relax 
+\doTocEntry\tocsection{}{\csname a:TocLink\endcsname{1}{Q1-1-4}{}{Palabras del presidente}}{4}\relax 
+\doTocEntry\tocsection{1}{\csname a:TocLink\endcsname{1}{x1-30001}{QQ2-1-5}{Noticias}}{8}\relax 
+\doTocEntry\tocsubsection{1.1}{\csname a:TocLink\endcsname{1}{x1-40001.1}{QQ2-1-6}{Solemne acto de entrega de la Medalla Echegaray 2022}}{8}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-4002}{}{\numberline {1}{\ignorespaces Los profesores José Antonio Carrillo y Juan Luis Vázquez.\relax }}}{10}\relax 
+\doTocEntry\tocsubsection{1.2}{\csname a:TocLink\endcsname{1}{x1-50001.2}{QQ2-1-8}{Diego Córdoba Gazolaz y Xavier Ros Otón galardonados con los Premios Nacionales de Investigación}}{13}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-5002}{}{\numberline {2}{\ignorespaces Los profesores Diego Córdoba Gazolaz (izquierda) y Xavier Ros Otón (derecha).\relax }}}{15}\relax 
+\doTocEntry\tocsubsection{1.3}{\csname a:TocLink\endcsname{1}{x1-60001.3}{QQ2-1-10}{Haïm Brezis, premio Steel 2024 de la AMS}}{17}\relax 
+\doTocEntry\tocsubsection{1.4}{\csname a:TocLink\endcsname{1}{x1-70001.4}{QQ2-1-11}{Nuevos miembros en el consejo ejecutivo de la SEMA}}{22}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-7002}{}{\numberline {3}{\ignorespaces Profa. Virginia Selgas.\relax }}}{22}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-7004}{}{\numberline {4}{\ignorespaces Profa. María González Taboada.\relax }}}{23}\relax 
+\doTocEntry\tocsubsection{1.5}{\csname a:TocLink\endcsname{1}{x1-80001.5}{QQ2-1-14}{Ulysseus Spring School in PDEs (USSPDE)}}{24}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-8002}{}{\numberline {5}{\ignorespaces \small Opening ceremony. From the left to the right: Profs. María Ángeles Rodríguez-Bellido, Antonio Suárez, Julián Martínez, Justo Puerto, Yves D'Angelo and Enrique Fernández-Cara.\relax }}}{26}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-8009}{}{\numberline {6}{\ignorespaces Mini-courses speakers\relax }}}{35}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-8020}{}{\numberline {7}{\ignorespaces Plenary speakers\relax }}}{44}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-8022}{}{\numberline {8}{\ignorespaces Roundtable\relax }}}{45}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-8031}{}{\numberline {9}{\ignorespaces Poster Session\relax }}}{47}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-8033}{}{\numberline {10}{\ignorespaces Official Photo\relax }}}{50}\relax 
+\doTocEntry\tocsubsection{1.6}{\csname a:TocLink\endcsname{1}{x1-90001.6}{QQ2-1-21}{Jornada de Sociedades COSCE 2023}}{52}\relax 
+\doTocEntry\tocsubsection{1.7}{\csname a:TocLink\endcsname{1}{x1-100001.7}{QQ2-1-22}{Renovación parcial del panel de Matemáticas de la Agencia Estatal de Investigación}}{53}\relax 
+\doTocEntry\tocsubsection{1.8}{\csname a:TocLink\endcsname{1}{x1-110001.8}{QQ2-1-23}{Aula de las matemáticas y la ciencia de Bueño}}{55}\relax 
+\doTocEntry\tocsubsection{1.9}{\csname a:TocLink\endcsname{1}{x1-120001.9}{QQ2-1-24}{Ceremonia de entrega de premios del VI Concurso de Modelización Matemática 2023 del IMI}}{57}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-12002}{}{\numberline {11}{\ignorespaces Cartel anunciador del acto de entrega de premios.\relax }}}{59}\relax 
+\doTocEntry\tocsubsection{1.10}{\csname a:TocLink\endcsname{1}{x1-130001.10}{QQ2-1-26}{XX Escuela Jacques-Louis Lions Hispano-Francesa sobre Simulación Numérica en Física e Ingeniería, Barcelona}}{61}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{1}{x1-140001.10}{QQ2-1-27}{Comité organizador}}{64}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{1}{x1-150001.10}{QQ2-1-28}{Comité científico}}{65}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-15002}{}{\numberline {12}{\ignorespaces Cursos de la XX EHF: H. Barucq (arriba a la izquierda), J.B. Bru (arriba a la derecha), A.~Carpio (abajo a la izquierda) y A. Lefebvre-Lepot (abajo a la derecha).\relax }}}{67}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{1}{x1-160001.10}{QQ2-1-30}{Cursos, conferencias y sesión de pósteres}}{68}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-16002}{}{\numberline {13}{\ignorespaces Conferencias plenarias de la XX EHF: L. Chamoin (arriba), L. Giraldi (centro) y E. Peña (abajo).\relax }}}{68}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{1}{x1-170001.10}{QQ2-1-32}{Acto de apertura y entrega de premios}}{69}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-17002}{}{\numberline {14}{\ignorespaces Entrega de premios en la XX EHF: Xavier Fernández-Real (izda) galardonado con el Premio SEMA \lq \lq Antonio Valle\rq \rq \ al joven investigador y Carlos Castro (dcha) galardonado con el Premio al mejor artículo publicado en SEMA Jr. en el año 2022.\relax }}}{71}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-17004}{}{\numberline {15}{\ignorespaces Entrega de premios en la XX EHF: Laura Rinaldi de la Università Degli Studi di Padova galardonada con el premio al mejor póster de esta edición\relax }}}{74}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{1}{x1-180001.10}{QQ2-1-35}{Actas del congreso}}{75}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-18002}{}{\numberline {16}{\ignorespaces Fotografía de los participantes a la XX EHF y una instantánea del aula.\relax }}}{77}\relax 
+\doTocEntry\tocsubsection{1.11}{\csname a:TocLink\endcsname{1}{x1-190001.11}{QQ2-1-37}{Workshop on Numerical Analysis celebrating J.M. Sanz-Serna 70th birthday, Valladolid}}{79}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{1}{x1-200001.11}{QQ2-1-38}{Comité organizador}}{79}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{1}{x1-210001.11}{QQ2-1-39}{Conferenciantes invitados}}{79}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-21002}{}{\numberline {17}{\ignorespaces Izquierda: Konstantinos Zygalakis (University of Edinburgh). Derecha: Fernando Vadillo (Universidad del País Vasco UPV/EHU).\relax }}}{83}\relax 
+\doTocEntry\tocsubsection{1.12}{\csname a:TocLink\endcsname{1}{x1-220001.12}{QQ2-1-41}{Modelling the Propagation of Fluids: Mathematical Analysis and Numerical Approximation, Valladolid}}{85}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{1}{x1-230001.12}{QQ2-1-42}{Comité organizador}}{88}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{1}{x1-240001.12}{QQ2-1-43}{Conferenciantes invitados}}{88}\relax 
+\doTocEntry\tocsubsection{1.13}{\csname a:TocLink\endcsname{1}{x1-250001.13}{QQ2-1-44}{Exposición \textit  {Matemáticas a pie de calle} en Pamplona}}{91}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{1}{x1-260001.13}{QQ2-1-45}{Exposición}}{91}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-26002}{}{\numberline {18}{\ignorespaces Teo Roldán (UPNA, responsable del proyecto), Pedro Miana (UNIZAR, comisario de la exposición), Yeray Rodríguez (UPNA).\relax }}}{93}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{1}{x1-270001.13}{QQ2-1-47}{Conferencias}}{94}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-27010}{}{\numberline {19}{\ignorespaces Algunos momentos del desarrollo de las conferencias y las exposiciones.\relax }}}{96}\relax 
+\doTocEntry\tocsubsection{1.14}{\csname a:TocLink\endcsname{1}{x1-280001.14}{QQ2-1-49}{Workshop on numerical approximation of hyperbolic PDEs in honor of Prof. Carlos Parés' 60th birthday, Málaga}}{98}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-28002}{}{\numberline {20}{\ignorespaces Izda: O. Pironneau (Sorbonne Université), dcha: F. Hecht (Sorbonne Université). \relax }}}{100}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-28004}{}{\numberline {21}{\ignorespaces Izda: E.F. Toro (Università di Trento), dcha: E. Fernández Nieto (Universidad de Sevilla). \relax }}}{103}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-28006}{}{\numberline {22}{\ignorespaces Izda: M. Ricchiuto (INRIA Bordeaux), dcha: E. R. Loubère (Université de Bordeaux). \relax }}}{103}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-28008}{}{\numberline {23}{\ignorespaces Izda: P. Mulet (Universitat de València), dcha: C. Vázquez (Universidad de A Coruña). \relax }}}{103}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{1}{x1-290001.14}{QQ2-1-54}{Comité organizador}}{104}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{1}{x1-300001.14}{QQ2-1-55}{Conferenciantes invitados}}{104}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-30002}{}{\numberline {24}{\ignorespaces Izda: C. Klingenberg (University of Würzburg), dcha: C. Berthon (Nantes Université). \relax }}}{107}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-30004}{}{\numberline {25}{\ignorespaces Izda: A. Ferreiro Ferreiro (Universidad de A Coruña), dcha: J.A. García Rodríguez (Universidad de A Coruña). \relax }}}{110}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-30006}{}{\numberline {26}{\ignorespaces Izda: M. J. Castro (Universidad de Málaga), dcha: E. Macca (Università di Catania). \relax }}}{113}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-30008}{}{\numberline {27}{\ignorespaces Cartel del evento.\relax }}}{116}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-30010}{}{\numberline {28}{\ignorespaces Izda: Cena del evento, dcha: algunos miembros del grupo EDANYA. \relax }}}{119}\relax 
+\doTocEntry\tocsection{2}{\csname a:TocLink\endcsname{1}{x1-310002}{QQ2-1-61}{Anuncios}}{122}\relax 
+\doTocEntry\tocsubsection{2.1}{\csname a:TocLink\endcsname{1}{x1-320002.1}{QQ2-1-62}{Convocatoria del XXVII Premio SEMA <<Antonio Valle>> al Joven Investigador (2024)}}{122}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{1}{x1-330002.1}{QQ2-1-63}{Preámbulo}}{122}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{1}{x1-340002.1}{QQ2-1-64}{Bases Generales}}{122}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{1}{x1-350002.1}{QQ2-1-65}{Bases particulares de la convocatoria 2024}}{124}\relax 
+\doTocEntry\tocsubsection{2.2}{\csname a:TocLink\endcsname{1}{x1-360002.2}{QQ2-1-66}{Évariste Sanchez-Palencia y Jean-Pierre Françoise publican el libro: Dialectique dans les sciences et systèmes dynamiques. Le Temps des Cerises, 2023, 240\unhbox \voidb@x \nobreak  \relax \leavevmode \special {t4ht@+&{35}x00A0{59}}xp. }}{126}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-36002}{}{\numberline {29}{\ignorespaces Portada de \textbf { Dialectique dans les sciences et systèmes dynamiques}.\relax }}}{128}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-36007}{}{\numberline {30}{\ignorespaces S\'intesis de las fases del conocimiento cient\'ifico.\relax }}}{131}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{1}{x1-370002.2}{QQ2-1-69}{Del prefacio}}{133}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{1}{x1-380002.2}{QQ2-1-70}{Sobre los autores:}}{133}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{1}{x1-390002.2}{QQ2-1-71}{Libros de los autores en el tema:}}{134}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{1}{x1-400002.2}{QQ2-1-72}{Índice general}}{134}\relax 
+\doTocEntry\tocsubsection{2.3}{\csname a:TocLink\endcsname{1}{x1-410002.3}{QQ2-1-73}{Santander Workshop on Geometric and Algebraic Combinatorics}}{139}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{1}{x1-420002.3}{QQ2-1-74}{Minicourses (3 hours each)}}{139}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{1}{x1-430002.3}{QQ2-1-75}{Invited speakers}}{139}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{1}{x1-440002.3}{QQ2-1-76}{Organizing committee}}{140}\relax 
+\doTocEntry\tocsubsection{2.4}{\csname a:TocLink\endcsname{1}{x1-450002.4}{QQ2-1-77}{Congreso Internacional de Matemática Aplicada: ETAMM en Coruña}}{142}\relax 
+\doTocEntry\tocsubsection{2.5}{\csname a:TocLink\endcsname{1}{x1-460002.5}{QQ2-1-78}{XXVIII CEDYA/XVIII CMA, Bilbao}}{143}\relax 
+\doTocEntry\tocsubsection{2.6}{\csname a:TocLink\endcsname{1}{x1-470002.6}{QQ2-1-79}{Congreso hispano-franco-alem\'{a}n de optimizaci\'{o}n}}{147}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-47002}{}{\numberline {31}{\ignorespaces Logo del \href {https://www.unioviedo.es/fgs2024/}{FGS2024}\relax }}}{149}\relax 
+\doTocEntry\toclikeparagraph{}{\csname a:TocLink\endcsname{1}{x1-480002.6}{QQ2-1-81}{Participaci\'{o}n.}}{150}\relax 
+\doTocEntry\toclikeparagraph{}{\csname a:TocLink\endcsname{1}{x1-490002.6}{QQ2-1-82}{Conferenciantes plenarios.}}{151}\relax 
+\doTocEntry\toclikeparagraph{}{\csname a:TocLink\endcsname{1}{x1-500002.6}{QQ2-1-83}{Fechas importantes.}}{152}\relax 
+\doTocEntry\tocsubsection{2.7}{\csname a:TocLink\endcsname{1}{x1-510002.7}{QQ2-1-84}{Boundary and Interior Layers (BAIL) Conference}}{154}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{1}{x1-520002.7}{QQ2-1-85}{Sponsors}}{155}\relax 
+\doTocEntry\tocsubsection{2.8}{\csname a:TocLink\endcsname{1}{x1-530002.8}{QQ2-1-86}{VIII Encuentro ALAMA: Álgebra Lineal, Análisis Matricial y Aplicaciones}}{156}\relax 
+\doTocEntry\tocsubsection{2.9}{\csname a:TocLink\endcsname{1}{x1-540002.9}{QQ2-1-87}{Geometric And Variational Analysis In memory of Jan Mal\'y}}{157}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{1}{x1-550002.9}{QQ2-1-88}{Conference details}}{157}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{1}{x1-560002.9}{QQ2-1-89}{Invited speakers}}{157}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{1}{x1-570002.9}{QQ2-1-90}{Participation opportunities}}{158}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{1}{x1-580002.9}{QQ2-1-91}{Registration and fees}}{158}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{1}{x1-590002.9}{QQ2-1-92}{Organizing committee}}{159}\relax 
+\doTocEntry\tocsubsection{2.10}{\csname a:TocLink\endcsname{1}{x1-600002.10}{QQ2-1-93}{Discrete Mathematics Days 2024, Alcalá de Henares}}{161}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{1}{x1-610002.10}{QQ2-1-94}{Organizing committee}}{164}\relax 
+\doTocEntry\tocsubsection{2.11}{\csname a:TocLink\endcsname{1}{x1-620002.11}{QQ2-1-95}{Resumen de tesis}}{165}\relax 
+\doTocEntry\tocsubsection{2.12}{\csname a:TocLink\endcsname{1}{x1-630002.12}{QQ2-1-96}{Basque Center for Applied Mathematics}}{167}\relax 
+\doTocEntry\toclikesubsection{}{\csname a:TocLink\endcsname{1}{x1-640002.12}{QQ2-1-97}{Open positions}}{167}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{1}{x1-650002.12}{QQ2-1-98}{\href  {https://joboffers.bcamath.org/apply/ic2023-10-postdoctoral-fellow-on-pdes-and-mathematical-analysis-for-fluid-mechanics-two-positions?utm_source=BCAM+Newsletter&utm_campaign=56349f95d4-EMAIL_CAMPAIGN_2018_10_31_10_33_COPY_01&utm_medium=email&utm_term=0_f44359d1b6-56349f95d4-62270881}{Postdoctoral Fellow on PDEs and Mathematical Analysis for Fluid Mechanics-two positions}}}{167}\relax 
+\doTocEntry\tocsection{3}{\csname a:TocLink\endcsname{1}{x1-660003}{QQ2-1-99}{SEMA \textit  {Journal}}}{168}\relax 
+\doTocEntry\tocsection{4}{\csname a:TocLink\endcsname{1}{x1-670004}{QQ2-1-100}{Socios institucionales}}{175}\relax 
