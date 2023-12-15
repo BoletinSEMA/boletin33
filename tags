@@ -276,6 +276,7 @@
 1 Noticias	boletin32/boletin32.html	/^ id="x1-30001"><\/a>Noticias<\/h3>$/;"	j
 1 Noticias	boletin32/noticias-N32.html	/^ id="x1-30001"><\/a>Noticias<\/h3>$/;"	j
 1 Noticias	boletin33.html	/^ id="x1-30001"><\/a>Noticias<\/h3>$/;"	j
+2 Anuncios	anuncios_body.html	/^ id="x1-200002"><\/a>Anuncios<\/h3>$/;"	j
 2 Anuncios	boletin32/anuncios-N32.html	/^ id="x1-200002"><\/a>Anuncios<\/h3>$/;"	j
 2 Anuncios	boletin32/boletin32.html	/^ id="x1-200002"><\/a>Anuncios<\/h3>$/;"	j
 2 Anuncios	boletin33.html	/^ id="x1-310002"><\/a>Anuncios<\/h3>$/;"	j
@@ -285,88 +286,22 @@
 4 Socios institucionales	boletin32/boletin32.html	/^class="ecrm-1200">Socios institucionales<\/span><\/h3>$/;"	j
 4 Socios institucionales	boletin32/institucionales-N32.html	/^ id="x11-430008"><\/a>Socios institucionales<\/h3>$/;"	j
 4 Socios institucionales	boletin33.html	/^ id="x1-670004"><\/a>Socios institucionales<\/h3>$/;"	j
-Actas del congreso	ehf2023.tex	/^\\subsubsection*{Actas del congreso}$/;"	b	subsection:Anuncios""XX Escuela Jacques-Louis Lions Hispano Francesa sobre Simulación Numérica en Física e Ingeniería, Barcelona
-Actas del congreso	plantilla-Boletin-SEMA.tex	/^\\subsubsection{Actas del congreso}$/;"	b	section:XXVI CEDYA/XVI CMA, Gij�n
-Actas del congreso	resena_boletin_diciembre/plantilla-Boletin-SEMA.tex	/^\\subsubsection*{Actas del congreso}$/;"	b	subsection:Anuncios""XX Escuela Jacques-Louis Lions Hispano-Francesa sobre Simulación Numérica en Física e Ingeniería, Barcelona
-Actividades del Instituto de Matemáticas de la Universidad de Sevilla, IMUS	imus33.tex	/^\\subsection{Actividades del Instituto de Matemáticas de la Universidad de Sevilla, IMUS}\\labe/;"	u	section:Anuncios
-Acto de apertura y entrega de premios	resena_boletin_diciembre/plantilla-Boletin-SEMA.tex	/^\\subsubsection*{Acto de apertura y entrega de premios}$/;"	b	subsection:Anuncios""XX Escuela Jacques-Louis Lions Hispano-Francesa sobre Simulación Numérica en Física e Ingeniería, Barcelona
-Anuncios	boletin33.tex	/^\\section{Anuncios} $/;"	s
-Anuncios	premio_eccomas.tex	/^\\section{Anuncios}$/;"	s
-Aula de las matemáticas y la ciencia de Bueño	noticias33.tex	/^\\subsection{Aula de las matemáticas y la ciencia de Bueño}$/;"	u	section:Noticias
-Bases Generales	anuncios33.tex	/^ \\subsubsection*{Bases Generales}$/;"	b	subsection:Anuncios""Convocatoria del XXVII Premio SEMA <<Antonio Valle>> al Joven Investigador (2024)
-Bases Generales	premio_eccomas.tex	/^ \\subsubsection{Bases Generales}$/;"	b	subsection:Anuncios""Convocatoria del XXVII Premio SEMA <<Antonio Valle>> al Joven Investigador (2024)
-Bases particulares de la convocatoria 2024	anuncios33.tex	/^\\subsubsection*{Bases particulares de la convocatoria 2024}$/;"	b	subsection:Anuncios""Convocatoria del XXVII Premio SEMA <<Antonio Valle>> al Joven Investigador (2024)
-Bases particulares de la convocatoria 2024	premio_eccomas.tex	/^\\subsubsection{Bases particulares de la convocatoria 2024}$/;"	b	subsection:Anuncios""Convocatoria del XXVII Premio SEMA <<Antonio Valle>> al Joven Investigador (2024)
-Basque Center for Applied Mathematics	bcam33.tex	/^\\subsection{Basque Center for Applied Mathematics}$/;"	u	section:Palabras del presidente
-Boundary and Interior Layers (BAIL) Conference	anuncios33.tex	/^\\subsection{Boundary and Interior Layers (BAIL) Conference}$/;"	u	section:Anuncios
-Ceremonia de entrega de premios del VI Concurso de Modelización Matemática 2023 del IMI	noticias33.tex	/^\\subsection{Ceremonia de entrega de premios del VI Concurso de Modelización Matemática 2023 d/;"	u	section:Noticias
-Comité científico	resena_boletin_diciembre/plantilla-Boletin-SEMA.tex	/^\\subsubsection*{Comité científico}$/;"	b	subsection:Anuncios""XX Escuela Jacques-Louis Lions Hispano-Francesa sobre Simulación Numérica en Física e Ingeniería, Barcelona
-Comité organizador	contribuciones_valladolid/JMSS70-SEMA.tex	/^\\subsubsection*{Comité organizador}$/;"	b	subsection:Anuncios""Workshop on Numerical Analysis celebrating J.M. Sanz-Serna 70th birthday, Valladolid
-Comité organizador	contribuciones_valladolid/mpf-SEMA.tex	/^\\subsubsection*{Comité organizador}$/;"	b	subsection:Anuncios""Modelling the Propagation of Fluids: Mathematical Analysis and Numerical Approximation, Valladolid
-Comité organizador	pares60/pares60.tex	/^\\subsubsection*{Comité organizador}$/;"	b	subsection:Anuncios""Workshop on numerical approximation of hyperbolic PDEs in honor of Prof. Carlos Parés' 60th birthday, Málaga
-Comité organizador	resena_boletin_diciembre/plantilla-Boletin-SEMA.tex	/^\\subsubsection*{Comité organizador}$/;"	b	subsection:Anuncios""XX Escuela Jacques-Louis Lions Hispano-Francesa sobre Simulación Numérica en Física e Ingeniería, Barcelona
-Conference details	anuncios33.tex	/^\\subsubsection*{Conference details}$/;"	b	subsection:Anuncios""Geometric And Variational Analysis In memory of Jan Mal\\'y
-Conferenciantes invitados	boletin32/CRF23ADK/CRF23_SEVILLA.tex	/^\\subsubsection*{Conferenciantes invitados}$/;"	b	subsection:Anuncios""Control and Related Fields
-Conferenciantes invitados	contribuciones_valladolid/JMSS70-SEMA.tex	/^\\subsubsection*{Conferenciantes invitados}$/;"	b	subsection:Anuncios""Workshop on Numerical Analysis celebrating J.M. Sanz-Serna 70th birthday, Valladolid
-Conferenciantes invitados	contribuciones_valladolid/mpf-SEMA.tex	/^\\subsubsection*{Conferenciantes invitados}$/;"	b	subsection:Anuncios""Modelling the Propagation of Fluids: Mathematical Analysis and Numerical Approximation, Valladolid
-Conferenciantes invitados	pares60/pares60.tex	/^\\subsubsection*{Conferenciantes invitados}$/;"	b	subsection:Anuncios""Workshop on numerical approximation of hyperbolic PDEs in honor of Prof. Carlos Parés' 60th birthday, Málaga
-Conferenciantes plenarios.	anuncios33.tex	/^\\paragraph*{Conferenciantes plenarios.}$/;"	P	subsection:Anuncios""Congreso hispano-franco-alem\\'{a}n de optimizaci\\'{o}n
-Conferencias	noticias33.tex	/^\\subsubsection*{Conferencias}$/;"	b	subsection:Noticias""Exposición \\textit{Matemáticas a pie de calle} en Pamplona
-Conferencias Plenarias	plantilla-Boletin-SEMA.tex	/^\\subsubsection{Conferencias Plenarias}$/;"	b	section:XXVI CEDYA/XVI CMA, Gij�n
-Conferencias invitadas	ehf2023.tex	/^\\subsubsection*{Conferencias invitadas}$/;"	b	subsection:Anuncios""XX Escuela Jacques-Louis Lions Hispano Francesa sobre Simulación Numérica en Física e Ingeniería, Barcelona
-Congreso Internacional de Matemática Aplicada: ETAMM en Coruña	anuncios33.tex	/^\\subsection{Congreso Internacional de Matemática Aplicada: ETAMM en Coruña}$/;"	u	section:Anuncios
-Congreso hispano-franco-alem\\'{a}n de optimizaci\\'{o}n	anuncios33.tex	/^\\subsection{Congreso hispano-franco-alem\\'{a}n de optimizaci\\'{o}n}$/;"	u	section:Anuncios
-Control and Related Fields	boletin32/CRF23ADK/CRF23_SEVILLA.tex	/^\\subsection{Control and Related Fields}$/;"	u	section:Anuncios
-Convocatoria del XXVII Premio SEMA <<Antonio Valle>> al Joven Investigador (2024)	anuncios33.tex	/^\\subsection{Convocatoria del XXVII Premio SEMA <<Antonio Valle>>  al Joven Investigador (2024)}$/;"	u	section:Anuncios
-Convocatoria del XXVII Premio SEMA <<Antonio Valle>> al Joven Investigador (2024)	premio_eccomas.tex	/^\\subsection{Convocatoria del XXVII Premio SEMA <<Antonio Valle>>  al Joven Investigador (2024)}$/;"	u	section:Anuncios
-Cursos	ehf2023.tex	/^\\subsubsection*{Cursos}$/;"	b	subsection:Anuncios""XX Escuela Jacques-Louis Lions Hispano Francesa sobre Simulación Numérica en Física e Ingeniería, Barcelona
-Cursos, conferencias y sesión de pósteres	resena_boletin_diciembre/plantilla-Boletin-SEMA.tex	/^\\subsubsection*{Cursos, conferencias y sesión de pósteres}$/;"	b	subsection:Anuncios""XX Escuela Jacques-Louis Lions Hispano-Francesa sobre Simulación Numérica en Física e Ingeniería, Barcelona
-Del prefacio	eugenia_libro_SP_12_11.tex	/^\\subsubsection*{Del prefacio}$/;"	b	subsection:Anuncios""Évariste Sanchez-Palencia y Jean-Pierre Françoise publican el libro: Dialectique dans les sciences et systèmes dynamiques. Le Temps des Cerises, 2023, 240~p.
-Diego Córdoba Gazolaz y Xavier Ros Otón galardonados con los Premios Nacionales de Investigación	noticias33.tex	/^\\subsection{Diego Córdoba Gazolaz y Xavier Ros Otón galardonados con los Premios Nacionales d/;"	u	section:Noticias
-Discrete Mathematics Days 2024, Alcalá de Henares	anuncios33.tex	/^\\subsection{Discrete Mathematics Days 2024, Alcalá de Henares}$/;"	u	section:Anuncios
+Conferenciantes invitados	boletin32/CRF23ADK/CRF23_SEVILLA.tex	/^\\subsubsection*{Conferenciantes invitados}$/;"	b	subsection:Control and Related Fields
+Control and Related Fields	boletin32/CRF23ADK/CRF23_SEVILLA.tex	/^\\subsection{Control and Related Fields}$/;"	u
 Editorial	boletin32/boletin32.html	/^ id="x1-1000"><\/a>Editorial<\/h3>$/;"	j
 Editorial	boletin32/editorial-N32.html	/^ id="x2-1000"><\/a>Editorial<\/h3>$/;"	j
 Editorial	boletin33.html	/^ id="x1-1000"><\/a>Editorial<\/h3>$/;"	j
-Editorial	editorial+presidente33.tex	/^\\section*{Editorial}$/;"	s
-Entradas en el blog	imus33.tex	/^\\subsubsection*{Entradas en el blog}$/;"	b	subsection:Anuncios""Actividades del Instituto de Matemáticas de la Universidad de Sevilla, IMUS
-Exposición	noticias33.tex	/^\\subsubsection*{Exposición}$/;"	b	subsection:Noticias""Exposición \\textit{Matemáticas a pie de calle} en Pamplona
-Exposición \\textit{Matemáticas a pie de calle} en Pamplona	noticias33.tex	/^\\subsection{Exposición \\textit{Matemáticas a pie de calle} en Pamplona}$/;"	u	section:Noticias
-F1	ReseniaActividadSEMAOlimpiadaESOAsturias2023.tex	/^  \\caption{Isabel ense\\~{n}ando el interfer\\'{o}metro a varios participantes.}\\label{F1}$/;"	l
-F2	ReseniaActividadSEMAOlimpiadaESOAsturias2023.tex	/^  \\caption{Algunos de los organizadores de la olimpiada junto a nuestra compa\\~{n}era Isabel.}/;"	l
-Fechas importantes.	anuncios33.tex	/^\\paragraph*{Fechas importantes.}$/;"	P	subsection:Anuncios""Congreso hispano-franco-alem\\'{a}n de optimizaci\\'{o}n
-Geometric And Variational Analysis In memory of Jan Mal\\'y	anuncios33.tex	/^\\subsection{Geometric And Variational Analysis In memory of Jan Mal\\'y}$/;"	u	section:Anuncios
+Editorial	editorial_body.html	/^ id="x2-1000"><\/a>Editorial<\/h3>$/;"	j
 Hacerse socio de la SEMA es muy sencillo, y barato	boletin32/hacerse_socio_body.html	/^  <h3 align="center" class="sectionHead">Hacerse socio de la SEMA es muy sencillo, y barato<\/h3/;"	j
-Hacerse socio de la SEMA es muy sencillo, y barato	hacerse-socio.tex	/^\\section*{Hacerse socio de la SEMA es muy sencillo, y barato}$/;"	s
-Haïm Brezis, premio Steel 2024 de la AMS	noticias33.tex	/^\\subsection{Haïm Brezis, premio Steel 2024 de la AMS} $/;"	u	section:Noticias
-Inscripción, viaje y alojamiento	ehf2023.tex	/^\\subsubsection*{Inscripción, viaje y alojamiento}$/;"	b	subsection:Anuncios""XX Escuela Jacques-Louis Lions Hispano Francesa sobre Simulación Numérica en Física e Ingeniería, Barcelona
-Inscripci�n, viaje y alojamiento	plantilla-Boletin-SEMA.tex	/^\\subsubsection{Inscripci�n, viaje y alojamiento}$/;"	b	section:XXVI CEDYA/XVI CMA, Gij�n
-Invited speakers	anuncios33.tex	/^\\subsubsection*{Invited speakers} $/;"	b	subsection:Anuncios""Geometric And Variational Analysis In memory of Jan Mal\\'y
-Invited speakers	anuncios33.tex	/^\\subsubsection*{Invited speakers}$/;"	b	subsection:Anuncios""Santander Workshop on Geometric and Algebraic Combinatorics
-Jornada de Sociedades COSCE 2023	noticias33.tex	/^\\subsection{Jornada de Sociedades COSCE 2023} $/;"	u	section:Noticias
-Libros de los autores en el tema:	eugenia_libro_SP_12_11.tex	/^\\subsubsection*{Libros de los autores en el tema:}$/;"	b	subsection:Anuncios""Évariste Sanchez-Palencia y Jean-Pierre Françoise publican el libro: Dialectique dans les sciences et systèmes dynamiques. Le Temps des Cerises, 2023, 240~p.
-Minicourses (3 hours each)	anuncios33.tex	/^\\subsubsection*{Minicourses (3 hours each)} $/;"	b	subsection:Anuncios""Santander Workshop on Geometric and Algebraic Combinatorics
-Minisimposios	plantilla-Boletin-SEMA.tex	/^\\subsubsection{Minisimposios}$/;"	b	section:XXVI CEDYA/XVI CMA, Gij�n
-Modelling the Propagation of Fluids: Mathematical Analysis and Numerical Approximation, Valladolid	contribuciones_valladolid/mpf-SEMA.tex	/^\\subsection{Modelling the Propagation of Fluids: Mathematical Analysis and Numerical Approximat/;"	u	section:Anuncios
 NUMERO_BOLETIN	Makefile	/^NUMERO_BOLETIN=33$/;"	m
 NUMERO_BOLETIN	boletin32/Makefile	/^NUMERO_BOLETIN=32$/;"	m
 NUMERO_BOLETIN	boletin32/latex2html/Makefile	/^NUMERO_BOLETIN=32$/;"	m
 NUMERO_BOLETIN	latex2html/Makefile	/^NUMERO_BOLETIN=32$/;"	m
-Noticias	noticias33.tex	/^\\section{Noticias}$/;"	s
-Nuevos miembros en el consejo ejecutivo de la SEMA	noticias33.tex	/^\\subsection{Nuevos miembros en el consejo ejecutivo de la SEMA} $/;"	u	section:Noticias
 Número 32, mayo 2023	boletin32/header.html	/^    <h2>Número 32, mayo 2023<\/h2>$/;"	i
 Número 33, diciembre 2023	header.html	/^    <h2>Número 33, diciembre 2023<\/h2>$/;"	i
-Open positions	bcam33.tex	/^\\subsection*{Open positions}$/;"	u	section:Palabras del presidente
-Organizing committee	anuncios33.tex	/^\\subsubsection*{Organizing committee}$/;"	b	subsection:Anuncios""Discrete Mathematics Days 2024, Alcalá de Henares
-Organizing committee	anuncios33.tex	/^\\subsubsection*{Organizing committee}$/;"	b	subsection:Anuncios""Geometric And Variational Analysis In memory of Jan Mal\\'y
-Organizing committee	anuncios33.tex	/^\\subsubsection*{Organizing committee}$/;"	b	subsection:Anuncios""Santander Workshop on Geometric and Algebraic Combinatorics
 Palabras del presidente	boletin32/boletin32.html	/^ id="x1-2000"><\/a>Palabras del presidente<\/h3>$/;"	j
 Palabras del presidente	boletin32/palabras_presidente-N32.html	/^ id="x1-2000"><\/a>Palabras del presidente<\/h3>$/;"	j
 Palabras del presidente	boletin33.html	/^ id="x1-2000"><\/a>Palabras del presidente<\/h3>$/;"	j
-Palabras del presidente	editorial+presidente33.tex	/^\\section*{Palabras del presidente}$/;"	s
-Participaci\\'{o}n.	anuncios33.tex	/^\\paragraph*{Participaci\\'{o}n.}$/;"	P	subsection:Anuncios""Congreso hispano-franco-alem\\'{a}n de optimizaci\\'{o}n
-Participation opportunities	anuncios33.tex	/^\\subsubsection*{Participation opportunities}$/;"	b	subsection:Anuncios""Geometric And Variational Analysis In memory of Jan Mal\\'y
-Preámbulo	anuncios33.tex	/^ \\subsubsection*{Preámbulo}$/;"	b	subsection:Anuncios""Convocatoria del XXVII Premio SEMA <<Antonio Valle>> al Joven Investigador (2024)
-Preámbulo	premio_eccomas.tex	/^ \\subsubsection{Preámbulo}$/;"	b	subsection:Anuncios""Convocatoria del XXVII Premio SEMA <<Antonio Valle>> al Joven Investigador (2024)
 Q1-1-2	boletin32/boletin32.html	/^ id="Q1-1-2"><\/a>$/;"	I
 Q1-1-2	boletin33.html	/^ id="Q1-1-2"><\/a>$/;"	I
 Q1-1-4	boletin32/boletin32.html	/^ id="Q1-1-4"><\/a>$/;"	I
@@ -377,16 +312,6 @@ QQ2-1-1	boletin32/boletin32.html	/^href="#x1-1000" id="QQ2-1-1">Editorial<\/a><\
 QQ2-1-1	boletin33.html	/^href="#x1-1000" id="QQ2-1-1">Editorial<\/a><\/span>$/;"	I
 QQ2-1-3	boletin32/boletin32.html	/^href="#x1-2000" id="QQ2-1-3">Palabras del presidente<\/a><\/span>$/;"	I
 QQ2-1-3	boletin33.html	/^href="#x1-2000" id="QQ2-1-3">Palabras del presidente<\/a><\/span>$/;"	I
-Registration and fees	anuncios33.tex	/^\\subsubsection*{Registration and fees} $/;"	b	subsection:Anuncios""Geometric And Variational Analysis In memory of Jan Mal\\'y
-Renovación parcial del panel de Matemáticas de la Agencia Estatal de Investigación	noticias33.tex	/^\\subsection{Renovación parcial del panel de Matemáticas de la Agencia Estatal de Investigació/;"	u	section:Noticias
-Resumen de tesis	andrevf_tesis-defendida.tex	/^\\subsection{Resumen de tesis}$/;"	u	section:Anuncios
-SEMA \\textit{Journal}\\label{sec:sema-journal}	sema-journal80-1.tex	/^\\section{SEMA \\textit{Journal}\\label{sec:sema-journal}}$/;"	s
-Santander Workshop on Geometric and Algebraic Combinatorics	anuncios33.tex	/^\\subsection{Santander Workshop on Geometric and Algebraic Combinatorics}$/;"	u	section:Anuncios
-Sobre los autores:	eugenia_libro_SP_12_11.tex	/^\\subsubsection*{Sobre los autores:}$/;"	b	subsection:Anuncios""Évariste Sanchez-Palencia y Jean-Pierre Françoise publican el libro: Dialectique dans les sciences et systèmes dynamiques. Le Temps des Cerises, 2023, 240~p.
-Socios institucionales	socios-institucionales.tex	/^\\section{Socios institucionales}$/;"	s
-Solemne acto de entrega de la Medalla Echegaray 2022	noticias33.tex	/^\\subsection{Solemne acto de entrega de la Medalla Echegaray 2022}$/;"	u	section:Noticias
-Solemne acto de entrega de la Medalla Echegaray 2022, Madrid	echegaray_carrillo/echegaray_carillo.tex	/^\\section{Solemne acto de entrega de la Medalla Echegaray 2022, Madrid}$/;"	s
-Sponsors	anuncios33.tex	/^\\subsubsection*{Sponsors}$/;"	b	subsection:Anuncios""Boundary and Interior Layers (BAIL) Conference
 TBL-1	boletin32/boletin32.html	/^   <div class="tabular"> <table id="TBL-1" class="tabular" $/;"	I
 TBL-1	boletin33.html	/^   <div class="tabular"> <table id="TBL-1" class="tabular" $/;"	I
 TBL-1-1	boletin32/boletin32.html	/^id="TBL-1-1" \/><col $/;"	I
@@ -508,74 +433,107 @@ TBL-3-4-1	boletin32/anuncios-N32.html	/^ style="vertical-align:baseline;" id="TB
 TBL-3-4-1	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-3-4-"><td  style="white-space:nowrap; text-align:left;/;"	I
 TBL-3-4-2	boletin32/anuncios-N32.html	/^class="td10"> Early registration closing date    <\/td><td  style="white-space:nowrap; text-alig/;"	I
 TBL-3-4-2	boletin32/boletin32.html	/^class="td10"> Early registration closing date    <\/td><td  style="white-space:nowrap; text-alig/;"	I
+TBL-4	anuncios_body.html	/^<div class="tabular"> <table id="TBL-4" class="tabular" $/;"	I
 TBL-4	boletin32/anuncios-N32.html	/^<\/p><!--l. 580--><p class="indent" >   <!--tex4ht:inline--><\/p><div class="tabular"> <table id/;"	I
 TBL-4	boletin32/boletin32.html	/^<\/p><!--l. 580--><p class="indent" >   <!--tex4ht:inline--><\/p><div class="tabular"> <table id/;"	I
 TBL-4	boletin33.html	/^<div class="tabular"> <table id="TBL-4" class="tabular" $/;"	I
+TBL-4-1	anuncios_body.html	/^id="TBL-4-1" \/><\/colgroup><tr  $/;"	I
 TBL-4-1	boletin32/anuncios-N32.html	/^id="TBL-4-1" \/><\/colgroup><tr  $/;"	I
 TBL-4-1	boletin32/boletin32.html	/^id="TBL-4-1" \/><\/colgroup><tr  $/;"	I
 TBL-4-1	boletin33.html	/^id="TBL-4-1" \/><\/colgroup><tr  $/;"	I
+TBL-4-1-	anuncios_body.html	/^ style="vertical-align:baseline;" id="TBL-4-1-"><td  style="white-space:nowrap; text-align:left;/;"	I
 TBL-4-1-	boletin32/anuncios-N32.html	/^ style="vertical-align:baseline;" id="TBL-4-1-"><td  style="white-space:nowrap; text-align:left;/;"	I
 TBL-4-1-	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-4-1-"><td  style="white-space:nowrap; text-align:left;/;"	I
 TBL-4-1-	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-4-1-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-4-1-1	anuncios_body.html	/^ style="vertical-align:baseline;" id="TBL-4-1-"><td  style="white-space:nowrap; text-align:left;/;"	I
 TBL-4-1-1	boletin32/anuncios-N32.html	/^ style="vertical-align:baseline;" id="TBL-4-1-"><td  style="white-space:nowrap; text-align:left;/;"	I
 TBL-4-1-1	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-4-1-"><td  style="white-space:nowrap; text-align:left;/;"	I
 TBL-4-1-1	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-4-1-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-4-1g	anuncios_body.html	/^><colgroup id="TBL-4-1g"><col $/;"	I
 TBL-4-1g	boletin32/anuncios-N32.html	/^><colgroup id="TBL-4-1g"><col $/;"	I
 TBL-4-1g	boletin32/boletin32.html	/^><colgroup id="TBL-4-1g"><col $/;"	I
 TBL-4-1g	boletin33.html	/^><colgroup id="TBL-4-1g"><col $/;"	I
+TBL-4-2-	anuncios_body.html	/^ style="vertical-align:baseline;" id="TBL-4-2-"><td  style="white-space:nowrap; text-align:left;/;"	I
 TBL-4-2-	boletin32/anuncios-N32.html	/^ style="vertical-align:baseline;" id="TBL-4-2-"><td  style="white-space:nowrap; text-align:left;/;"	I
 TBL-4-2-	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-4-2-"><td  style="white-space:nowrap; text-align:left;/;"	I
 TBL-4-2-	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-4-2-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-4-2-1	anuncios_body.html	/^ style="vertical-align:baseline;" id="TBL-4-2-"><td  style="white-space:nowrap; text-align:left;/;"	I
 TBL-4-2-1	boletin32/anuncios-N32.html	/^ style="vertical-align:baseline;" id="TBL-4-2-"><td  style="white-space:nowrap; text-align:left;/;"	I
 TBL-4-2-1	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-4-2-"><td  style="white-space:nowrap; text-align:left;/;"	I
 TBL-4-2-1	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-4-2-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-5	anuncios_body.html	/^<!--l. 342--><p class="noindent" ><!--tex4ht:inline--><\/p><div class="tabular"> <table id="TBL-/;"	I
 TBL-5	boletin32/anuncios-N32.html	/^<!--l. 611--><p class="indent" >   <!--tex4ht:inline--><\/p><div class="tabular"> <table id="TBL/;"	I
 TBL-5	boletin32/boletin32.html	/^<!--l. 611--><p class="indent" >   <!--tex4ht:inline--><\/p><div class="tabular"> <table id="TBL/;"	I
 TBL-5	boletin33.html	/^<!--l. 342--><p class="noindent" ><!--tex4ht:inline--><\/p><div class="tabular"> <table id="TBL-/;"	I
+TBL-5-1	anuncios_body.html	/^id="TBL-5-1" \/><\/colgroup><colgroup id="TBL-5-2g"><col $/;"	I
 TBL-5-1	boletin32/anuncios-N32.html	/^id="TBL-5-1" \/><\/colgroup><tr  $/;"	I
 TBL-5-1	boletin32/boletin32.html	/^id="TBL-5-1" \/><\/colgroup><tr  $/;"	I
 TBL-5-1	boletin33.html	/^id="TBL-5-1" \/><\/colgroup><colgroup id="TBL-5-2g"><col $/;"	I
+TBL-5-1-	anuncios_body.html	/^ style="vertical-align:baseline;" id="TBL-5-1-"><td  style="white-space:normal; text-align:left;/;"	I
 TBL-5-1-	boletin32/anuncios-N32.html	/^ style="vertical-align:baseline;" id="TBL-5-1-"><td  style="white-space:nowrap; text-align:left;/;"	I
 TBL-5-1-	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-5-1-"><td  style="white-space:nowrap; text-align:left;/;"	I
 TBL-5-1-	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-5-1-"><td  style="white-space:normal; text-align:left;/;"	I
+TBL-5-1-1	anuncios_body.html	/^ style="vertical-align:baseline;" id="TBL-5-1-"><td  style="white-space:normal; text-align:left;/;"	I
 TBL-5-1-1	boletin32/anuncios-N32.html	/^ style="vertical-align:baseline;" id="TBL-5-1-"><td  style="white-space:nowrap; text-align:left;/;"	I
 TBL-5-1-1	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-5-1-"><td  style="white-space:nowrap; text-align:left;/;"	I
 TBL-5-1-1	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-5-1-"><td  style="white-space:normal; text-align:left;/;"	I
+TBL-5-1-2	anuncios_body.html	/^class="ecbx-1000">Scientiﬁc Committee<\/span>                       <\/p><\/td><td  style="whi/;"	I
 TBL-5-1-2	boletin33.html	/^class="ecbx-1000">Scientiﬁc Committee<\/span>                       <\/p><\/td><td  style="whi/;"	I
+TBL-5-1g	anuncios_body.html	/^><colgroup id="TBL-5-1g"><col $/;"	I
 TBL-5-1g	boletin32/anuncios-N32.html	/^><colgroup id="TBL-5-1g"><col $/;"	I
 TBL-5-1g	boletin32/boletin32.html	/^><colgroup id="TBL-5-1g"><col $/;"	I
 TBL-5-1g	boletin33.html	/^><colgroup id="TBL-5-1g"><col $/;"	I
+TBL-5-2	anuncios_body.html	/^id="TBL-5-2" \/><\/colgroup><tr  $/;"	I
 TBL-5-2	boletin33.html	/^id="TBL-5-2" \/><\/colgroup><tr  $/;"	I
+TBL-5-2-	anuncios_body.html	/^ style="vertical-align:baseline;" id="TBL-5-2-"><td  style="white-space:normal; text-align:left;/;"	I
 TBL-5-2-	boletin32/anuncios-N32.html	/^ style="vertical-align:baseline;" id="TBL-5-2-"><td  style="white-space:nowrap; text-align:left;/;"	I
 TBL-5-2-	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-5-2-"><td  style="white-space:nowrap; text-align:left;/;"	I
 TBL-5-2-	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-5-2-"><td  style="white-space:normal; text-align:left;/;"	I
+TBL-5-2-1	anuncios_body.html	/^ style="vertical-align:baseline;" id="TBL-5-2-"><td  style="white-space:normal; text-align:left;/;"	I
 TBL-5-2-1	boletin32/anuncios-N32.html	/^ style="vertical-align:baseline;" id="TBL-5-2-"><td  style="white-space:nowrap; text-align:left;/;"	I
 TBL-5-2-1	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-5-2-"><td  style="white-space:nowrap; text-align:left;/;"	I
 TBL-5-2-1	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-5-2-"><td  style="white-space:normal; text-align:left;/;"	I
+TBL-5-2-2	anuncios_body.html	/^  de Buenos Aires)                                    <\/p><\/td><td  style="white-space:normal;/;"	I
 TBL-5-2-2	boletin33.html	/^  de Buenos Aires)                                    <\/p><\/td><td  style="white-space:normal;/;"	I
+TBL-5-2g	anuncios_body.html	/^id="TBL-5-1" \/><\/colgroup><colgroup id="TBL-5-2g"><col $/;"	I
 TBL-5-2g	boletin33.html	/^id="TBL-5-1" \/><\/colgroup><colgroup id="TBL-5-2g"><col $/;"	I
+TBL-5-3-	anuncios_body.html	/^ style="vertical-align:baseline;" id="TBL-5-3-"><td  style="white-space:normal; text-align:left;/;"	I
 TBL-5-3-	boletin32/anuncios-N32.html	/^ style="vertical-align:baseline;" id="TBL-5-3-"><td  style="white-space:nowrap; text-align:left;/;"	I
 TBL-5-3-	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-5-3-"><td  style="white-space:nowrap; text-align:left;/;"	I
 TBL-5-3-	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-5-3-"><td  style="white-space:normal; text-align:left;/;"	I
+TBL-5-3-1	anuncios_body.html	/^ style="vertical-align:baseline;" id="TBL-5-3-"><td  style="white-space:normal; text-align:left;/;"	I
 TBL-5-3-1	boletin32/anuncios-N32.html	/^ style="vertical-align:baseline;" id="TBL-5-3-"><td  style="white-space:nowrap; text-align:left;/;"	I
 TBL-5-3-1	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-5-3-"><td  style="white-space:nowrap; text-align:left;/;"	I
 TBL-5-3-1	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-5-3-"><td  style="white-space:normal; text-align:left;/;"	I
+TBL-5-3-2	anuncios_body.html	/^  Strathclyde)                                          <\/p><\/td><td  style="white-space:norma/;"	I
 TBL-5-3-2	boletin33.html	/^  Strathclyde)                                          <\/p><\/td><td  style="white-space:norma/;"	I
+TBL-5-4-	anuncios_body.html	/^ style="vertical-align:baseline;" id="TBL-5-4-"><td  style="white-space:normal; text-align:left;/;"	I
 TBL-5-4-	boletin32/anuncios-N32.html	/^ style="vertical-align:baseline;" id="TBL-5-4-"><td  style="white-space:nowrap; text-align:left;/;"	I
 TBL-5-4-	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-5-4-"><td  style="white-space:nowrap; text-align:left;/;"	I
 TBL-5-4-	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-5-4-"><td  style="white-space:normal; text-align:left;/;"	I
+TBL-5-4-1	anuncios_body.html	/^ style="vertical-align:baseline;" id="TBL-5-4-"><td  style="white-space:normal; text-align:left;/;"	I
 TBL-5-4-1	boletin32/anuncios-N32.html	/^ style="vertical-align:baseline;" id="TBL-5-4-"><td  style="white-space:nowrap; text-align:left;/;"	I
 TBL-5-4-1	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-5-4-"><td  style="white-space:nowrap; text-align:left;/;"	I
 TBL-5-4-1	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-5-4-"><td  style="white-space:normal; text-align:left;/;"	I
+TBL-5-4-2	anuncios_body.html	/^class="td11"> <!--l. 346--><p class="noindent" >Petr Knobloch (Charles University)            <\//;"	I
 TBL-5-4-2	boletin33.html	/^class="td11"> <!--l. 346--><p class="noindent" >Petr Knobloch (Charles University)            <\//;"	I
+TBL-5-5-	anuncios_body.html	/^ style="vertical-align:baseline;" id="TBL-5-5-"><td  style="white-space:normal; text-align:left;/;"	I
 TBL-5-5-	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-5-5-"><td  style="white-space:normal; text-align:left;/;"	I
+TBL-5-5-1	anuncios_body.html	/^ style="vertical-align:baseline;" id="TBL-5-5-"><td  style="white-space:normal; text-align:left;/;"	I
 TBL-5-5-1	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-5-5-"><td  style="white-space:normal; text-align:left;/;"	I
+TBL-5-5-2	anuncios_body.html	/^class="td11"> <!--l. 347--><p class="noindent" >Natalia Kopteva (University of Limerick)     <\//;"	I
 TBL-5-5-2	boletin33.html	/^class="td11"> <!--l. 347--><p class="noindent" >Natalia Kopteva (University of Limerick)     <\//;"	I
+TBL-5-6-	anuncios_body.html	/^ style="vertical-align:baseline;" id="TBL-5-6-"><td  style="white-space:normal; text-align:left;/;"	I
 TBL-5-6-	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-5-6-"><td  style="white-space:normal; text-align:left;/;"	I
+TBL-5-6-1	anuncios_body.html	/^ style="vertical-align:baseline;" id="TBL-5-6-"><td  style="white-space:normal; text-align:left;/;"	I
 TBL-5-6-1	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-5-6-"><td  style="white-space:normal; text-align:left;/;"	I
+TBL-5-6-2	anuncios_body.html	/^  Madrid)                                                <\/p><\/td><td  style="white-space:norm/;"	I
 TBL-5-6-2	boletin33.html	/^  Madrid)                                                <\/p><\/td><td  style="white-space:norm/;"	I
+TBL-5-7-	anuncios_body.html	/^ style="vertical-align:baseline;" id="TBL-5-7-"><td  style="white-space:normal; text-align:left;/;"	I
 TBL-5-7-	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-5-7-"><td  style="white-space:normal; text-align:left;/;"	I
+TBL-5-7-1	anuncios_body.html	/^ style="vertical-align:baseline;" id="TBL-5-7-"><td  style="white-space:normal; text-align:left;/;"	I
 TBL-5-7-1	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-5-7-"><td  style="white-space:normal; text-align:left;/;"	I
+TBL-5-7-2	anuncios_body.html	/^class="td11"> <!--l. 349--><p class="noindent" >                                     <\/p><\/td>/;"	I
 TBL-5-7-2	boletin33.html	/^class="td11"> <!--l. 349--><p class="noindent" >                                     <\/p><\/td>/;"	I
 TBL-6	boletin32/boletin32.html	/^<\/p><!--l. 25--><p class="noindent" ><!--tex4ht:inline--><\/p><div class="tabular"><table id="T/;"	I
 TBL-6	boletin33.html	/^<\/p><!--l. 27--><p class="noindent" ><!--tex4ht:inline--><\/p><div class="tabular"><table id="T/;"	I
@@ -706,24 +664,6 @@ TBL-6-9-1	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-6
 TBL-6-9-1	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-6-9-"><td  style="white-space:nowrap; text-align:right/;"	I
 TBL-6-9-2	boletin32/boletin32.html	/^class="td11">                                     <\/td><td  style="white-space:nowrap; text-ali/;"	I
 TBL-6-9-2	boletin33.html	/^class="td11">                                            <\/td><td  style="white-space:nowrap; t/;"	I
-Ulysseus Spring School in PDEs (USSPDE)	Ulysseus2023SeMA/workshopUSSPDE2023.tex	/^\\subsection{Ulysseus Spring School in PDEs (USSPDE)}$/;"	u	section:SEMA \\textit{Journal}\\label{sec:sema-journal}
-VIII Encuentro ALAMA: Álgebra Lineal, Análisis Matricial y Aplicaciones	anuncios33.tex	/^\\subsection{VIII Encuentro ALAMA: Álgebra Lineal, Análisis Matricial y Aplicaciones}$/;"	u	section:Anuncios
-Workshop on Numerical Analysis celebrating J.M. Sanz-Serna 70th birthday, Valladolid	contribuciones_valladolid/JMSS70-SEMA.tex	/^\\subsection{Workshop on Numerical Analysis celebrating J.M. Sanz-Serna 70th birthday, Valladoli/;"	u	section:Anuncios
-Workshop on numerical approximation of hyperbolic PDEs in honor of Prof. Carlos Parés' 60th birthday, Málaga	pares60/pares60.tex	/^\\subsection{Workshop on numerical approximation of hyperbolic PDEs in honor of Prof. Carlos Par/;"	u	section:Anuncios
-XX Escuela Jacques-Louis Lions Hispano Francesa sobre Simulación Numérica en Física e Ingeniería, Barcelona	ehf2023.tex	/^\\subsection{XX Escuela Jacques-Louis Lions Hispano Francesa sobre Simulación Numérica en Fís/;"	u	section:Anuncios
-XX Escuela Jacques-Louis Lions Hispano-Francesa sobre Simulación Numérica en Física e Ingeniería, Barcelona	resena_boletin_diciembre/plantilla-Boletin-SEMA.tex	/^\\subsection{XX Escuela Jacques-Louis Lions Hispano-Francesa sobre Simulación Numérica en Fís/;"	u	section:Anuncios
-XXVI CEDYA/XVI CMA, Gij�n	plantilla-Boletin-SEMA.tex	/^\\section{XXVI CEDYA\/XVI CMA, Gij�n}$/;"	s
-XXVIII CEDYA/XVIII CMA, Bilbao	anuncio_CEDYA_CMA2024Bilbao_boletinSEMA/CEDYA2024.tex	/^\\subsection{XXVIII CEDYA\/XVIII CMA, Bilbao}$/;"	u	section:Anuncios
-\\CC	boletin33.tex	/^\\newcommand{\\CC}{\\mathbb{C}}$/;"	C
-\\NN	boletin33.tex	/^\\newcommand{\\NN}{\\mathbb{N}}$/;"	C
-\\RR	boletin33.tex	/^\\newcommand{\\RR}{\\mathbb{R}}$/;"	C
-\\gills	boletin33.tex	/^\\newcommand{\\gills}[1]{«#1»} % {«»}$/;"	C
-\\href{https://joboffers.bcamath.org/apply/ic2023-10-postdoctoral-fellow-on-pdes-and-mathematical-analysis-for-fluid-mechanics-two-positions?utm_source=BCAM+Newsletter&utm_campaign=56349f95d4-EMAIL_CAMPAIGN_2018_10_31_10_33_COPY_01&utm_medium=email&utm_term=0_f44359d1b6-56349f95d4-62270881}{Postdoctoral Fellow on PDEs and Mathematical Analysis for Fluid Mechanics-two positions}	bcam33.tex	/^\\subsubsection*{\\href{https:\/\/joboffers.bcamath.org\/apply\/ic2023-10-postdoctoral-fellow-on/;"	b	subsection:Palabras del presidente""Open positions
-\\newpage\\seccionauxiliar	boletin33.tex	/^    \\def\\section{\\newpage\\seccionauxiliar}}$/;"	s
-\\sema	ReseniaActividadSEMAOlimpiadaESOAsturias2023.tex	/^\\newcommand{\\sema}{\\rm S\\hbox{\\kern-2pt$\\vec{\\hbox{\\kern+2.5pt e}}$}MA\\nolinebreak }$/;"	C
-\\sema	ehf2023.tex	/^\\newcommand{\\sema}{\\rm SEMA\\nolinebreak }$/;"	C
-\\sema	plantilla-Boletin-SEMA.tex	/^\\newcommand{\\sema}{\\rm SEMA\\nolinebreak }$/;"	C
-\\sema	resena_boletin_diciembre/plantilla-Boletin-SEMA.tex	/^\\newcommand{\\sema}{\\rm SEMA\\nolinebreak }$/;"	C
 a	boletin32/boletin32.css	/^a { overflow-wrap: break-word; word-wrap: break-word; word-break: break-word; hyphens: auto; }$/;"	s
 a	boletin32/boletin32.css	/^a {$/;"	s
 a	boletin33.css	/^a { overflow-wrap: break-word; word-wrap: break-word; word-break: break-word; hyphens: auto; }$/;"	s
@@ -843,11 +783,6 @@ figure.figure	boletin32/boletin32.css	/^figure.figure {text-align:center;}$/;"	c
 figure.figure	boletin33.css	/^figure.figure {text-align:center;}$/;"	c
 figure.float	boletin32/boletin32.css	/^figure.float, div.figure {margin-left: auto; margin-right: auto;}$/;"	c
 figure.float	boletin33.css	/^figure.float, div.figure {margin-left: auto; margin-right: auto;}$/;"	c
-fotoGrupo	Ulysseus2023SeMA/workshopUSSPDE2023.tex	/^  \\label{fotoGrupo}$/;"	l
-fotoOpening	Ulysseus2023SeMA/workshopUSSPDE2023.tex	/^  \\label{fotoOpening}$/;"	l
-fotosMinicourses	Ulysseus2023SeMA/workshopUSSPDE2023.tex	/^  \\label{fotosMinicourses}$/;"	l
-fotosPoster	Ulysseus2023SeMA/workshopUSSPDE2023.tex	/^  \\label{fotosPoster}$/;"	l
-fotosSpeakers	Ulysseus2023SeMA/workshopUSSPDE2023.tex	/^  \\label{fotosSpeakers}$/;"	l
 h1.partHead	boletin32/boletin32.css	/^h1.partHead{text-align: center}$/;"	c
 h1.partHead	boletin33.css	/^h1.partHead{text-align: center}$/;"	c
 h2.titleHead	boletin32/boletin32.css	/^h2.titleHead{text-align:center;}$/;"	c
@@ -873,7 +808,6 @@ li p~ol:last-child	boletin32/boletin32.css	/^li p~ul:last-child, li p~ol:last-ch
 li p~ol:last-child	boletin33.css	/^li p~ul:last-child, li p~ol:last-child{ margin-bottom:0.5em; }$/;"	s
 li p~ul:last-child	boletin32/boletin32.css	/^li p~ul:last-child, li p~ol:last-child{ margin-bottom:0.5em; }$/;"	s
 li p~ul:last-child	boletin33.css	/^li p~ul:last-child, li p~ol:last-child{ margin-bottom:0.5em; }$/;"	s
-logoFGS2024	anuncios33.tex	/^  \\caption{Logo del \\href{https:\/\/www.unioviedo.es\/fgs2024\/}{FGS2024}}\\label{logoFGS2024}$/;"	l
 myOverlay	boletin32/sidebar.html	/^<div class="w3-overlay w3-hide-large w3-animate-opacity" onclick="w3_close()" style="cursor:poin/;"	I
 myOverlay	sidebar.html	/^<div class="w3-overlay w3-hide-large w3-animate-opacity" onclick="w3_close()" style="cursor:poin/;"	I
 mySidebar	boletin32/sidebar.html	/^<nav class="w3-sidebar w3-collapse w3-white w3-animate-left" style="z-index:3;width:300px;paddin/;"	I
@@ -904,7 +838,6 @@ pre + p	boletin32/boletin32.css	/^div + p, pre + p {margin-top:1em;}$/;"	s
 pre + p	boletin33.css	/^div + p, pre + p {margin-top:1em;}$/;"	s
 pre.verbatim	boletin32/boletin32.css	/^pre.verbatim {font-family: monospace,monospace; text-align:left; clear:both; }$/;"	c
 pre.verbatim	boletin33.css	/^pre.verbatim {font-family: monospace,monospace; text-align:left; clear:both; }$/;"	c
-sec:IMUS	imus33.tex	/^\\subsection{Actividades del Instituto de Matemáticas de la Universidad de Sevilla, IMUS}\\labe/;"	l
 span#textcolor1	boletin32/boletin32.css	/^span#textcolor1{color:#0000FF}$/;"	i
 span#textcolor1	boletin33.css	/^span#textcolor1{color:#0000FF}$/;"	i
 span#textcolor2	boletin32/boletin32.css	/^span#textcolor2{color:#0000FF}$/;"	i
@@ -995,6 +928,7 @@ td.td10	boletin32/boletin32.css	/^td.td10{ padding-left:5pt; padding-right:0pt; 
 td.td10	boletin33.css	/^td.td10{ padding-left:5pt; padding-right:0pt; }$/;"	c
 td.td11	boletin32/boletin32.css	/^td.td11{ padding-left:5pt; padding-right:5pt; }$/;"	c
 td.td11	boletin33.css	/^td.td11{ padding-left:5pt; padding-right:5pt; }$/;"	c
+textcolor1	anuncios_body.html	/^class="td11"> <span id="textcolor1"><span $/;"	I
 textcolor1	boletin33.html	/^class="td11"> <span id="textcolor1"><span $/;"	I
 tr.hline td hr	boletin32/boletin32.css	/^tr.hline td hr{display:none}$/;"	s
 tr.hline td hr	boletin33.css	/^tr.hline td hr{display:none}$/;"	s
@@ -1086,6 +1020,7 @@ x1-2000	boletin32/boletin32.html	/^ id="x1-2000"><\/a>Palabras del presidente<\/
 x1-2000	boletin32/palabras_presidente-N32.html	/^ id="x1-2000"><\/a>Palabras del presidente<\/h3>$/;"	I
 x1-2000	boletin33.html	/^ id="x1-2000"><\/a>Palabras del presidente<\/h3>$/;"	I
 x1-200001.11	boletin33.html	/^ id="x1-200001.11"><\/a>Comité organizador<\/h5>$/;"	I
+x1-200002	anuncios_body.html	/^ id="x1-200002"><\/a>Anuncios<\/h3>$/;"	I
 x1-200002	boletin32/anuncios-N32.html	/^ id="x1-200002"><\/a>Anuncios<\/h3>$/;"	I
 x1-200002	boletin32/boletin32.html	/^ id="x1-200002"><\/a>Anuncios<\/h3>$/;"	I
 x1-210001.11	boletin33.html	/^ id="x1-210001.11"><\/a>Conferenciantes invitados<\/h5>$/;"	I
@@ -1156,34 +1091,47 @@ x1-30010	boletin33.html	/^ id="x1-30010"><\/a>$/;"	I
 x1-310002	boletin33.html	/^ id="x1-310002"><\/a>Anuncios<\/h3>$/;"	I
 x1-310002.3	boletin32/anuncios-N32.html	/^ id="x1-310002.3"><\/a>Roundtable<\/h5>$/;"	I
 x1-310002.3	boletin32/boletin32.html	/^ id="x1-310002.3"><\/a>Roundtable<\/h5>$/;"	I
+x1-320002.1	anuncios_body.html	/^ id="x1-320002.1"><\/a>Convocatoria del XXVII Premio SEMA «Antonio Valle» al Joven Investigado/;"	I
 x1-320002.1	boletin33.html	/^ id="x1-320002.1"><\/a>Convocatoria del XXVII Premio SEMA «Antonio Valle» al Joven Investigado/;"	I
 x1-320002.3	boletin32/anuncios-N32.html	/^ id="x1-320002.3"><\/a>Further information<\/h5>$/;"	I
 x1-320002.3	boletin32/boletin32.html	/^ id="x1-320002.3"><\/a>Further information<\/h5>$/;"	I
+x1-330002.1	anuncios_body.html	/^ id="x1-330002.1"><\/a>Preámbulo<\/h5>$/;"	I
 x1-330002.1	boletin33.html	/^ id="x1-330002.1"><\/a>Preámbulo<\/h5>$/;"	I
 x1-330002.4	boletin32/anuncios-N32.html	/^ id="x1-330002.4"><\/a>Multiscale Methods at the Frontier Between Data and Mathematical Models<\//;"	I
 x1-330002.4	boletin32/boletin32.html	/^ id="x1-330002.4"><\/a>Multiscale Methods at the Frontier Between Data and Mathematical Models<\//;"	I
+x1-340002.1	anuncios_body.html	/^ id="x1-340002.1"><\/a>Bases Generales<\/h5>$/;"	I
 x1-340002.1	boletin33.html	/^ id="x1-340002.1"><\/a>Bases Generales<\/h5>$/;"	I
 x1-340002.4	boletin32/anuncios-N32.html	/^ id="x1-340002.4"><\/a>Minicourses<\/h5>$/;"	I
 x1-340002.4	boletin32/boletin32.html	/^ id="x1-340002.4"><\/a>Minicourses<\/h5>$/;"	I
+x1-350002.1	anuncios_body.html	/^ id="x1-350002.1"><\/a>Bases particulares de la convocatoria 2024<\/h5>$/;"	I
 x1-350002.1	boletin33.html	/^ id="x1-350002.1"><\/a>Bases particulares de la convocatoria 2024<\/h5>$/;"	I
 x1-350002.4	boletin32/anuncios-N32.html	/^ id="x1-350002.4"><\/a>Keynote speakers<\/h5>$/;"	I
 x1-350002.4	boletin32/boletin32.html	/^ id="x1-350002.4"><\/a>Keynote speakers<\/h5>$/;"	I
+x1-360002.2	anuncios_body.html	/^ id="x1-360002.2"><\/a>Évariste Sanchez-Palencia y Jean-Pierre Françoise publican el libro: Di/;"	I
 x1-360002.2	boletin33.html	/^ id="x1-360002.2"><\/a>Évariste Sanchez-Palencia y Jean-Pierre Françoise publican el libro: Di/;"	I
 x1-360002.5	boletin32/anuncios-N32.html	/^ id="x1-360002.5"><\/a>Programa de Investigación Fundamentos Fundación BBVA: Abierta convocato/;"	I
 x1-360002.5	boletin32/boletin32.html	/^ id="x1-360002.5"><\/a>Programa de Investigación Fundamentos Fundación BBVA: Abierta convocato/;"	I
+x1-36001r29	anuncios_body.html	/^ id="x1-36001r29"><\/a>$/;"	I
 x1-36001r29	boletin33.html	/^ id="x1-36001r29"><\/a>$/;"	I
+x1-36002	anuncios_body.html	/^ id="x1-36002"><\/a>$/;"	I
 x1-36002	boletin33.html	/^ id="x1-36002"><\/a>$/;"	I
+x1-36006r30	anuncios_body.html	/^ id="x1-36006r30"><\/a>$/;"	I
 x1-36006r30	boletin33.html	/^ id="x1-36006r30"><\/a>$/;"	I
+x1-36007	anuncios_body.html	/^ id="x1-36007"><\/a>$/;"	I
 x1-36007	boletin33.html	/^ id="x1-36007"><\/a>$/;"	I
+x1-370002.2	anuncios_body.html	/^ id="x1-370002.2"><\/a>Del prefacio<\/h5>$/;"	I
 x1-370002.2	boletin33.html	/^ id="x1-370002.2"><\/a>Del prefacio<\/h5>$/;"	I
 x1-370002.6	boletin32/anuncios-N32.html	/^ id="x1-370002.6"><\/a>Abierta la XVI Convocatoria de los Premios Fundación BBVA Fronteras del$/;"	I
 x1-370002.6	boletin32/boletin32.html	/^ id="x1-370002.6"><\/a>Abierta la XVI Convocatoria de los Premios Fundación BBVA Fronteras del$/;"	I
+x1-380002.2	anuncios_body.html	/^ id="x1-380002.2"><\/a>Sobre los autores:<\/h5>$/;"	I
 x1-380002.2	boletin33.html	/^ id="x1-380002.2"><\/a>Sobre los autores:<\/h5>$/;"	I
 x1-380002.7	boletin32/anuncios-N32.html	/^ id="x1-380002.7"><\/a>XIII Encuentro Andaluz de Matemática Discreta<\/h4>$/;"	I
 x1-380002.7	boletin32/boletin32.html	/^ id="x1-380002.7"><\/a>XIII Encuentro Andaluz de Matemática Discreta<\/h4>$/;"	I
+x1-390002.2	anuncios_body.html	/^ id="x1-390002.2"><\/a>Libros de los autores en el tema:<\/h5>$/;"	I
 x1-390002.2	boletin33.html	/^ id="x1-390002.2"><\/a>Libros de los autores en el tema:<\/h5>$/;"	I
 x1-390002.7	boletin32/anuncios-N32.html	/^ id="x1-390002.7"><\/a>Comité organizador<\/h5>$/;"	I
 x1-390002.7	boletin32/boletin32.html	/^ id="x1-390002.7"><\/a>Comité organizador<\/h5>$/;"	I
+x1-400002.2	anuncios_body.html	/^ id="x1-400002.2"><\/a>Índice general<\/h5>$/;"	I
 x1-400002.2	boletin33.html	/^ id="x1-400002.2"><\/a>Índice general<\/h5>$/;"	I
 x1-400002.8	boletin32/anuncios-N32.html	/^ id="x1-400002.8"><\/a>Sixth workshop on thin structures<\/h4>$/;"	I
 x1-400002.8	boletin32/boletin32.html	/^ id="x1-400002.8"><\/a>Sixth workshop on thin structures<\/h4>$/;"	I
@@ -1196,37 +1144,49 @@ x1-4001r1	boletin33.html	/^ id="x1-4001r1"><\/a>$/;"	I
 x1-4002	boletin32/boletin32.html	/^ id="x1-4002"><\/a>$/;"	I
 x1-4002	boletin32/noticias-N32.html	/^ id="x1-4002"><\/a>$/;"	I
 x1-4002	boletin33.html	/^ id="x1-4002"><\/a>$/;"	I
+x1-410002.3	anuncios_body.html	/^ id="x1-410002.3"><\/a>Santander Workshop on Geometric and Algebraic Combinatorics<\/h4>$/;"	I
 x1-410002.3	boletin33.html	/^ id="x1-410002.3"><\/a>Santander Workshop on Geometric and Algebraic Combinatorics<\/h4>$/;"	I
 x1-410002.8	boletin32/anuncios-N32.html	/^ id="x1-410002.8"><\/a>Invited speakers<\/h5>$/;"	I
 x1-410002.8	boletin32/boletin32.html	/^ id="x1-410002.8"><\/a>Invited speakers<\/h5>$/;"	I
+x1-420002.3	anuncios_body.html	/^ id="x1-420002.3"><\/a><span $/;"	I
 x1-420002.3	boletin33.html	/^ id="x1-420002.3"><\/a><span $/;"	I
 x1-420002.9	boletin32/anuncios-N32.html	/^ id="x1-420002.9"><\/a>Conference of Young Applied Mathematicians<\/h4>$/;"	I
 x1-420002.9	boletin32/boletin32.html	/^ id="x1-420002.9"><\/a>Conference of Young Applied Mathematicians<\/h4>$/;"	I
+x1-430002.3	anuncios_body.html	/^ id="x1-430002.3"><\/a><span $/;"	I
 x1-430002.3	boletin33.html	/^ id="x1-430002.3"><\/a><span $/;"	I
 x1-430002.9	boletin32/anuncios-N32.html	/^ id="x1-430002.9"><\/a>Important dates<\/h5>$/;"	I
 x1-430002.9	boletin32/boletin32.html	/^ id="x1-430002.9"><\/a>Important dates<\/h5>$/;"	I
 x1-440002.10	boletin32/anuncios-N32.html	/^ id="x1-440002.10"><\/a>XX Spanish Meeting on Computational Geometry<\/h4>$/;"	I
 x1-440002.10	boletin32/boletin32.html	/^ id="x1-440002.10"><\/a>XX Spanish Meeting on Computational Geometry<\/h4>$/;"	I
+x1-440002.3	anuncios_body.html	/^ id="x1-440002.3"><\/a><span $/;"	I
 x1-440002.3	boletin33.html	/^ id="x1-440002.3"><\/a><span $/;"	I
 x1-450002.10	boletin32/anuncios-N32.html	/^ id="x1-450002.10"><\/a>Invited speakers<\/h5>$/;"	I
 x1-450002.10	boletin32/boletin32.html	/^ id="x1-450002.10"><\/a>Invited speakers<\/h5>$/;"	I
+x1-450002.4	anuncios_body.html	/^ id="x1-450002.4"><\/a>Congreso Internacional de Matemática Aplicada: ETAMM en Coruña<\/h4>$/;"	I
 x1-450002.4	boletin33.html	/^ id="x1-450002.4"><\/a>Congreso Internacional de Matemática Aplicada: ETAMM en Coruña<\/h4>$/;"	I
 x1-460002.10	boletin32/anuncios-N32.html	/^ id="x1-460002.10"><\/a>Submissions<\/h5>$/;"	I
 x1-460002.10	boletin32/boletin32.html	/^ id="x1-460002.10"><\/a>Submissions<\/h5>$/;"	I
+x1-460002.5	anuncios_body.html	/^ id="x1-460002.5"><\/a>XXVIII CEDYA\/XVIII CMA, Bilbao<\/h4>$/;"	I
 x1-460002.5	boletin33.html	/^ id="x1-460002.5"><\/a>XXVIII CEDYA\/XVIII CMA, Bilbao<\/h4>$/;"	I
 x1-470002.10	boletin32/anuncios-N32.html	/^ id="x1-470002.10"><\/a><span $/;"	I
 x1-470002.10	boletin32/boletin32.html	/^ id="x1-470002.10"><\/a><span $/;"	I
+x1-470002.6	anuncios_body.html	/^ id="x1-470002.6"><\/a>Congreso hispano-franco-alemán de optimización<\/h4>$/;"	I
 x1-470002.6	boletin33.html	/^ id="x1-470002.6"><\/a>Congreso hispano-franco-alemán de optimización<\/h4>$/;"	I
+x1-47001r31	anuncios_body.html	/^ id="x1-47001r31"><\/a>$/;"	I
 x1-47001r31	boletin33.html	/^ id="x1-47001r31"><\/a>$/;"	I
+x1-47002	anuncios_body.html	/^ id="x1-47002"><\/a>$/;"	I
 x1-47002	boletin33.html	/^ id="x1-47002"><\/a>$/;"	I
 x1-480002.10	boletin32/anuncios-N32.html	/^ id="x1-480002.10"><\/a><span $/;"	I
 x1-480002.10	boletin32/boletin32.html	/^ id="x1-480002.10"><\/a><span $/;"	I
+x1-480002.6	anuncios_body.html	/^ id="x1-480002.6"><\/a>Participación.<\/span>$/;"	I
 x1-480002.6	boletin33.html	/^ id="x1-480002.6"><\/a>Participación.<\/span>$/;"	I
 x1-490002.10	boletin32/anuncios-N32.html	/^ id="x1-490002.10"><\/a>Program committee<\/h5>$/;"	I
 x1-490002.10	boletin32/boletin32.html	/^ id="x1-490002.10"><\/a>Program committee<\/h5>$/;"	I
+x1-490002.6	anuncios_body.html	/^ id="x1-490002.6"><\/a>Conferenciantes plenarios.<\/span>$/;"	I
 x1-490002.6	boletin33.html	/^ id="x1-490002.6"><\/a>Conferenciantes plenarios.<\/span>$/;"	I
 x1-500002.10	boletin32/anuncios-N32.html	/^ id="x1-500002.10"><\/a>Organizing committee<\/h5>$/;"	I
 x1-500002.10	boletin32/boletin32.html	/^ id="x1-500002.10"><\/a>Organizing committee<\/h5>$/;"	I
+x1-500002.6	anuncios_body.html	/^ id="x1-500002.6"><\/a>Fechas importantes.<\/span>$/;"	I
 x1-500002.6	boletin33.html	/^ id="x1-500002.6"><\/a>Fechas importantes.<\/span>$/;"	I
 x1-50001.2	boletin32/boletin32.html	/^ id="x1-50001.2"><\/a>María Elena Vázquez Cendón, premio Josefa Wonenburger 2022<\/h4>$/;"	I
 x1-50001.2	boletin32/noticias-N32.html	/^ id="x1-50001.2"><\/a>María Elena Vázquez Cendón, premio Josefa Wonenburger 2022<\/h4>$/;"	I
@@ -1239,23 +1199,33 @@ x1-5002	boletin32/noticias-N32.html	/^ id="x1-5002"><\/a>$/;"	I
 x1-5002	boletin33.html	/^ id="x1-5002"><\/a>$/;"	I
 x1-510002.11	boletin32/anuncios-N32.html	/^ id="x1-510002.11"><\/a>Congreso Europeo de Matemáticas<\/h4>$/;"	I
 x1-510002.11	boletin32/boletin32.html	/^ id="x1-510002.11"><\/a>Congreso Europeo de Matemáticas<\/h4>$/;"	I
+x1-510002.7	anuncios_body.html	/^ id="x1-510002.7"><\/a>Boundary and Interior Layers (BAIL) Conference<\/h4>$/;"	I
 x1-510002.7	boletin33.html	/^ id="x1-510002.7"><\/a>Boundary and Interior Layers (BAIL) Conference<\/h4>$/;"	I
 x1-520002.12	boletin32/anuncios-N32.html	/^ id="x1-520002.12"><\/a>Becas Máster Matemáticas y Aplicaciones UAM<\/h4>$/;"	I
 x1-520002.12	boletin32/boletin32.html	/^ id="x1-520002.12"><\/a>Becas Máster Matemáticas y Aplicaciones UAM<\/h4>$/;"	I
+x1-520002.7	anuncios_body.html	/^ id="x1-520002.7"><\/a>Sponsors<\/h5>$/;"	I
 x1-520002.7	boletin33.html	/^ id="x1-520002.7"><\/a>Sponsors<\/h5>$/;"	I
 x1-530002.13	boletin32/anuncios-N32.html	/^ id="x1-530002.13"><\/a><span $/;"	I
 x1-530002.13	boletin32/boletin32.html	/^ id="x1-530002.13"><\/a><span $/;"	I
+x1-530002.8	anuncios_body.html	/^ id="x1-530002.8"><\/a>VIII Encuentro ALAMA: Álgebra Lineal, Análisis Matricial y Aplicaciones/;"	I
 x1-530002.8	boletin33.html	/^ id="x1-530002.8"><\/a>VIII Encuentro ALAMA: Álgebra Lineal, Análisis Matricial y Aplicaciones/;"	I
 x1-540002.13	boletin32/anuncios-N32.html	/^ id="x1-540002.13"><\/a><span $/;"	I
 x1-540002.13	boletin32/boletin32.html	/^ id="x1-540002.13"><\/a><span $/;"	I
+x1-540002.9	anuncios_body.html	/^ id="x1-540002.9"><\/a>Geometric And Variational Analysis In memory of Jan Malý<\/h4>$/;"	I
 x1-540002.9	boletin33.html	/^ id="x1-540002.9"><\/a>Geometric And Variational Analysis In memory of Jan Malý<\/h4>$/;"	I
+x1-550002.9	anuncios_body.html	/^ id="x1-550002.9"><\/a>Conference details<\/h5>$/;"	I
 x1-550002.9	boletin33.html	/^ id="x1-550002.9"><\/a>Conference details<\/h5>$/;"	I
 x1-550003	boletin32/boletin32.html	/^ id="x1-550003"><\/a><span $/;"	I
+x1-560002.9	anuncios_body.html	/^ id="x1-560002.9"><\/a>Invited speakers<\/h5>$/;"	I
 x1-560002.9	boletin33.html	/^ id="x1-560002.9"><\/a>Invited speakers<\/h5>$/;"	I
 x1-560004	boletin32/boletin32.html	/^ id="x1-560004"><\/a><span $/;"	I
+x1-570002.9	anuncios_body.html	/^ id="x1-570002.9"><\/a>Participation opportunities<\/h5>$/;"	I
 x1-570002.9	boletin33.html	/^ id="x1-570002.9"><\/a>Participation opportunities<\/h5>$/;"	I
+x1-580002.9	anuncios_body.html	/^ id="x1-580002.9"><\/a>Registration and fees<\/h5>$/;"	I
 x1-580002.9	boletin33.html	/^ id="x1-580002.9"><\/a>Registration and fees<\/h5>$/;"	I
+x1-590002.9	anuncios_body.html	/^ id="x1-590002.9"><\/a>Organizing committee<\/h5>$/;"	I
 x1-590002.9	boletin33.html	/^ id="x1-590002.9"><\/a>Organizing committee<\/h5>$/;"	I
+x1-600002.10	anuncios_body.html	/^ id="x1-600002.10"><\/a>Discrete Mathematics Days 2024, Alcalá de Henares<\/h4>$/;"	I
 x1-600002.10	boletin33.html	/^ id="x1-600002.10"><\/a>Discrete Mathematics Days 2024, Alcalá de Henares<\/h4>$/;"	I
 x1-60001.3	boletin32/boletin32.html	/^ id="x1-60001.3"><\/a>Los catedráticos Juan Ignacio Montijano y Luis Rández reciben la distinc/;"	I
 x1-60001.3	boletin32/noticias-N32.html	/^ id="x1-60001.3"><\/a>Los catedráticos Juan Ignacio Montijano y Luis Rández reciben la distinc/;"	I
@@ -1264,10 +1234,15 @@ x1-6001r3	boletin32/boletin32.html	/^ id="x1-6001r3"><\/a>$/;"	I
 x1-6001r3	boletin32/noticias-N32.html	/^ id="x1-6001r3"><\/a>$/;"	I
 x1-6002	boletin32/boletin32.html	/^ id="x1-6002"><\/a>$/;"	I
 x1-6002	boletin32/noticias-N32.html	/^ id="x1-6002"><\/a>$/;"	I
+x1-610002.10	anuncios_body.html	/^ id="x1-610002.10"><\/a>Organizing committee<\/h5>$/;"	I
 x1-610002.10	boletin33.html	/^ id="x1-610002.10"><\/a>Organizing committee<\/h5>$/;"	I
+x1-620002.11	anuncios_body.html	/^ id="x1-620002.11"><\/a>Resumen de tesis<\/h4>$/;"	I
 x1-620002.11	boletin33.html	/^ id="x1-620002.11"><\/a>Resumen de tesis<\/h4>$/;"	I
+x1-630002.12	anuncios_body.html	/^ id="x1-630002.12"><\/a><span $/;"	I
 x1-630002.12	boletin33.html	/^ id="x1-630002.12"><\/a><span $/;"	I
+x1-640002.12	anuncios_body.html	/^ id="x1-640002.12"><\/a><span $/;"	I
 x1-640002.12	boletin33.html	/^ id="x1-640002.12"><\/a><span $/;"	I
+x1-650002.12	anuncios_body.html	/^ id="x1-650002.12"><\/a><a $/;"	I
 x1-650002.12	boletin33.html	/^ id="x1-650002.12"><\/a><a $/;"	I
 x1-660003	boletin33.html	/^ id="x1-660003"><\/a>SEMA <span $/;"	I
 x1-670004	boletin33.html	/^ id="x1-670004"><\/a>Socios institucionales<\/h3>$/;"	I
@@ -1327,7 +1302,6 @@ x1-90001.6	boletin32/noticias-N32.html	/^ id="x1-90001.6"><\/a>Renovación de la
 x1-90001.6	boletin33.html	/^ id="x1-90001.6"><\/a>Jornada de Sociedades COSCE 2023<\/h4>$/;"	I
 x11-430008	boletin32/institucionales-N32.html	/^ id="x11-430008"><\/a>Socios institucionales<\/h3>$/;"	I
 x2-1000	boletin32/editorial-N32.html	/^ id="x2-1000"><\/a>Editorial<\/h3>$/;"	I
+x2-1000	editorial_body.html	/^ id="x2-1000"><\/a>Editorial<\/h3>$/;"	I
 x8-450005	boletin32/sema-journal-N32.html	/^ id="x8-450005"><\/a>SEMA <span $/;"	I
 xlink	boletin330x.svg	/^<svg version='1.1' xmlns='http:\/\/www.w3.org\/2000\/svg' xmlns:xlink='http:\/\/www.w3.org\/1999/;"	n	uri:http://www.w3.org/1999/xlink
-Évariste Sanchez-Palencia y Jean-Pierre Françoise publican el libro: Dialectique dans les sciences et systèmes dynamiques. Le Temps des Cerises, 2023, 240~p.	eugenia_libro_SP_12_11.tex	/^\\subsection{Évariste Sanchez-Palencia y  Jean-Pierre Françoise publican el libro: Dialectique/;"	u	section:Anuncios
-Índice general	eugenia_libro_SP_12_11.tex	/^\\subsubsection*{Índice general}$/;"	b	subsection:Anuncios""Évariste Sanchez-Palencia y Jean-Pierre Françoise publican el libro: Dialectique dans les sciences et systèmes dynamiques. Le Temps des Cerises, 2023, 240~p.
