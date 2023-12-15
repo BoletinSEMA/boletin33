@@ -302,11 +302,13 @@ Número 33, diciembre 2023	header.html	/^    <h2>Número 33, diciembre 2023<\/h2
 Palabras del presidente	boletin32/boletin32.html	/^ id="x1-2000"><\/a>Palabras del presidente<\/h3>$/;"	j
 Palabras del presidente	boletin32/palabras_presidente-N32.html	/^ id="x1-2000"><\/a>Palabras del presidente<\/h3>$/;"	j
 Palabras del presidente	boletin33.html	/^ id="x1-2000"><\/a>Palabras del presidente<\/h3>$/;"	j
+Palabras del presidente	palabras_presidente_body.html	/^ id="x1-2000"><\/a>Palabras del presidente<\/h3>$/;"	j
 Q1-1-2	boletin32/boletin32.html	/^ id="Q1-1-2"><\/a>$/;"	I
 Q1-1-2	boletin33.html	/^ id="Q1-1-2"><\/a>$/;"	I
 Q1-1-4	boletin32/boletin32.html	/^ id="Q1-1-4"><\/a>$/;"	I
 Q1-1-4	boletin32/palabras_presidente-N32.html	/^ id="Q1-1-4"><\/a>$/;"	I
 Q1-1-4	boletin33.html	/^ id="Q1-1-4"><\/a>$/;"	I
+Q1-1-4	palabras_presidente_body.html	/^ id="Q1-1-4"><\/a>$/;"	I
 Q1-2-2	boletin32/editorial-N32.html	/^ id="Q1-2-2"><\/a>$/;"	I
 QQ2-1-1	boletin32/boletin32.html	/^href="#x1-1000" id="QQ2-1-1">Editorial<\/a><\/span>$/;"	I
 QQ2-1-1	boletin33.html	/^href="#x1-1000" id="QQ2-1-1">Editorial<\/a><\/span>$/;"	I
@@ -360,38 +362,47 @@ TBL-2	boletin32/boletin32.html	/^<\/p><!--l. 105--><p class="indent" >   <!--tex
 TBL-2	boletin32/editorial-N32.html	/^    <div class="tabular"> <table id="TBL-2" class="tabular" $/;"	I
 TBL-2	boletin32/palabras_presidente-N32.html	/^<\/p><!--l. 105--><p class="indent" >   <!--tex4ht:inline--><\/p><div class="tabular"> <table id/;"	I
 TBL-2	boletin33.html	/^<\/p><!--l. 98--><p class="indent" >   <!--tex4ht:inline--><\/p><div class="tabular"> <table id=/;"	I
+TBL-2	palabras_presidente_body.html	/^<\/p><!--l. 98--><p class="indent" >   <!--tex4ht:inline--><\/p><div class="tabular"> <table id=/;"	I
 TBL-2-1	boletin32/boletin32.html	/^id="TBL-2-1" \/><\/colgroup><tr  $/;"	I
 TBL-2-1	boletin32/editorial-N32.html	/^        id="TBL-2-1" \/><\/colgroup><tr  $/;"	I
 TBL-2-1	boletin32/palabras_presidente-N32.html	/^id="TBL-2-1" \/><\/colgroup><tr  $/;"	I
 TBL-2-1	boletin33.html	/^id="TBL-2-1" \/><\/colgroup><tr  $/;"	I
+TBL-2-1	palabras_presidente_body.html	/^id="TBL-2-1" \/><\/colgroup><tr  $/;"	I
 TBL-2-1-	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-2-1-"><td  style="white-space:nowrap; text-align:left;/;"	I
 TBL-2-1-	boletin32/editorial-N32.html	/^          style="vertical-align:baseline;" id="TBL-2-1-"><td  style="white-space:nowrap; text-al/;"	I
 TBL-2-1-	boletin32/editorial-N32.html	/^        style="vertical-align:baseline;" id="TBL-2-1-"><td  style="white-space:nowrap; text-alig/;"	I
 TBL-2-1-	boletin32/palabras_presidente-N32.html	/^ style="vertical-align:baseline;" id="TBL-2-1-"><td  style="white-space:nowrap; text-align:left;/;"	I
 TBL-2-1-	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-2-1-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-2-1-	palabras_presidente_body.html	/^ style="vertical-align:baseline;" id="TBL-2-1-"><td  style="white-space:nowrap; text-align:left;/;"	I
 TBL-2-1-1	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-2-1-"><td  style="white-space:nowrap; text-align:left;/;"	I
 TBL-2-1-1	boletin32/editorial-N32.html	/^          style="vertical-align:baseline;" id="TBL-2-1-"><td  style="white-space:nowrap; text-al/;"	I
 TBL-2-1-1	boletin32/editorial-N32.html	/^        style="vertical-align:baseline;" id="TBL-2-1-"><td  style="white-space:nowrap; text-alig/;"	I
 TBL-2-1-1	boletin32/palabras_presidente-N32.html	/^ style="vertical-align:baseline;" id="TBL-2-1-"><td  style="white-space:nowrap; text-align:left;/;"	I
 TBL-2-1-1	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-2-1-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-2-1-1	palabras_presidente_body.html	/^ style="vertical-align:baseline;" id="TBL-2-1-"><td  style="white-space:nowrap; text-align:left;/;"	I
 TBL-2-1g	boletin32/boletin32.html	/^><colgroup id="TBL-2-1g"><col $/;"	I
 TBL-2-1g	boletin32/editorial-N32.html	/^      align="right" ><colgroup id="TBL-2-1g"><col $/;"	I
 TBL-2-1g	boletin32/palabras_presidente-N32.html	/^><colgroup id="TBL-2-1g"><col $/;"	I
 TBL-2-1g	boletin33.html	/^><colgroup id="TBL-2-1g"><col $/;"	I
+TBL-2-1g	palabras_presidente_body.html	/^><colgroup id="TBL-2-1g"><col $/;"	I
 TBL-2-2-	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-2-2-"><td  style="white-space:nowrap; text-align:left;/;"	I
 TBL-2-2-	boletin32/editorial-N32.html	/^        style="vertical-align:baseline;" id="TBL-2-2-"><td  style="white-space:nowrap; text-alig/;"	I
 TBL-2-2-	boletin32/palabras_presidente-N32.html	/^ style="vertical-align:baseline;" id="TBL-2-2-"><td  style="white-space:nowrap; text-align:left;/;"	I
 TBL-2-2-	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-2-2-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-2-2-	palabras_presidente_body.html	/^ style="vertical-align:baseline;" id="TBL-2-2-"><td  style="white-space:nowrap; text-align:left;/;"	I
 TBL-2-2-1	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-2-2-"><td  style="white-space:nowrap; text-align:left;/;"	I
 TBL-2-2-1	boletin32/editorial-N32.html	/^        style="vertical-align:baseline;" id="TBL-2-2-"><td  style="white-space:nowrap; text-alig/;"	I
 TBL-2-2-1	boletin32/palabras_presidente-N32.html	/^ style="vertical-align:baseline;" id="TBL-2-2-"><td  style="white-space:nowrap; text-align:left;/;"	I
 TBL-2-2-1	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-2-2-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-2-2-1	palabras_presidente_body.html	/^ style="vertical-align:baseline;" id="TBL-2-2-"><td  style="white-space:nowrap; text-align:left;/;"	I
 TBL-2-3-	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-2-3-"><td  style="white-space:nowrap; text-align:left;/;"	I
 TBL-2-3-	boletin32/palabras_presidente-N32.html	/^ style="vertical-align:baseline;" id="TBL-2-3-"><td  style="white-space:nowrap; text-align:left;/;"	I
 TBL-2-3-	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-2-3-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-2-3-	palabras_presidente_body.html	/^ style="vertical-align:baseline;" id="TBL-2-3-"><td  style="white-space:nowrap; text-align:left;/;"	I
 TBL-2-3-1	boletin32/boletin32.html	/^ style="vertical-align:baseline;" id="TBL-2-3-"><td  style="white-space:nowrap; text-align:left;/;"	I
 TBL-2-3-1	boletin32/palabras_presidente-N32.html	/^ style="vertical-align:baseline;" id="TBL-2-3-"><td  style="white-space:nowrap; text-align:left;/;"	I
 TBL-2-3-1	boletin33.html	/^ style="vertical-align:baseline;" id="TBL-2-3-"><td  style="white-space:nowrap; text-align:left;/;"	I
+TBL-2-3-1	palabras_presidente_body.html	/^ style="vertical-align:baseline;" id="TBL-2-3-"><td  style="white-space:nowrap; text-align:left;/;"	I
 TBL-3	boletin32/anuncios-N32.html	/^<div class="tabular"> <table id="TBL-3" class="tabular" $/;"	I
 TBL-3	boletin32/boletin32.html	/^<div class="tabular"> <table id="TBL-3" class="tabular" $/;"	I
 TBL-3	boletin33.html	/^<\/p><!--l. 55--><p class="indent" >   <!--tex4ht:inline--><\/p><div class="tabular"> <table id=/;"	I
@@ -1019,6 +1030,7 @@ x1-190001.12	boletin32/noticias-N32.html	/^ id="x1-190001.12"><\/a>Resumen de te
 x1-2000	boletin32/boletin32.html	/^ id="x1-2000"><\/a>Palabras del presidente<\/h3>$/;"	I
 x1-2000	boletin32/palabras_presidente-N32.html	/^ id="x1-2000"><\/a>Palabras del presidente<\/h3>$/;"	I
 x1-2000	boletin33.html	/^ id="x1-2000"><\/a>Palabras del presidente<\/h3>$/;"	I
+x1-2000	palabras_presidente_body.html	/^ id="x1-2000"><\/a>Palabras del presidente<\/h3>$/;"	I
 x1-200001.11	boletin33.html	/^ id="x1-200001.11"><\/a>Comité organizador<\/h5>$/;"	I
 x1-200002	anuncios_body.html	/^ id="x1-200002"><\/a>Anuncios<\/h3>$/;"	I
 x1-200002	boletin32/anuncios-N32.html	/^ id="x1-200002"><\/a>Anuncios<\/h3>$/;"	I
